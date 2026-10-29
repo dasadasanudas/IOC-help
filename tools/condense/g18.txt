@@ -1,0 +1,54 @@
+516454|Group 18 (noble gases): He, Ne, Ar, Kr, Xe, Rn, Og; gases, very unreactive, few compounds.
+8473d2|All except Rn and Og occur in the atmosphere (~1% of dry air, mostly Ar).
+d03c33|He (sometimes Ne) in radioactive minerals (pitchblende, monazite, cleveite); main commercial He source: natural gas.
+620ab3|Xe and Rn are the rarest.
+846ffc|=
+38364f|=
+467b43|Filled valence shells; react only with a few elements under special conditions.
+41d6e5|Og: Z = 118, [Rn] 5f^14 6d^10 7s^2 7p^6, t½ 0.7 ms.
+df6c00|=
+a0ac81|ns^2np^6, **except He 1s^2**.
+8c13be|Inertness and other properties come from closed shells.
+70d0c8|Very high ∆iH; decreases down the group.
+b1e64a|Atomic radii increase down the group.
+f004ed|**Large positive ∆egH** (no tendency to accept electrons).
+a1b511|Monoatomic; colourless, odourless, tasteless; sparingly soluble in water.
+b950f3|Very low m.p./b.p.: only weak dispersion forces.
+00c81e|**He has the lowest b.p. of any substance (4.2 K).**
+1309e2|He diffuses through rubber, glass, plastics.
+778e34|Least reactive because (i) filled ns^2np^6 (He 1s^2), (ii) high ∆iH and positive ∆egH.
+33fc64|First noble-gas reaction: O2 + PtF6 gave red O2^+PtF6^–.
+4abf86|∆iH1 of O2 (1175 kJ mol^–1) ≈ Xe (1170 kJ mol^–1).
+9d8d87|So Xe + PtF6 → red Xe^+PtF6^–.
+c89de5|Many Xe compounds followed, mostly with F and O.
+4f0896|Kr: few compounds; only KrF2 studied in detail.
+2cfe72|**Rn compounds only identified (e.g. RnF2) by radiotracer, not isolated.**
+852864|Monoatomic, only dispersion forces, so liquefied only at very low T.
+09804f|**No true compounds of Ar, Ne or He.**
+c47594|Rn is radioactive with a very short half-life, which hampers its study.
+412807|Xe forms XeF2, XeF4, XeF6 by direct reaction.
+c2b92a|=
+c859ab|=
+94db9b|=
+e026bd|XeF4 + O2F2 → XeF6 + O2 (143 K)
+f6e310|Xe fluorides: colourless crystalline solids, sublime readily at 298 K; powerful fluorinating agents.
+eb9bc0|Hydrolysed even by traces of water: 2XeF2 + 2H2O → 2Xe + 4HF + O2
+116240|**XeF2 linear, XeF4 square planar** (VSEPR).
+c6ac17|**XeF6: 6 bp + 1 lp, distorted octahedral** (gas phase).
+f0926b|With F^– acceptors they form cations; with F^– donors, fluoroanions.
+d7e129|=
+5f4bcd|=
+416489|XeO3 from hydrolysis: 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2; XeF6 + 3H2O → XeO3 + 6HF
+66bf47|Partial hydrolysis of XeF6: XeF6 + H2O → XeOF4 + 2HF; XeF6 + 2H2O → XeO2F2 + 4HF
+1d6707|**XeO3: colourless explosive solid, pyramidal.**
+ff00da|**XeOF4: colourless volatile liquid, square pyramidal.**
+631505|Partial hydrolysis of XeF6 is **not a redox reaction** (oxidation states unchanged).
+93dc25|He: non-inflammable, light; weather balloons; gas-cooled nuclear reactors.
+30153a|Liquid He (4.2 K): cryogenic agent.
+e12fef|He: superconducting magnets for NMR and MRI.
+1bac48|He dilutes O2 in diving apparatus (very low solubility in blood).
+22e5fe|Ne: discharge tubes, fluorescent advertising bulbs; neon bulbs in botanical gardens, greenhouses.
+596568|Ar: inert atmosphere for high-T metallurgy (arc welding); filling bulbs.
+1d71c7|Ar: handling air-sensitive substances.
+55ed0a|Xe, Kr: special-purpose light bulbs only.
+252d16|-

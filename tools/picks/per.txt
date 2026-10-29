@@ -1,0 +1,136 @@
+@src per
+# Genesis of periodic classification
+20+21 The German chemist, Johann Dobereiner in early 1800’s was the first to consider the idea of trends among properties of elements. By 1829 he noted a similarity among the physical and chemical properties of several groups of three elements (Triads).
+22 In each case, he noticed that the middle element of each of the Triads had an atomic weight about half way between the atomic weights of the other two.
+32T Table 3.1 Dobereiner’s Triads: Li, Na, K; Ca, Sr, Ba; Cl, Br, I.
+32 This relationship, referred to as the Law of Triads, seemed to work only for a few elements, it was dismissed as coincidence.
+33+34 The next reported attempt to classify elements was made by a French geologist, A.E.B. de Chancourtois in 1862. He arranged the then known elements in order of increasing atomic weights and made a cylindrical table of elements to display the periodic recurrence of properties.
+26+27 The English chemist, John Alexander Newlands in 1865 profounded the Law of Octaves. He arranged the elements in increasing order of their atomic weights and noted that every eighth element had properties similar to the first element.
+29! Newlands’s Law of Octaves seemed to be true only for elements up to calcium.
+30 Although his idea was not widely accepted at that time, he, for his work, was later awarded Davy Medal in 1887 by the Royal Society, London.
+34 Working independently, both the chemists in 1869 proposed that on arranging elements in the increasing order of their atomic weights, similarities appear in physical and chemical properties at regular intervals.
+35+36+37 Lothar Meyer plotted the physical properties such as atomic volume, melting point and boiling point against atomic weight and obtained a periodically repeated pattern. Unlike Newlands, Lothar Meyer observed a change in length of that repeating pattern.
+40+41 While Dobereiner initiated the study of periodic relationship, it was Mendeleev who was responsible for publishing the Periodic Law for the first time. It states as follows: The properties of the elements are a periodic function of their atomic weights.
+45 In particular, Mendeleev relied on the similarities in the empirical formulas and properties of the compounds formed by the elements.
+48! For example, iodine with lower atomic weight than that of tellurium (Group VI) was placed in Group VII along with fluorine, chlorine, bromine because of similarities in properties.
+50+51 For example, both gallium and germanium were unknown at the time Mendeleev published his Periodic Table. He left the gap under aluminium and a gap under silicon, and called these elements Eka-Aluminium and Eka-Silicon.
+57T Table 3.3: Eka-aluminium predicted atomic weight 68, gallium found 70; eka-silicon predicted 72, germanium found 72.6; densities 5.9 vs 5.94 and 5.5 vs 5.36 g/cm^3; oxides E2O3 → Ga2O3 and EO2 → GeO2; chlorides ECl3 → GaCl3 and ECl4 → GeCl4.
+# Modern periodic law
+61+62 In 1913, the English physicist, Henry Moseley observed regularities in the characteristic X-ray spectra of the elements. A plot of √ν (where ν is frequency of X-rays emitted) against atomic number (Z) gave a straight line and not the plot of √ν vs atomic mass.
+63 He thereby showed that the atomic number is a more fundamental property of an element than its atomic mass.
+65 This is known as the Modern Periodic Law and can be stated as: The physical and chemical properties of the elements are periodic functions of their atomic numbers.
+66 The Periodic Law revealed important analogies among the 94 naturally occurring elements (neptunium and plutonium like actinium and protoactinium are also found in pitch blende – an ore of uranium).
+70 In fact, it is now recognized that the Periodic Law is essentially the consequence of the periodic variation in electronic configurations, which indeed determine the physical and chemical properties of elements and their compounds.
+76 According to the recommendation of International Union of Pure and Applied Chemistry (IUPAC), the groups are numbered from 1 to 18 replacing the older notation of groups IA … VIIA, VIII, IB … VIIB and 0.
+77+78 There are altogether seven periods. The period number corresponds to the highest principal quantum number (n) of the elements in the period.
+79+80+81 The first period contains 2 elements. The subsequent periods consists of 8, 8, 18, 18 and 32 elements, respectively. The seventh period is incomplete and like the sixth period would have a theoretical maximum (on the basis of quantum numbers) of 32 elements.
+83+84+85 Glenn T. Seaborg’s work in the middle of the 20th century starting with the discovery of plutonium in 1940, followed by those of all the transuranium elements from 94 to 102 led to reconfiguration of the periodic table placing the actinoids below the lanthanoids. In 1951, Seaborg was awarded the Nobel Prize in chemistry for his work. Element 106 has been named Seaborgium (Sg) in his honour.
+# Nomenclature of elements with Z > 100
+95+96 For example, both American and Soviet scientists claimed credit for discovering element 104. The Americans named it Rutherfordium whereas Soviets named it Kurchatovium.
+97 The IUPAC has made recommendation that until a new element’s discovery is proved, and its name is officially recognised, a systematic nomenclature be derived directly from the atomic number of the element using the numerical roots for 0 and numbers 1-9.
+99 The roots are put together in order of digits which make up the atomic number and “ium” is added at the end.
+101T Table 3.5: 101 Unnilunium (Unu), 102 Unnilbium (Unb), 103 Unniltrium (Unt), 104 Unnilquadium (Unq), 105 Unnilpentium (Unp), 106 Unnilhexium (Unh), 107 Unnilseptium (Uns), 108 Unniloctium (Uno), 109 Unnilennium (Une), 110 Ununnillium (Uun), 111 Unununnium (Uuu), 112 Ununbium (Uub).
+102 Thus, the new element first gets a temporary name, with symbol consisting of three letters.
+106+107 From Table 3.4, the roots for 1, 2 and 0 are un, bi and nil, respectively. Hence, the symbol and the name respectively are Ubn and unbinilium.
+# Electronic configurations and the periodic table
+114 It can be readily seen that the number of elements in each period is twice the number of atomic orbitals available in the energy level that is being filled.
+120 Now you may note that before the 4p orbital is filled, filling up of 3d orbitals becomes energetically favourable and we come across the so called 3d transition series of elements.
+127 The sixth period (n = 6) contains 32 elements and successive electrons enter 6s, 4f, 5d and 6p orbitals, in the order — filling up of the 4f orbitals begins with cerium (Z = 58) and ends at lutetium (Z = 71) to give the 4f-inner transition series which is called the lanthanoid series.
+128 The seventh period (n = 7) is similar to the sixth period with the successive filling up of the 7s, 5f, 6d and 7p orbitals and includes most of the man-made radioactive elements.
+130+131 Filling up of the 5f orbitals after actinium (Z = 89) gives the 5f-inner transition series known as the actinoid series.
+132 The 4f- and 5f-inner transition series of elements are placed separately in the Periodic Table to maintain its structure and to preserve the principle of classification by keeping elements with similar properties in a single column.
+135+136+137 The order in which the energy of the available orbitals 4d, 5s and 5p increases is 5s < 4d < 5p. The total number of orbitals available are 9. The maximum number of electrons that can be accommodated is 18; and therefore 18 elements are there in the 5th period.
+145! Strictly, helium belongs to the s-block but its positioning in the p-block along with other group 18 elements is justified because it has a completely filled valence shell (1s^2) and as a result, exhibits properties characteristic of other noble gases.
+146+147+148! The other exception is hydrogen. It has only one s-electron and hence can be placed in group 1 (alkali metals). It can also gain an electron to achieve a noble gas arrangement and hence it can behave similar to a group 17 (halogen family) elements.
+# s-, p-, d-, f-blocks
+153 The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) which have ns^1 and ns^2 outermost electronic configuration belong to the s-Block Elements.
+158+159 They are all reactive metals with low ionization enthalpies. They lose the outermost electron(s) readily to form 1+ ion (in the case of alkali metals) or 2+ ion (in the case of alkaline earth metals).
+160+161 The metallic character and the reactivity increase as we go down the group. Because of high reactivity they are never found pure in nature.
+162! The compounds of the s-block elements, with the exception of those of lithium and beryllium are predominantly ionic.
+163+164 The p-Block Elements comprise those belonging to Group 13 to 18 and these together with the s-Block Elements are called the Representative Elements or Main Group Elements. The outermost electronic configuration varies from ns^2np^1 to ns^2np^6 in each period.
+169+170 They are the halogens (Group 17) and the chalcogens (Group 16). These two groups of elements have highly negative electron gain enthalpies and readily add one or two electrons respectively to attain the stable noble gas configuration.
+173 These elements have the general outer electronic configuration (n-1)d^1-10 ns^0-2 except for Pd where its electronic configuration is 4d^10 5s^0.
+175+176! They mostly form coloured ions, exhibit variable valence (oxidation states), paramagnetism and oftenly used as catalysts. However, Zn, Cd and Hg which have the electronic configuration, (n-1)d^10 ns^2 do not show most of the properties of transition elements.
+177 In a way, transition metals form a bridge between the chemically active metals of s-block elements and the less active elements of Groups 13 and 14 and thus take their familiar name “Transition Elements”.
+178 The two rows of elements at the bottom of the Periodic Table, called the Lanthanoids, Ce(Z = 58) – Lu(Z = 71) and Actinoids, Th(Z = 90) – Lr (Z = 103) are characterised by the outer electronic configuration (n-2)f^1-14 (n-1)d^0–1 ns^2.
+182+183 The chemistry of the early actinoids is more complicated than the corresponding lanthanoids, due to the large number of oxidation states possible for these actinoid elements. Actinoid elements are radioactive.
+185 The elements after uranium are called Transuranium Elements.
+188 Element with Z = 117, would belong to the halogen family (Group 17) and the electronic configuration would be [Rn] 5f^14 6d^10 7s^2 7p^5.
+189 The element with Z = 120, will be placed in Group 2 (alkaline earth metals), and will have the electronic configuration [Uuo]8s^2.
+# Metals, non-metals and metalloids
+193 Metals comprise more than 78% of all known elements and appear on the left side of the Periodic Table.
+194! Metals are usually solids at room temperature [mercury is an exception; gallium and caesium also have very low melting points (303K and 302K, respectively)].
+200! Non-metals are usually solids or gases at room temperature with low melting and boiling points (boron and carbon are exceptions).
+205+206 The elements (e.g., silicon, germanium, arsenic, antimony and tellurium) bordering this line and running diagonally across the Periodic Table show properties that are characteristic of both metals and non-metals. These elements are called Semi-metals or Metalloids.
+208 Hence the order of increasing metallic character is: P < Si < Be < Mg < Na.
+209+210 For example, within a period, chemical reactivity tends to be high in Group 1 metals, lower in elements towards the middle of the table, and increases to a maximum in the Group 17 non-metals. Likewise within a group of representative metals (say alkali metals) reactivity increases on moving down the group, whereas within a group of non-metals (say halogens), reactivity decreases down the group.
+# Atomic radius
+223+224 One practical approach to estimate the size of an atom of a non-metallic element is to measure the distance between two atoms when they are bound together by a single bond in a covalent molecule and from this value, the “Covalent Radius” of the element can be calculated. For example, the bond distance in the chlorine molecule (Cl2) is 198 pm and half this distance (99 pm), is taken as the atomic radius of chlorine.
+225 For metals, we define the term “Metallic Radius” which is taken as half the internuclear distance separating the metal cores in the metallic crystal. For example, the distance between two adjacent copper atoms in solid copper is 256 pm; hence the metallic radius of copper is assigned a value of 128 pm.
+230+231 The atomic size generally decreases across a period. It is because within the period the outer electrons are in the same valence shell and the effective nuclear charge increases as the atomic number increases resulting in the increased attraction of electrons to the nucleus.
+232 Within a family or vertical column of the periodic table, the atomic radius increases regularly with atomic number.
+236+237+238! Note that the atomic radii of noble gases are not considered here. Being monoatomic, their (non-bonded radii) values are very large. In fact radii of noble gases should be compared not with the covalent radii but with the van der Waals radii of other elements.
+239T Table 3.6: Period II Li 152, Be 111, B 88, C 77, N 74, O 66, F 64 pm; Period III Na 186, Mg 160, Al 143, Si 117, P 110, S 104, Cl 99 pm; Group 1 Li 152, Na 186, K 231, Rb 244, Cs 262; Group 17 F 64, Cl 99, Br 114, I 133, At 140 pm.
+# Ionic radius
+243 A cation is smaller than its parent atom because it has fewer electrons while its nuclear charge remains the same.
+244 The size of an anion will be larger than that of the parent atom because the addition of one or more electrons would result in increased repulsion among the electrons and a decrease in effective nuclear charge.
+245+246 For example, the ionic radius of fluoride ion (F^–) is 136 pm whereas the atomic radius of fluorine is only 64 pm. On the other hand, the atomic radius of sodium is 186 pm compared to the ionic radius of 95 pm for Na^+.
+247+248+249 When we find some atoms and ions which contain the same number of electrons, we call them isoelectronic species. For example, O^2–, F^–, Na^+ and Mg^2+ have the same number of electrons (10). Their radii would be different because of their different nuclear charges.
+250+251 The cation with the greater positive charge will have a smaller radius because of the greater attraction of the electrons to the nucleus. Anion with the greater negative charge will have the larger radius.
+258 Hence the largest species is Mg; the smallest one is Al^3+.
+# Ionization enthalpy
+260 It represents the energy required to remove an electron from an isolated gaseous atom (X) in its ground state.
+265+266 Energy is always required to remove electrons from an atom and hence ionization enthalpies are always positive. The second ionization enthalpy will be higher than the first ionization enthalpy because it is more difficult to remove an electron from a positively charged ion than from a neutral atom.
+271+272 You will find maxima at the noble gases which have closed electron shells and very stable electron configurations. On the other hand, minima occur at the alkali metals and their low ionization enthalpies can be correlated with their high reactivity.
+273 The first ionization enthalpy generally increases as we go across a period and decreases as we descend in a group.
+277+278 The effective nuclear charge experienced by a valence electron in an atom will be less than the actual charge on the nucleus because of “shielding” or “screening” of the valence electron from the nucleus by the intervening core electrons.
+281 In general, shielding is effective when the orbitals in the inner shells are completely filled.
+284+285 Thus, across a period, increasing nuclear charge outweighs the shielding. Consequently, the outermost electrons are held more and more tightly and the ionization enthalpy increases across a period.
+287 In this case, increase in shielding outweighs the increasing nuclear charge and the removal of the outermost electron requires less energy down a group.
+288! The first ionization enthalpy of boron (Z = 5) is slightly less than that of beryllium (Z = 4) even though the former has a greater nuclear charge.
+289 When we consider the same principal quantum level, an s-electron is attracted to the nucleus more than a p-electron.
+291+292! The penetration of a 2s-electron to the nucleus is more than that of a 2p-electron; hence the 2p electron of boron is more shielded from the nucleus by the inner core of electrons than the 2s electrons of beryllium. Therefore, it is easier to remove the 2p-electron from boron compared to the removal of a 2s-electron from beryllium.
+294+295! Another “anomaly” is the smaller first ionization enthalpy of oxygen compared to nitrogen. This arises because in the nitrogen atom, three 2p-electrons reside in different atomic orbitals (Hund’s rule) whereas in the oxygen atom, two of the four 2p-electrons must occupy the same 2p-orbital resulting in an increased electron-electron repulsion.
+297+300+301! The first ionization enthalpy values of the third period elements, Na, Mg and Si are respectively 496, 737 and 786 kJ mol^–1. It will be more close to 575 kJ mol^–1. The value for Al should be lower than that of Mg because of effective shielding of 3p electrons from the nucleus by 3s-electrons.
+# Electron gain enthalpy
+304+305 Depending on the element, the process of adding an electron to the atom can be either endothermic or exothermic. For many elements energy is released when an electron is added to the atom and the electron gain enthalpy is negative.
+306+307 For example, group 17 elements (the halogens) have very high negative electron gain enthalpies because they can attain stable noble gas electronic configurations by picking up an electron.
+308! On the other hand, noble gases have large positive electron gain enthalpies because the electron has to enter the next higher principal quantum level leading to a very unstable electronic configuration.
+310 The variation in electron gain enthalpies of elements is less systematic than for ionization enthalpies.
+311 As a general rule, electron gain enthalpy becomes more negative with increase in the atomic number across a period.
+313 We should also expect electron gain enthalpy to become less negative as we go down a group because the size of the atom increases and the added electron would be farther from the nucleus.
+315+316+317! However, electron gain enthalpy of O or F is less negative than that of the succeeding element. This is because when an electron is added to O or F, the added electron goes to the smaller n = 2 quantum level and suffers significant repulsion from the other electrons present in this level. For the n = 3 quantum level (S or Cl), the added electron occupies a larger region of space and the electron-electron repulsion is much less.
+322! Hence the element with most negative electron gain enthalpy is chlorine; the one with the least negative electron gain enthalpy is phosphorus.
+330T Table 3.7 (kJ mol^–1): H –73, Li –60, Na –53, K –48; O –141, S –200, Se –195; F –328, Cl –349, Br –325; He +48, Ne +116, Ar +96, Kr +96.
+327+328 In many books, the negative of the enthalpy change for the process depicted in equation 3.3 is defined as the ELECTRON AFFINITY (Ae) of the atom under consideration. If energy is released when an electron is added to an atom, the electron affinity is taken as positive, contrary to thermodynamic convention.
+# Electronegativity
+323+324 A qualitative measure of the ability of an atom in a chemical compound to attract shared electrons to itself is called electronegativity. Unlike ionization enthalpy and electron gain enthalpy, it is not a measureable quantity.
+325+326 However, a number of numerical scales of electronegativity of elements viz., Pauling scale, Mulliken-Jaffe scale, Allred-Rochow scale have been developed. The one which is the most widely used is the Pauling scale.
+327+331 Linus Pauling, an American scientist, in 1922 assigned arbitrarily a value of 4.0 to fluorine, the element considered to have the greatest ability to attract electrons.
+332 The electronegativity of any given element is not constant; it varies depending on the element to which it is bound.
+334 Electronegativity generally increases across a period from left to right (say from lithium to fluorine) and decrease down a group (say from fluorine to astatine) in the periodic table.
+342T Table 3.8(a): Li 1.0, Be 1.5, B 2.0, C 2.5, N 3.0, O 3.5, F 4.0; Na 0.9, Mg 1.2, Al 1.5, Si 1.8, P 2.1, S 2.5, Cl 3.0.
+344+345 Therefore, electronegativity is directly related to that non-metallic properties of elements. It can be further extended to say that the electronegativity is inversely related to the metallic properties of elements.
+# Valence and oxidation state
+351 The valence of representative elements is usually (though not necessarily) equal to the number of electrons in the outermost orbitals and/or equal to eight minus the number of outermost electrons.
+353+354+355! Consider the two oxygen containing compounds: OF2 and Na2O. The order of electronegativity of the three elements involved in these compounds is F > O > Na. Being highest electronegative element, fluorine is given oxidation state –1. Oxygen shares two electrons with fluorine atoms and thereby exhibits oxidation state +2.
+358 Thus, the oxidation state of an element in a particular compound can be defined as the charge acquired by its atom on the basis of electronegative consideration from other atoms in the molecule.
+371T Table 3.9 hydrides: LiH, NaH, KH; CaH2; B2H6, AlH3; CH4, SiH4, GeH4, SnH4; NH3, PH3, AsH3; H2O, H2S, H2Se, H2Te; HF, HCl, HBr, HI.
+371T Table 3.9 oxides: Li2O, Na2O, K2O; MgO, CaO, SrO, BaO; B2O3, Al2O3, Ga2O3, In2O3; CO2, SiO2, GeO2, SnO2, PbO2; N2O3, N2O5; P4O6, P4O10; As2O3, As2O5; Sb2O3, Sb2O5; Bi2O3; SO3, SeO3, TeO3.
+379+380! Are the oxidation state and covalency of Al in [AlCl(H2O)5]^2+ same? No. The oxidation state of Al is +3 and the covalency is 6.
+# Anomalous second period elements
+369! The first element of each of the groups 1 (lithium) and 2 (beryllium) and groups 13-17 (boron to fluorine) differs in many respects from the other members of their respective group.
+370! For example, lithium unlike other alkali metals, and beryllium unlike other alkaline earth metals, form compounds with pronounced covalent character; the other members of these groups predominantly form ionic compounds.
+371+372! In fact the behaviour of lithium and beryllium is more similar with the second element of the following group i.e., magnesium and aluminium, respectively. This sort of similarity is commonly referred to as diagonal relationship in the periodic properties.
+374 The anomalous behaviour is attributed to their small size, large charge/radius ratio and high electronegativity of the elements.
+375 In addition, the first member of group has only four valence orbitals (2s and 2p) available for bonding, whereas the second member of the groups have nine valence orbitals (3s, 3p, 3d).
+376! As a consequence of this, the maximum covalency of the first member of each group is 4 (e.g., boron can only form [BF4]^–, whereas the other members of the groups can expand their valence shell to accommodate more than four pairs of electrons e.g., aluminium [AlF6]^3– forms).
+377! Furthermore, the first member of p-block elements displays greater ability to form pπ – pπ multiple bonds to itself (e.g., C = C, C ≡ C, N = N, N ≡ N) and to other second period elements (e.g., C = O, C = N, C ≡ N, N = O) compared to subsequent members of the same group.
+# Periodic trends and chemical reactivity
+386+387 The ionization enthalpy of the extreme left element in a period is the least and the electron gain enthalpy of the element on the extreme right is the highest negative. This results into high chemical reactivity at the two extremes and the lowest in the centre.
+395 The normal oxide formed by the element on extreme left is the most basic (e.g., Na2O), whereas that formed by the element on extreme right is the most acidic (e.g., Cl2O7).
+396+397 Oxides of elements in the centre are amphoteric (e.g., Al2O3, As2O3) or neutral (e.g., CO, NO, N2O). Amphoteric oxides behave as acidic with bases and as basic with acids, whereas neutral oxides have no acidic or basic properties.
+400 Na2O + H2O → 2NaOH; Cl2O7 + H2O → 2HClO4
+401+402 Among transition metals (3d series), the change in atomic radii is much smaller as compared to those of representative elements across the period. The change in atomic radii is still smaller among inner-transition metals (4f series).
+403+404 The ionization enthalpies are intermediate between those of s- and p-blocks. As a consequence, they are less electropositive than group 1 and 2 metals.
+409! In the case of transition elements, however, a reverse trend is observed.

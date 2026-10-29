@@ -1,0 +1,119 @@
+67b6c5|Group 17 (halogens, "salt producers"): F, Cl, Br, I, At, Ts.
+617480|Highly reactive non-metals; very similar to one another (like groups 1, 2), with regular gradation.
+fa0251|At and Ts are radioactive.
+11357b|F: insoluble fluorides, fluorspar CaF2, cryolite Na3AlF6, fluoroapatite 3Ca3(PO4)2·CaF2.
+a6eb0c|Sea water: Na, K, Mg, Ca halides, mainly NaCl (2.5% by mass).
+e1af0a|Dried-sea deposits: NaCl, carnallite KCl·MgCl2·6H2O.
+872dce|I: seaweeds (up to 0.5% iodine); Chile saltpetre (up to 0.2% NaIO3).
+919666|Smallest atoms in their periods (maximum effective nuclear charge).
+dc1da4|F is extremely small.
+1aae0f|Radii increase F → I.
+96b3ad|Very high ∆iH (little tendency to lose electrons); decreases down the group.
+2c3d1e|Most negative ∆egH in each period (one electron short of a noble gas).
+e117fb|∆egH becomes less negative down the group.
+b9a4c2|**∆egH(F) is less negative than ∆egH(Cl)**: small F, strong repulsion in compact 2p.
+8e1ed9|=
+ebb9f3|EN decreases down the group; **F is the most electronegative element**.
+860f33|-
+54b807|Small size, high Zeff: they readily accept one electron.
+ca298b|**F2 is a stronger oxidant than Cl2 despite less negative ∆egH**: low F–F bond enthalpy and high hydration enthalpy of F^–.
+a6cc08|Physical properties vary smoothly.
+7e8104|F2, Cl2 gases; Br2 liquid; I2 solid; m.p./b.p. increase with Z.
+5504f4|All coloured: absorb visible light (outer electrons excited).
+909868|**F2 yellow, Cl2 greenish yellow, Br2 red, I2 violet.**
+f5b115|F2 and Cl2 react with water; Br2 and I2 are sparingly soluble in water but dissolve in CHCl3, CCl4, CS2, hydrocarbons (coloured solutions).
+36857f|**Bond enthalpy anomaly: F–F < Cl–Cl**; then Cl–Cl > Br–Br > I–I. Reason: large lone-pair repulsion in compact F2.
+0382cf|All show –1; Cl, Br, I also +1, +3, +5, +7.
+5b3605|Higher states of Cl, Br, I mainly in combination with F and O (interhalogens, oxides, oxoacids).
+6f3b09|+4 and +6 occur in oxides and oxoacids of Cl and Br.
+6376f8|**F shows only –1**: no d orbitals, most electronegative.
+1bd50e|All highly reactive; form halides with metals and non-metals.
+c56a6b|Reactivity decreases down the group; strong oxidising nature from ready electron acceptance.
+90ce26|**F2 is the strongest oxidising halogen**; a halogen oxidises halide ions of higher Z.
+dfb90b|=
+71d57d|F2 oxidises water to O2; Cl2 and Br2 give HX + HOX; **I2 + water is non-spontaneous**.
+26edb4|I^– is oxidised by O2 in acid: the reverse of the F2 reaction.
+b352bb|=
+b10175|F: ∆iH, EN, E° higher than the trend predicts; radii, m.p., b.p., bond dissociation enthalpy and ∆egH lower.
+278ab8|F is anomalous: small size, highest EN, low F–F bond enthalpy, no d orbitals.
+29fef2|Most F reactions are exothermic (small, strong bonds).
+be73e7|**F forms only one oxoacid (HOF).**
+dcb1a6|**HF is a liquid (b.p. 293 K)**, because of strong H-bonding; other HX are gases.
+6ff088|All form HX; affinity for H decreases F → I; HX dissolve to give hydrohalic acids.
+fef254|**Acid strength HF < HCl < HBr < HI**; HX stability decreases (H–F > H–Cl > H–Br > H–I bond enthalpy).
+35957c|Halogens form many oxides, mostly unstable.
+b2ba74|F forms OF2 and O2F2; **only OF2 is thermally stable at 298 K**. They are oxygen fluorides (F more electronegative); strong fluorinating agents.
+b5b30a|O2F2 oxidises Pu to PuF6 (removes Pu from spent nuclear fuel).
+634b28|Cl, Br, I oxides: oxidation states +1 to +7.
+e342f5|**Oxide stability: I > Cl > Br.** I–O oxides are stabilised by bond polarisability.
+0a6c95|Cl–O multiple bonding (via d orbitals) increases stability.
+fff05f|Br lacks both, so Br oxides are least stable. Higher oxides are more stable than lower.
+501f5e|Cl2O, ClO2, Cl2O6, Cl2O7: highly reactive oxidants, tend to explode. ClO2 bleaches paper pulp and textiles; water treatment.
+3d7b5c|**Br oxides (Br2O, BrO2, BrO3) are the least stable halogen oxides** (middle-row anomaly); exist only at low T; very powerful oxidants.
+492f79|I2O4, I2O5, I2O7: insoluble solids, decompose on heating. **I2O5 estimates CO.**
+f89293|Halogens + metals → halides (e.g. Br2 + Mg → MgBr2).
+a5772c|Ionic character: MF > MCl > MBr > MI. Halides of a higher oxidation state are more covalent.
+1b8870|SnCl4, PbCl4, SbCl5, UF6 are more covalent than SnCl2, PbCl2, SbCl3, UF4.
+f4fadf|Interhalogens XX′, XX′3, XX′5, XX′7 (X larger, X′ smaller).
+1d7ad3|F only –1 (no positive state); others +1, +3, +5, +7 using d orbitals.
+845347|-
+c07e69|Cl2: MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O
+b588e2|Or NaCl + conc. H2SO4 instead of HCl: 4NaCl + MnO2 + 4H2SO4 → MnCl2 + 4NaHSO4 + 2H2O + Cl2
+7c0aa3|2KMnO4 + 16HCl → 2KCl + 2MnCl2 + 8H2O + 5Cl2
+4fd22f|**Deacon's process**: HCl oxidised by air over CuCl2 at 723 K.
+c2b07b|=
+a91331|Electrolysis of brine: Cl2 at the anode.
+24ca22|Also a by-product of many industries.
+4ce0b6|Cl2: greenish-yellow, pungent, suffocating; ~2.5× heavier than air.
+a56a20|Easily liquefied (greenish-yellow liquid, b.p. 239 K); soluble in water.
+152bfc|=
+0b8b1d|Great affinity for H: takes H from compounds, forming HCl.
+c3867a|=
+88c6f4|**Cold dilute alkali: chloride + hypochlorite. Hot concentrated: chloride + chlorate.**
+f688d9|=
+23a4db|Dry slaked lime → bleaching powder: 2Ca(OH)2 + 2Cl2 → Ca(OCl)2 + CaCl2 + 2H2O
+5be611|Bleaching powder: Ca(OCl)2·CaCl2·Ca(OH)2·2H2O.
+4d35bb|Saturated hydrocarbons: substitution; unsaturated: addition.
+98a0c8|=
+01a74f|Chlorine water loses colour on standing (HCl + HOCl); HOCl gives nascent O, the source of oxidising and bleaching power.
+a8d037|Cl2 oxidises Fe^2+ → Fe^3+, sulphite → sulphate, SO2 → SO3 (H2SO4 in water), I2 → iodate (HIO3).
+8dc889|=
+58a3ba|**Cl2 bleaches by oxidation**, needs moisture; **bleaching is permanent**.
+e06df9|=
+87e0b2|Cl2 + hot conc. NaOH is disproportionation: 0 → –1 and +5.
+1613a8|Cl2 uses: bleaching wood pulp, cotton, textiles; extracting Au, Pt; dyes, drugs, CCl4, CHCl3, DDT, refrigerants; sterilising water; phosgene COCl2, tear gas CCl3NO2, mustard gas ClCH2CH2SCH2CH2Cl.
+f07e4c|-
+fde87f|HCl lab: NaCl + H2SO4 → NaHSO4 + HCl (420 K); NaHSO4 + NaCl → Na2SO4 + HCl (823 K)
+7625a2|Dried with conc. H2SO4.
+4b5121|HCl: colourless, pungent; b.p. 189 K; f.p. 159 K (white crystalline solid).
+8c4bda|Extremely soluble; HCl + H2O → H3O^+ + Cl^–; Ka = 10^7 (hydrochloric acid).
+e4344a|Large Ka: strong acid.
+a6a788|NH3 + HCl → NH4Cl (white fumes).
+a889db|**Aqua regia: 3 parts conc. HCl + 1 part conc. HNO3**; dissolves Au, Pt.
+b571eb|=
+ae30e2|Decomposes salts of weaker acids: Na2CO3 + 2HCl → 2NaCl + H2O + CO2; NaHCO3 + HCl → NaCl + H2O + CO2; Na2SO3 + 2HCl → 2NaCl + H2O + SO2
+fcce98|**Fe + HCl gives FeCl2, not FeCl3**: the H2 liberated prevents FeCl3 formation. Fe + 2HCl → FeCl2 + H2
+e8d670|HCl uses: Cl2, NH4Cl, glucose from corn starch; glue from bones; purifying bone black; medicine; lab reagent.
+ddad70|=
+a214c6|**F forms only HOF** (hypofluorous acid), owing to high EN and small size.
+54dcb3|Other halogen oxoacids: most can't be isolated pure; stable only in solution or as salts.
+ea35bc|Halogen is the central atom with one X–OH; some have X=O bonds.
+07f7aa|Interhalogens XX′, XX′3, XX′5, XX′7: X larger and more electropositive than X′.
+cae280|Atoms per molecule rise with the radius ratio X/X′; I/F is largest, hence **IF7**.
+eda7d0|Made by direct combination, or halogen + lower interhalogen.
+b5e9c0|=
+b04632|=
+a5499b|=
+c81a2b|=
+e83916|All covalent and diamagnetic; volatile solids or liquids at 298 K **except ClF (gas)**.
+c1779f|Properties intermediate between the parent halogens, but m.p./b.p. slightly higher than expected.
+bb3aaa|**Interhalogens are more reactive than halogens (except F2)**: X–X′ is weaker than X–X.
+74c9be|Hydrolysis: halide from the smaller halogen; from the larger, hypohalite (XX′), halite (XX′3), halate (XX′5), perhalate (XX′7).
+1e98d0|=
+8e71ea|**XX′3 bent T, XX′5 square pyramidal, IF7 pentagonal bipyramidal.**
+48bce8|BrF3: Br has 7 valence electrons; 3 bond pairs + 2 lone pairs.
+af4c39|Trigonal bipyramid arrangement; both lone pairs equatorial (lp–lp and lp–bp > bp–bp).
+8aefcf|Axial F bend toward the equatorial F: **slightly bent T**.
+7ab4aa|Non-aqueous solvents; very useful fluorinating agents.
+df28f8|ClF3, BrF3 make UF6 for uranium enrichment: U(s) + 3ClF3(l) → UF6(g) + 3ClF(g)
+638e7d|ICl is more reactive than I2.

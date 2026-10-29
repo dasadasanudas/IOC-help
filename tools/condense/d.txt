@@ -1,0 +1,225 @@
+2829ce|d-block: groups 3–12; d orbitals progressively filled in the four long periods.
+c0f1b7|Four series: 3d (Sc–Zn), 4d (Y–Cd), 5d (La, Hf–Hg), 6d (Ac, Rf–Cn).
+31babc|-
+2d6d90|IUPAC: transition metal = incomplete d subshell in the neutral atom or in its ions.
+66c6ea|**Zn, Cd, Hg: d^10 in ground state and in common oxidation states, so not transition metals.**
+0f1bf6|-
+b4b1d2|General outer configuration (n–1)d^1–10 ns^1–2; **exception Pd: 4d^10 5s^0.**
+49ae16|(n–1)d holds 1–10 electrons; outer ns holds 1 or 2.
+104fbe|Many exceptions, because (n–1)d and ns are very close in energy.
+b3281f|Half-filled and completely filled sets are extra stable.
+654107|This shows up in Cr and Cu (3d series).
+24b847|**Cr: 3d^5 4s^1, not 3d^4 4s^2** (3d–4s gap small).
+347685|**Cu: 3d^10 4s^1, not 3d^9 4s^2.**
+dfa6fc|Zn, Cd, Hg, Cn: (n–1)d^10 ns^2; filled in ground and common oxidation states, so not transition elements.
+a97d07|d orbitals protrude to the periphery more than s and p: more influenced by, and more influence on, the surroundings.
+208180|Ions of the same d^n (n = 1–9) have similar magnetic and electronic properties.
+48b94a|Partly filled d → variety of oxidation states, coloured ions, complex formation with many ligands.
+921c7c|Also catalytic activity and paramagnetism.
+0e0fb2|Horizontal similarities across a row are greater than for non-transition elements.
+b868a6|Sc (3d^1 in ground state) counts as a transition element.
+d80693|Zn (3d^10 in atom and ion) does not.
+2ab07a|Ag (Z = 47) is transition: Ag(+2) has 4d^9.
+3e5239|Typical metals: high tensile strength, ductile, malleable, high thermal and electrical conductivity, lustre.
+7ae4bd|**Except Zn, Cd, Hg and Mn,** they have one or more typical metallic structures at normal temperature.
+e4a4b1|Very hard, low volatility (**except Zn, Cd, Hg**).
+f66777|High m.p. and b.p.
+85f67c|High m.p.: (n–1)d electrons join ns electrons in metallic bonding.
+e66c03|m.p. rises to a maximum at d^5 then falls regularly, **except anomalous Mn and Tc.**
+ac4a0f|High enthalpies of atomisation (Fig. 4.2).
+b017ce|Maxima near mid-series: one unpaired electron per d orbital favours strong interatomic interaction.
+72a6bf|More valence electrons → stronger bonding.
+cf8805|Very high ∆aH (very high b.p.) → metal tends to be noble (∆aH feeds into E°).
+17e1a9|4d and 5d metals have higher ∆aH than 3d → far more metal–metal bonding in heavy transition metal compounds.
+393019|**Sc–Zn: Zn has the lowest ∆aH, 126 kJ mol^–1.**
+e99f20|Exchange energy stabilises the energy state.
+5d862f|Zn: no 3d electrons in metallic bonding; all other 3d metals use d electrons.
+8cb36a|Same-charge ions in a series: radius decreases steadily with Z.
+3033a3|Reason: new electron enters d; d shielding is poor, so attraction on the outermost electron rises and radius falls.
+eceb5a|Atomic radii show the same trend.
+4d0c5e|Variation within a series is small.
+4b381a|-
+23372a|**3d → 4d radii increase, but 5d ≈ 4d.**
+849a6d|Cause: 4f fills before 5d; this regular decrease (lanthanoid contraction) cancels the expected size increase.
+804fb3|**Result: 4d and 5d have similar radii (Zr 160 pm, Hf 159 pm) and very similar properties.**
+507d20|Lanthanoid contraction has the same cause as in a transition series: imperfect shielding within the same set of orbitals.
+c651ff|4f–4f shielding is worse than d–d shielding, so the whole 4f^n shell shrinks fairly regularly as Z rises.
+88f2e6|Smaller radius + larger mass → density increases (marked from Ti to Cu).
+59c8cb|Many unpaired electrons → stronger interatomic bonding → higher ∆aH.
+ecd115|IE increases left → right in each series (nuclear charge rises as inner d fills).
+03c8ff|Successive IEs rise less steeply than for non-transition elements.
+8c4af1|IE variation across a transition series is much smaller than across a period of non-transition elements.
+1154cf|IE1 generally increases; increases in IE2 and IE3 along a series are much larger.
+87fa47|Irregular IE1 in 3d series: removing one electron changes the relative energies of 4s and 3d.
+51faff|On ionisation, ns electrons leave before (n–1)d.
+7d819f|Sc → Zn: nuclear charge rises but electrons go into the inner 3d.
+a8d3bb|3d electrons shield 4s better than outer electrons shield each other → radii fall slowly → IE rises only slightly along 3d.
+85d926|M^2+ and higher: d^n, no 4s; IE2 should rise steadily (d electrons don't shield each other well, different directions).
+a92ae9|**Steady rise breaks at Mn^2+ (IE2) and Fe^3+ (IE3): both give d^5.**
+c38bf8|Exchange energy ∝ number of parallel-spin pairs in degenerate orbitals.
+327ab7|Max single occupation with parallel spins (Hund) is lowest energy; more stability → harder to ionise.
+c5e689|No exchange energy is lost at d^6.
+194306|**Mn^+ (3d^5 4s^1) has lower IE than Cr^+ (d^5).**
+253b28|**Fe^2+ (d^6) ionises more easily than Mn^2+ (d^5): IE3 of Fe < IE3 of Mn.**
+5c8913|M^2+ from gaseous atom needs ∆aH + IE1 + IE2.
+e50029|**IE2 is unusually high for Cr and Cu** (M^+ is d^5 and d^10).
+1ae31d|**IE2 of Zn is low**: removing a 4s electron gives stable d^10.
+5aaad3|IE3 (no 4s factor): high for removal from d^5 (Mn^2+) and d^10 (Zn^2+).
+39549a|IE3 values are generally quite high.
+f0ce34|High IE3 of Cu, Ni, Zn → oxidation states above +2 hard to get.
+8de679|-
+cf9ccf|Most oxidation states in or near the middle; **Mn shows every state from +2 to +7.**
+94d4bf|Fewer states at the ends: too few electrons (Sc, Ti) or too many d electrons, fewer orbitals to share (Cu, Zn).
+c4cf45|**Sc(II) virtually unknown; Ti(IV) more stable than Ti(III), Ti(II); Zn only +2.**
+b4a4fd|Max stable state = s + d electrons up to Mn (TiO2, VO2^+, CrO4^2–, MnO4^–), then abrupt fall: Fe(II,III), Co(II,III), Ni(II), Cu(I,II), Zn(II).
+7d8cf5|Transition element oxidation states differ by one, e.g. V(II), V(III), V(IV), V(V); non-transition ones normally differ by two.
+80b636|Group trend in oxidation states is notable across groups 4–10.
+ae9514|**Opposite of p-block: heavier d members favour higher states. Group 6: Mo(VI), W(VI) more stable than Cr(VI).**
+7363ce|So acidic dichromate (Cr(VI)) is a strong oxidant; MoO3 and WO3 are not.
+160227|Low oxidation states with π-acceptor ligands: Ni(CO)4 and Fe(CO)5 have the metal at 0.
+857e0b|**Sc (Z = 21) has no variable oxidation states.**
+2b1c6f|**Cu: positive E°, can't liberate H2 from acids**; only oxidising acids (HNO3, hot conc. H2SO4) react, and get reduced.
+0045b0|Cu(s) → Cu^2+(aq) energy cost is not balanced by hydration enthalpy.
+254fc7|E° becomes less negative across the series as IE1 + IE2 rises.
+330af0|**Cr^2+ is reducing: d^4 → d^3 (half-filled t2g).**
+97c4ad|**Mn^3+ → Mn^2+ gives extra-stable d^5** (so Mn^3+ is oxidising).
+65fbce|**E° for Mn, Ni, Zn more negative than the trend predicts.**
+ca18a8|-
+c5574a|Mn^2+ (d^5) and Zn (d^10): stable subshells explain E°; **Ni: highest negative hydration enthalpy.**
+f4b9a7|**Cr^2+ is a stronger reductant than Fe^2+.**
+dc3211|Low E°(M^3+/M^2+) for Sc: Sc^3+ has noble gas configuration.
+68f2d0|Highest for Zn: electron would leave stable d^10 of Zn^2+.
+b4daa6|**High for Mn (Mn^2+ d^5 stable); low for Fe (Fe^3+ d^5 stable).**
+148384|Low for V: V^2+ has half-filled t2g.
+359acd|**Large IE3 of Mn (d^5 → d^4) is why Mn(+3) matters little.**
+1289fc|Highest states in halides: TiX4, VF5, CrF6.
+9d6343|**Mn(+7) has no simple halide, but MnO3F exists. Beyond Mn, only FeX3 and CoF3 are trihalides.**
+d3b808|F stabilises highest states via higher lattice energy (CoF3) or higher bond enthalpy in covalent compounds (VF5, CrF6).
+1781ec|V(+5) only as VF5; other halides hydrolyse to oxohalides VOX3.
+cec312|**Low-state fluorides unstable (VX2, X = Cl, Br, I; also CuX). All Cu(II) halides known except the iodide.**
+ee5c16|**Cu^2+ oxidises I^– to I2:** 2Cu^2+ + 4I^– → Cu2I2(s) + I2
+a430aa|**Many Cu(I) compounds disproportionate in water:** 2Cu^+ → Cu^2+ + Cu
+284187|**Cu^2+(aq) beats Cu^+(aq):** much more negative ∆hydH° of Cu^2+ outweighs IE2 of Cu.
+37169a|Highest oxide oxidation number = group number, from Sc2O3 to Mn2O7.
+0f266f|**Nothing above Fe2O3 for Fe**; ferrates(VI) (FeO4)^2– form in alkali but decompose to Fe2O3 + O2.
+0e732c|Oxocations stabilise V(V) as VO2^+, V(IV) as VO^2+, Ti(IV) as TiO^2+.
+95fe19|**O beats F at stabilising high states: highest Mn fluoride MnF4, highest oxide Mn2O7.** O forms multiple bonds to metals.
+11dad0|Mn2O7 (covalent): each Mn tetrahedral, with a Mn–O–Mn bridge.
+f9097c|Tetrahedral [MO4]^n– known for V(V), Cr(VI), Mn(V), Mn(VI), Mn(VII).
+97be95|Oxidising power VO2^+ < Cr2O7^2– < MnO4^–: increasing stability of the reduced species.
+0f5ada|E°(M^2+/M) irregular: irregular IE1 + IE2, and sublimation enthalpies much lower for Mn and V.
+ad16d6|Small size + high EN let O and F oxidise metals to their highest state.
+4318ec|-
+ee82fa|§Magnetic properties§Experimental moments: K4[Mn(CN)6] 2.2 BM, [Fe(H2O)6]^2+ 5.3 BM, K2[MnCl4] 5.9 BM.
+d2f25a|Many dissolve in mineral acids; a few are 'noble', unaffected by single acids.
+473b0d|3d metals except Cu are fairly reactive, oxidised by 1 M H^+, though sometimes slowly.
+398238|**Ti and V are passive to dilute non-oxidising acids at room temperature.**
+d7d49d|E°(M^2+/M): tendency to form M^2+ decreases across the series.
+e2eb56|-
+a9cfea|**Mn^3+ and Co^3+ are the strongest oxidising agents in water** (M^3+/M^2+).
+006171|**Ti^2+, V^2+, Cr^2+ are strong reductants, liberate H2 from dilute acid:** 2Cr^2+(aq) + 2H^+(aq) → 2Cr^3+(aq) + H2(g)
+326432|§Magnetic properties§Two main behaviours in a field: diamagnetism and paramagnetism.
+35719b|Diamagnetic: repelled. Paramagnetic: attracted.
+7812c3|Ferromagnetic: very strongly attracted, an extreme form of paramagnetism.
+c318f6|Many transition metal ions are paramagnetic.
+a08fc4|Paramagnetism comes from unpaired electrons (spin + orbital angular momentum).
+5209b4|First-series compounds: orbital contribution effectively quenched.
+bc6c88|**Spin-only: μ = √(n(n+2)) BM**, n = unpaired electrons.
+9e9b83|One unpaired electron: 1.73 BM.
+9308c8|μ rises with unpaired electrons, so measured μ tells you n.
+b71fc7|=
+4af6aa|Z = 25: M^2+(aq) is d^5, five unpaired, μ = √35 = 5.92 BM.
+13846b|=
+aea757|Colour: d–d excitation; absorbed frequency usually visible.
+b9625a|Observed colour = complement of absorbed light; absorbed frequency depends on the ligand.
+2b0fe2|-
+c4c732|Complexes: metal ion binds anions or neutral molecules, e.g. [Fe(CN)6]^3–, [Fe(CN)6]^4–, [Cu(NH3)4]^2+, [PtCl4]^2–.
+32e0be|Many complexes: small ions, high charge, d orbitals available for bonding.
+d5b950|Catalysis: multiple oxidation states + complex formation.
+1e1843|V2O5 (Contact process), finely divided Fe (Haber), Ni (catalytic hydrogenation).
+51508c|Surface catalysis: bonds form between reactants and surface atoms (3d metals use 3d and 4s electrons).
+883b36|Raises reactant concentration at the surface and weakens their bonds (lower activation energy).
+ca7bd1|Changing oxidation state makes ions better catalysts.
+70c1ae|**Fe(III) catalyses I^– + persulphate:** 2I^– + S2O8^2– → I2 + 2SO4^2–
+6efc54|Mechanism: 2Fe^3+ + 2I^– → 2Fe^2+ + I2; 2Fe^2+ + S2O8^2– → 2Fe^3+ + 2SO4^2–
+b8a847|Interstitial compounds: small H, C, N trapped in metal lattices; non-stoichiometric, neither ionic nor covalent: TiC, Mn4N, Fe3H, VH0.56, TiH1.7.
+586fb0|Interstitials: m.p. higher than pure metal; very hard (some borides near diamond); metallic conductivity; chemically inert.
+d2369c|Alloy: blend of metals made by mixing.
+f30ae4|Homogeneous solid-solution alloys need metallic radii within ~15%.
+f6e6d9|Similar radii → transition metals readily form alloys.
+d6c777|These alloys are hard, often high-melting.
+ddf6ea|Ferrous alloys: Cr, V, W, Mo, Mn used for steels and stainless steel.
+966ab9|With non-transition metals: brass (Cu–Zn), bronze (Cu–Sn).
+bf7c8a|Disproportionation: a state becomes unstable relative to one lower and one higher.
+9624d8|**Mn(VI) disproportionates in acid:** 3MnO4^2– + 4H^+ → 2MnO4^– + MnO2 + 2H2O
+cf732d|**All except Sc form ionic MO oxides.**
+aa0d19|-
+884163|-
+2bfed7|**Higher oxidation number → less ionic. Mn2O7 is a covalent green oil.**
+cb2624|CrO3 and V2O5 have low m.p.; higher oxides are mainly acidic.
+3f9fb9|Mn2O7 → HMnO4; CrO3 → H2CrO4 and H2Cr2O7.
+4c45a1|**V2O5 is amphoteric (mainly acidic):** gives VO4^3– and VO2^+ salts.
+9e800d|V: basic V2O3 → less basic V2O4 → amphoteric V2O5. V2O4 dissolves in acid as VO^2+ salts.
+81ba8c|-
+360549|**CrO basic, Cr2O3 amphoteric.**
+9814c8|§Oxides and oxoanions§First-series oxides: metal + O2 at high temperature; dissolve in acids and bases to give oxometallic salts.
+23666a|K2Cr2O7: leather industry; oxidant for many azo compounds.
+3f660d|Dichromate from chromate; chromate from fusing chromite FeCr2O4 with Na2CO3 or K2CO3 in free air.
+99aa6e|4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2
+8bb2ef|Yellow Na2CrO4 filtered, acidified with H2SO4 → orange Na2Cr2O7·2H2O: 2Na2CrO4 + 2H^+ → Na2Cr2O7 + 2Na^+ + H2O
+c6139f|Na2Cr2O7 is more soluble than K2Cr2O7, so add KCl to get the potassium salt.
+be1c46|Na2Cr2O7 + 2KCl → K2Cr2O7 + 2NaCl (orange crystals).
+c8bac3|Chromate ⇌ dichromate depending on pH; Cr is +6 in both.
+991e9a|=
+93c776|**Chromate tetrahedral; dichromate = two tetrahedra sharing a corner, Cr–O–Cr 126°.**
+fb815b|Na and K dichromates: strong oxidants; Na salt more soluble, used in organic chemistry.
+d43342|**K2Cr2O7: primary standard in volumetric analysis.**
+fd5556|Cr2O7^2– + 14H^+ + 6e^– → 2Cr^3+ + 7H2O (E° = 1.33 V)
+0038bf|Acidified K2Cr2O7 oxidises I^– → I2, S^2– → S, Sn(II) → Sn(IV), Fe(II) → Fe(III).
+0f85cd|=
+654c81|=
+34cd34|KMnO4: fuse MnO2 with alkali hydroxide + oxidant (KNO3) → dark green K2MnO4, which disproportionates in neutral or acid → MnO4^–.
+c443e1|=
+0d2021|Commercial: alkaline oxidative fusion of MnO2, then electrolytic oxidation of manganate(VI).
+72347b|=
+6e7c04|Lab: Mn^2+ oxidised by peroxodisulphate: 2Mn^2+ + 5S2O8^2– + 8H2O → 2MnO4^– + 10SO4^2– + 16H^+
+e4696f|**KMnO4: dark purple (almost black) crystals, isostructural with KClO4.**
+1ce978|Sparingly soluble (6.4 g/100 g water, 293 K); **decomposes at 513 K:** 2KMnO4 → K2MnO4 + MnO2 + O2
+ab24fc|Intense colour; diamagnetic with temperature-dependent weak paramagnetism.
+7b4919|**Manganate and permanganate tetrahedral; π bonding is O p → Mn d overlap.**
+1626f1|**Green manganate paramagnetic (one unpaired e^–); permanganate diamagnetic.**
+961424|Acidified MnO4^– oxidises oxalate → CO2, Fe(II) → Fe(III), nitrite → nitrate, I^– → I2.
+3f2efb|=
+24b885|=
+bf5e1b|[H^+] decides which reduction happens.
+4a1646|Kinetics matters too, not just redox potential.
+c3a425|**At [H^+] = 1, MnO4^– should oxidise water, but it's extremely slow unless Mn^2+ is present or it's heated.**
+3bab6b|Acid: 10I^– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 5I2
+433121|Acid: Fe^2+ (green) → Fe^3+ (yellow): 5Fe^2+ + MnO4^– + 8H^+ → Mn^2+ + 4H2O + 5Fe^3+
+e7972f|Acid, oxalate at 333 K: 5C2O4^2– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 10CO2
+56a37d|Acid, H2S → S precipitated: 5S^2– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 5S
+d98d65|Acid, sulphite → sulphate: 5SO3^2– + 2MnO4^– + 6H^+ → 2Mn^2+ + 3H2O + 5SO4^2–
+3c24c6|Acid, nitrite → nitrate: 5NO2^– + 2MnO4^– + 6H^+ → 2Mn^2+ + 5NO3^– + 3H2O
+ea703e|**Neutral / faintly alkaline: I^– → iodate (not I2):** 2MnO4^– + H2O + I^– → 2MnO2 + 2OH^– + IO3^–
+b78d88|Neutral: thiosulphate → sulphate almost quantitatively: 8MnO4^– + 3S2O3^2– + H2O → 8MnO2 + 6SO4^2– + 2OH^–
+c72f94|Neutral: Mn^2+ → MnO2, catalysed by ZnSO4 or ZnO: 2MnO4^– + 3Mn^2+ + 2H2O → 5MnO2 + 4H^+
+93a469|**Permanganate titrations in HCl are unsatisfactory: HCl is oxidised to Cl2.**
+805a6c|KMnO4 uses: analysis, preparative organic oxidant, bleaching wool, cotton, silk and other fibres, decolourising oils.
+928fd5|Pyrolusite (MnO2) is the raw material for KMnO4.
+603eed|-
+31eabc|-
+e5909f|TiO for pigments; MnO2 for dry cells.
+5e853a|Batteries also need Zn and Ni/Cd.
+9e3e7e|-
+d1a73a|Many metals and compounds are essential industrial catalysts.
+0cefab|V2O5: SO2 oxidation in H2SO4 manufacture.
+02b7c6|**Ziegler catalyst: TiCl4 + Al(CH3)3** for polythene.
+66cc8e|Fe catalyst: Haber (NH3 from N2/H2). Ni catalyst: hydrogenation of fats.
+5ab93d|**Wacker: PdCl2 catalyses ethyne → ethanal.** Ni complexes: polymerisation of alkynes and organics such as benzene.
+7efa67|AgBr: light-sensitive, photography.
+ef31d2|-
+41a264|-
+bc8a5e|-
+95db70|-
+ac6935|-
+61f4b3|§Chemical reactivity and E° values§React with O, N, S and halogens to form binary compounds.

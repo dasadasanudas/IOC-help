@@ -1,0 +1,124 @@
+@src p15
+# Occurrence
+398+399 Fluorine, chlorine, bromine, iodine, astatine and tennessine are members of Group 17. These are collectively known as the halogens (Greek halo means salt and genes means born i.e., salt producers).
+404 Astatine and tennessine are radioactive elements.
+406 Fluorine is present mainly as insoluble fluorides (fluorspar CaF2, cryolite Na3AlF6 and fluoroapatite 3Ca3(PO4)2.CaF2) and small quantities are present in soil, river water plants and bones and teeth of animals.
+407 Sea water contains chlorides, bromides and iodides of sodium, potassium, magnesium and calcium, but is mainly sodium chloride solution (2.5% by mass).
+408 The deposits of dried up seas contain these compounds, e.g., sodium chloride and carnallite, KCl.MgCl2.6H2O.
+409 Certain forms of marine life contain iodine in their systems; various seaweeds, for example, contain upto 0.5% of iodine and Chile saltpetre contains upto 0.2% of sodium iodate.
+# Atomic properties
+420 The halogens have the smallest atomic radii in their respective periods due to maximum effective nuclear charge.
+422 Atomic and ionic radii increase from fluorine to iodine due to increasing number of quantum shells.
+423+424+425 They have little tendency to lose electron. Thus they have very high ionisation enthalpy. Due to increase in atomic size, ionisation enthalpy decreases down the group.
+426+427 Halogens have maximum negative electron gain enthalpy in the corresponding periods. This is due to the fact that the atoms of these elements have only one electron less than stable noble gas configurations.
+428 Electron gain enthalpy of the elements of the group becomes less negative down the group.
+429+430+431! However, the negative electron gain enthalpy of fluorine is less than that of chlorine. It is due to small size of fluorine atom. As a result, there are strong interelectronic repulsions in the relatively small 2p orbitals of fluorine and thus, the incoming electron does not experience much attraction.
+431T Table 7.8: Electron gain enthalpy/kJ mol^–1 F –333, Cl –349, Br –325, I –296. Bond dissociation enthalpy/kJ mol^–1 F2 158.8, Cl2 242.6, Br2 192.8, I2 151.1. E^⊖/V 2.87, 1.36, 1.09, 0.54. ∆HydH(X^–)/kJ mol^–1 515, 381, 347, 305.
+434+435 The electronegativity decreases down the group. Fluorine is the most electronegative element in the periodic table.
+440+442+443! Although electron gain enthalpy of fluorine is less negative as compared to chlorine, fluorine is a stronger oxidising agent than chlorine. It is due to (i) low enthalpy of dissociation of F-F bond. (ii) high hydration enthalpy of F^–.
+# Physical properties
+445+446 Fluorine and chlorine are gases, bromine is a liquid and iodine is a solid. Their melting and boiling points steadily increase with atomic number.
+447+448 All halogens are coloured. This is due to absorption of radiations in visible region which results in the excitation of outer electrons to higher energy level.
+449+450 By absorbing different quanta of radiation, they display different colours. For example, F2, has yellow, Cl2, greenish yellow, Br2, red and I2, violet colour.
+451+452 Fluorine and chlorine react with water. Bromine and iodine are only sparingly soluble in water but are soluble in various organic solvents such as chloroform, carbon tetrachloride, carbon disulphide and hydrocarbons to give coloured solutions.
+453! One curious anomaly is the smaller enthalpy of dissociation of F2 compared to that of Cl2 whereas X-X bond dissociation enthalpies from chlorine onwards show the expected trend: Cl–Cl > Br–Br > I–I. A reason for this anomaly is the relatively large electron-electron repulsion among the lone pairs in F2 molecule where they are much closer to each other than in case of Cl2.
+# Oxidation states and reactivity
+432+433 All the halogens exhibit –1 oxidation state. However, chlorine, bromine and iodine exhibit + 1, + 3, + 5 and + 7 oxidation states also.
+454 The higher oxidation states of chlorine, bromine and iodine are realised mainly when the halogens are in combination with the small and highly electronegative fluorine and oxygen atoms. e.g., in interhalogens, oxides and oxoacids.
+455 The oxidation states of +4 and +6 occur in the oxides and oxoacids of chlorine and bromine.
+456+457! The fluorine atom has no d orbitals in its valence shell and therefore cannot expand its octet. Being the most electronegative, it exhibits only –1 oxidation state.
+460+461 The reactivity of the halogens decreases down the group. The ready acceptance of an electron is the reason for the strong oxidising nature of halogens.
+462+463 F2 is the strongest oxidising halogen and it oxidises other halide ions in solution or even in the solid phase. In general, a halogen oxidises halide ions of higher atomic number.
+464 F2 + 2X^– → 2F^– + X2 (X = Cl, Br or I); Cl2 + 2X^– → 2Cl^– + X2 (X = Br or I); Br2 + 2I^– → 2Br^– + I2
+465+466 Fluorine oxidises water to oxygen whereas chlorine and bromine react with water to form corresponding hydrohalic and hypohalous acids. The reaction of iodine with water is nonspontaneous.
+467! In fact, I^– can be oxidised by oxygen in acidic medium; just the reverse of the reaction observed with fluorine.
+468T 2F2(g) + 2H2O(l) → 4H^+(aq) + 4F^–(aq) + O2(g); X2(g) + H2O(l) → HX(aq) + HOX(aq) (X = Cl or Br); 4I^–(aq) + 4H^+(aq) + O2(g) → 2I2(s) + 2H2O(l)
+# Anomalous behaviour of fluorine
+469+470! For example, ionisation enthalpy, electronegativity, and electrode potentials are all higher for fluorine than expected from the trends set by other halogens. Also, ionic and covalent radii, m.p. and b.p., enthalpy of bond dissociation and electron gain enthalpy are quite lower than expected.
+471! The anomalous behaviour of fluorine is due to its small size, highest electronegativity, low F-F bond dissociation enthalpy, and non availability of d orbitals in valence shell.
+472 Most of the reactions of fluorine are exothermic (due to the small and strong bond formed by it with other elements).
+473! It forms only one oxoacid while other halogens form a number of oxoacids.
+474+475+476+477! Hydrogen fluoride is a liquid (b.p. 293 K) due to strong hydrogen bonding. Hydrogen bond is formed in HF due to small size and high electronegativity of fluorine. Other hydrogen halides which have bigger size and less electronegativity are gases.
+# Hydrogen halides, oxides, metal halides
+478+479 They all react with hydrogen to give hydrogen halides but affinity for hydrogen decreases from fluorine to iodine. Hydrogen halides dissolve in water to form hydrohalic acids.
+481 The acidic strength of these acids varies in the order: HF < HCl < HBr < HI. The stability of these halides decreases down the group due to decrease in bond (H–X) dissociation enthalpy in the order: H–F > H–Cl > H–Br > H–I.
+481 Halogens form many oxides with oxygen but most of them are unstable.
+482+483! Fluorine forms two oxides OF2 and O2F2. However, only OF2 is thermally stable at 298 K. These oxides are essentially oxygen fluorides because of the higher electronegativity of fluorine than oxygen. Both are strong fluorinating agents.
+484 O2F2 oxidises plutonium to PuF6 and the reaction is used in removing plutonium as PuF6 from spent nuclear fuel.
+485 Chlorine, bromine and iodine form oxides in which the oxidation states of these halogens range from +1 to +7.
+486! A combination of kinetic and thermodynamic factors lead to the generally decreasing order of stability of oxides formed by halogens, I > Cl > Br. Higher stability of oxides of iodine is due to greater polarisability of bond between iodine and oxygen.
+487+488 In the case of chlorine, multiple bond formation between chlorine and oxygen takes place due to availability of d–orbitals. This leads to increase in stability.
+489 Bromine lacks both the characteristics hence stability of oxides of bromine is least. The higher oxides of halogens tend to be more stable than the lower ones.
+490+491 Chlorine oxides, Cl2O, ClO2, Cl2O6 and Cl2O7 are highly reactive oxidising agents and tend to explode. ClO2 is used as a bleaching agent for paper pulp and textiles and in water treatment.
+492+493! The bromine oxides, Br2O, BrO2, BrO3 are the least stable halogen oxides (middle row anomally) and exist only at low temperatures. They are very powerful oxidising agents.
+494+495 The iodine oxides, I2O4, I2O5, I2O7 are insoluble solids and decompose on heating. I2O5 is a very good oxidising agent and is used in the estimation of carbon monoxide.
+498 The ionic character of the halides decreases in the order MF > MCl > MBr > MI where M is a monovalent metal. If a metal exhibits more than one oxidation state, the halides in higher oxidation state will be more covalent than the one in lower oxidation state.
+499 For example, SnCl4, PbCl4, SbCl5 and UF6 are more covalent than SnCl2, PbCl2, SbCl3 and UF4 respectively.
+# Interhalogen types and positive oxidation states
+500 Halogens combine amongst themselves to form a number of compounds known as interhalogens of the types XX′, XX3′, XX5′ and XX7′ where X is a larger size halogen and X′ is smaller size halogen.
+501+503+504! Fluorine exhibits only –1 oxidation state whereas other halogens exhibit + 1, + 3, + 5 and + 7 oxidation states also. Fluorine is the most electronegative element and cannot exhibit any positive oxidation state. Other halogens have d orbitals and therefore, can expand their octets and show + 1, + 3, + 5 and + 7 oxidation states also.
+# Chlorine
+506 Chlorine was discovered in 1774 by Scheele by the action of HCl on MnO2. In 1810 Davy established its elementary nature and suggested the name chlorine on account of its colour (Greek, chloros = greenish yellow).
+507+508 By heating manganese dioxide with concentrated hydrochloric acid. MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O
+508 However, a mixture of common salt and concentrated H2SO4 is used in place of HCl. 4NaCl + MnO2 + 4H2SO4 → MnCl2 + 4NaHSO4 + 2H2O + Cl2
+508 By the action of HCl on potassium permanganate. 2KMnO4 + 16HCl → 2KCl + 2MnCl2 + 8H2O + 5Cl2
+508 Deacon's process: By oxidation of hydrogen chloride gas by atmospheric oxygen in the presence of CuCl2 (catalyst) at 723 K.
+508T 4HCl + O2 → 2Cl2 + 2H2O (CuCl2)
+508+509 Electrolytic process: Chlorine is obtained by the electrolysis of brine (concentrated NaCl solution). Chlorine is liberated at anode.
+510 It is also obtained as a by–product in many chemical industries.
+511+512 It is a greenish yellow gas with pungent and suffocating odour. It is about 2-5 times heavier than air.
+513 It can be liquefied easily into greenish yellow liquid which boils at 239 K. It is soluble in water.
+514 Chlorine reacts with a number of metals and non-metals to form chlorides. 2Al + 3Cl2 → 2AlCl3; P4 + 6Cl2 → 4PCl3; 2Na + Cl2 → 2NaCl; S8 + 4Cl2 → 4S2Cl2; 2Fe + 3Cl2 → 2FeCl3
+514+515 It has great affinity for hydrogen. It reacts with compounds containing hydrogen to form HCl.
+515T H2 + Cl2 → 2HCl; H2S + Cl2 → 2HCl + S; C10H16 + 8Cl2 → 16HCl + 10C
+515 With cold and dilute alkalies chlorine produces a mixture of chloride and hypochlorite but with hot and concentrated alkalies it gives chloride and chlorate.
+515 2NaOH + Cl2 → NaCl + NaOCl + H2O (cold and dilute); 6NaOH + 3Cl2 → 5NaCl + NaClO3 + 3H2O (hot and conc.)
+525! Yes, chlorine from zero oxidation state is changed to –1 and +5 oxidation states.
+515 With dry slaked lime it gives bleaching powder. 2Ca(OH)2 + 2Cl2 → Ca(OCl)2 + CaCl2 + 2H2O
+515 The composition of bleaching powder is Ca(OCl)2.CaCl2.Ca(OH)2.2H2O.
+516 Chlorine reacts with hydrocarbons and gives substitution products with saturated hydrocarbons and addition products with unsaturated hydrocarbons.
+517 CH4 + Cl2 → CH3Cl + HCl (UV); C2H4 + Cl2 → C2H4Cl2 (room temp.)
+517 Chlorine water on standing loses its yellow colour due to the formation of HCl and HOCl. Hypochlorous acid (HOCl) so formed, gives nascent oxygen which is responsible for oxidising and bleaching properties of chlorine.
+518+519+520 Chlorine oxidises ferrous to ferric and sulphite to sulphate. Chlorine oxidises sulphur dioxide to sulphur trioxide and iodine to iodate. In the presence of water they form sulphuric acid and iodic acid respectively.
+520 2FeSO4 + H2SO4 + Cl2 → Fe2(SO4)3 + 2HCl; Na2SO3 + Cl2 + H2O → Na2SO4 + 2HCl; SO2 + 2H2O + Cl2 → H2SO4 + 2HCl; I2 + 6H2O + 5Cl2 → 2HIO3 + 10HCl
+520+521+522 Chlorine is a powerful bleaching agent; bleaching action is due to oxidation. It bleaches vegetable or organic matter in the presence of moisture. Bleaching effect of chlorine is permanent.
+523 Cl2 + H2O → 2HCl + O; Coloured substance + O → Colourless substance
+534 It is used (i) for bleaching woodpulp (required for the manufacture of paper and rayon), bleaching cotton and textiles, (ii) in the extraction of gold and platinum (iii) in the manufacture of dyes, drugs and organic compounds such as CCl4, CHCl3, DDT, refrigerants, etc. (iv) in sterilising drinking water and (v) preparation of poisonous gases such as phosgene (COCl2), tear gas (CCl3NO2), mustard gas (ClCH2CH2SCH2CH2Cl).
+# Hydrogen chloride
+526+527 Glauber prepared this acid in 1648 by heating common salt with concentrated sulphuric acid. Davy in 1810 showed that it is a compound of hydrogen and chlorine.
+528+529 In laboratory, it is prepared by heating sodium chloride with concentrated sulphuric acid. NaCl + H2SO4 → NaHSO4 + HCl (420K); NaHSO4 + NaCl → Na2SO4 + HCl (823K)
+529 HCl gas can be dried by passing through concentrated sulphuric acid.
+530+531 It is a colourless and pungent smelling gas. It is easily liquefied to a colourless liquid (b.p.189 K) and freezes to a white crystalline solid (f.p. 159 K).
+532 It is extremely soluble in water and ionises as follows: HCl(g) + H2O(l) → H3O^+(aq) + Cl^–(aq); Ka = 10^7. Its aqueous solution is called hydrochloric acid.
+533 High value of dissociation constant (Ka) indicates that it is a strong acid in water.
+534 It reacts with NH3 and gives white fumes of NH4Cl. NH3 + HCl → NH4Cl
+534 When three parts of concentrated HCl and one part of concentrated HNO3 are mixed, aqua regia is formed which is used for dissolving noble metals, e.g., gold, platinum.
+534T Au + 4H^+ + NO3^– + 4Cl^– → AuCl4^– + NO + 2H2O; 3Pt + 16H^+ + 4NO3^– + 18Cl^– → 3PtCl6^2– + 4NO + 8H2O
+535 Hydrochloric acid decomposes salts of weaker acids, e.g., carbonates, hydrogencarbonates, sulphites, etc. Na2CO3 + 2HCl → 2NaCl + H2O + CO2; NaHCO3 + HCl → NaCl + H2O + CO2; Na2SO3 + 2HCl → 2NaCl + H2O + SO2
+535+537! When HCl reacts with finely powdered iron, it forms ferrous chloride and not ferric chloride. Its reaction with iron produces H2. Fe + 2HCl → FeCl2 + H2. Liberation of hydrogen prevents the formation of ferric chloride.
+538 It is used (i) in the manufacture of chlorine, NH4Cl and glucose (from corn starch), (ii) for extracting glue from bones and purifying bone black, (iii) in medicine and as a laboratory reagent.
+# Oxoacids of halogens
+539! Due to high electronegativity and small size, fluorine forms only one oxoacid, HOF known as fluoric (I) acid or hypofluorous acid.
+540+541+542 The other halogens form several oxoacids. Most of them cannot be isolated in pure state. They are stable only in aqueous solutions or in the form of their salts.
+535T Table 7.10: Halic (I) acid (hypohalous acid): HOF, HOCl, HOBr, HOI. Halic (III) acid (halous acid): only HOClO (chlorous acid). Halic (V) acid (halic acid): HOClO2, HOBrO2, HOIO2. Halic (VII) acid (perhalic acid): HOClO3, HOBrO3, HOIO3.
+679 In the structures of these oxoacids, halogen is the central atom which is bonded in each case with one OH bond as X–OH. In some cases X = O bonds are also found.
+# Interhalogen compounds
+544+545 When two different halogens react with each other, interhalogen compounds are formed. They can be assigned general compositions as XX′, XX3′, XX5′ and XX7′ where X is halogen of larger size and X′ of smaller size and X is more electropositive than X′.
+546+547+548 As the ratio between radii of X and X′ increases, the number of atoms per molecule also increases. Thus, iodine (VII) fluoride should have maximum number of atoms as the ratio of radii between I and F should be maximum. That is why its formula is IF7 (having maximum number of atoms).
+549 The interhalogen compounds can be prepared by the direct combination or by the action of halogen on lower interhalogen compounds.
+550T I2 + Cl2 → 2ICl (equimolar); Cl2 + 3F2 → 2ClF3 (excess F2, 573 K); Cl2 + F2 → 2ClF (equal volume, 437 K); I2 + 3Cl2 → 2ICl3 (excess Cl2); Br2 + 3F2 → 2BrF3 (diluted with water); Br2 + 5F2 → 2BrF5 (excess F2)
+551T Table 7.11, XX′: ClF colourless gas; BrF pale brown gas; IF detected spectroscopically (very unstable); BrCl gas; ICl ruby red solid (α-form), brown red solid (β-form); IBr black solid.
+551T Table 7.11, XX′3: ClF3 colourless gas, bent T-shaped; BrF3 yellow green liquid, bent T-shaped; IF3 yellow powder, bent T-shaped (?); ICl3 orange solid, bent T-shaped (?), dimerises as Cl–bridged dimer (I2Cl6).
+551T Table 7.11, XX′5 and XX′7: IF5 colourless gas but solid below 77 K, square pyramidal; BrF5 colourless liquid, square pyramidal; ClF5 colourless liquid, square pyramidal; IF7 colourless gas, pentagonal bipyramidal.
+552+553 These are all covalent molecules and are diamagnetic in nature. They are volatile solids or liquids at 298 K except ClF which is a gas.
+554 Their physical properties are intermediate between those of constituent halogens except that their m.p. and b.p. are a little higher than expected.
+556+557! In general, interhalogen compounds are more reactive than halogens (except fluorine). This is because X–X′ bond in interhalogens is weaker than X–X bond in halogens except F–F bond.
+704 Thus, ICl is more reactive than I2.
+558 All these undergo hydrolysis giving halide ion derived from the smaller halogen and a hypohalite (when XX′), halite (when XX′3), halate (when XX′5) and perhalate (when XX′7) anion derived from the larger halogen.
+559 XX′ + H2O → HX′ + HOX
+560 The XX3′ compounds have the bent ‘T’ shape, XX5′ compounds square pyramidal and IF7 has pentagonal bipyramidal structures.
+562+563+564 The central atom Br has seven electrons in the valence shell. Three of these will form electron-pair bonds with three fluorine atoms leaving behind four electrons. Thus, there are three bond pairs and two lone pairs.
+565+566 According to VSEPR theory, these will occupy the corners of a trigonal bipyramid. The two lone pairs will occupy the equatorial positions to minimise lone pair-lone pair and the bond pair-lone pair repulsions which are greater than the bond pair-bond pair repulsions.
+567+568 In addition, the axial fluorine atoms will be bent towards the equatorial fluorine in order to minimise the lone-pair-lone pair repulsions. The shape would be that of a slightly bent ‘T’.
+569+570 These compounds can be used as non aqueous solvents. Interhalogen compounds are very useful fluorinating agents.
+571 ClF3 and BrF3 are used for the production of UF6 in the enrichment of U. U(s) + 3ClF3(l) → UF6(g) + 3ClF(g)

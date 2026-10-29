@@ -1,0 +1,48 @@
+40=
+47=
+66=
+70=
+82+84+85+86=
+125=
+189=
+191=
+210=
+252=
+286T Due to the decrease in bond (E–H) dissociation enthalpy down the group, acidic character increases.
+289+290=
+307=
+387=
+400+401+402+403=
+419T All these elements have seven electrons in their outermost shell (ns^2np^5) which is one electron short of the next noble gas.
+421=
+436=
+438+439=
+444=
+458+459=
+496+497=
+614+615=
+649=
+653=
+659+660=
+671=
+674+675=
+@ch g15 Oxidation states
+700T Higher the positive oxidation state of central atom, more will be its polarising power which, in turn, increases the covalent character of bond formed between the central atom and the other atom.
+@ch g15 Hydrides EH3
+700T BiH3 is the least stable among the hydrides of Group 15.
+701T In PH4^+ all the four orbitals are bonded whereas in PH3 there is a lone pair of electrons on P, which is responsible for lone pair-bond pair repulsion in PH3 reducing the bond angle to less than 109° 28′.
+@ch g15 Anomalous properties of nitrogen
+700T Because of strong pπ–pπ overlap resulting into the triple bond, N≡N.
+@ch g15 Oxides of nitrogen
+700T From the structure of N2O5 it is evident that covalence of nitrogen is four.
+@ch g15 Phosphorus pentachloride
+701T PCl5 + H2O → POCl3 + 2HCl
+@ch g15 Oxoacids of phosphorus
+701T Three P–OH groups are present in the molecule of H3PO4. Therefore, its basicity is three.
+@ch g16 Hydrides H2E
+701T Because of small size and high electronegativity of oxygen, molecules of water are highly associated through hydrogen bonding resulting in its liquid state.
+@ch g16 Sulphur dioxide
+701T Both the S–O bonds are covalent and have equal strength due to resonating structures.
+@ch g16 Sulphuric acid
+701+702+703T H2SO4 is a very strong acid in water largely because of its first ionisation to H3O^+ and HSO4^–. The ionisation of HSO4^– to H3O^+ and SO4^2– is very very small. That is why Ka2 << Ka1.
+@auto

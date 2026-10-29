@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Residue · JEE inorganic</title>
+  <link rel="stylesheet" href="css/fonts.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/views.css" />
+  <link rel="stylesheet" href="css/colours.css" />
+  <link rel="stylesheet" href="css/drift.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="top">
+      <div class="brand">
+        <h1>Residue<span class="stop">.</span></h1>
+        <p>JEE inorganic, laid out to be looked at.</p>
+        <p class="stamp" id="stamp"></p>
+      </div>
+      <div class="actions">
+        <label class="search">
+          <span class="search-ic" data-icon="search"></span>
+          <input id="q" placeholder="KMnO4, brown ring, inert pair, XeF6…" aria-label="Search" autocomplete="off" />
+          <button class="clear" id="q-clear" aria-label="Clear search" hidden data-icon="x"></button>
+        </label>
+        <div class="seg textmode" id="textmode" role="group" aria-label="Wording">
+          <button data-m="cond" title="Crisp rewrite of each NCERT line">Condensed</button>
+          <button data-m="orig" title="NCERT's exact wording">NCERT words</button>
+        </div>
+        <button class="drift-btn" id="drift-open"><span data-icon="shuffle"></span>Drift</button>
+      </div>
+    </header>
+    <nav class="tabs" id="tabs"></nav>
+    <main id="view"></main>
+  </div>
+  <div id="drift-root"></div>
+
+  <!-- core -->
+  <script src="js/core.js"></script>
+  <script src="data/meta.js"></script>
+  <!-- NCERT lines, one generated file per chapter (tools/build_lines.py) -->
+  <script src="data/lines/per.js"></script>
+  <script src="data/lines/hyd.js"></script>
+  <script src="data/lines/s.js"></script>
+  <script src="data/lines/g13.js"></script>
+  <script src="data/lines/g14.js"></script>
+  <script src="data/lines/g15.js"></script>
+  <script src="data/lines/g16.js"></script>
+  <script src="data/lines/g17.js"></script>
+  <script src="data/lines/g18.js"></script>
+  <script src="data/lines/d.js"></script>
+  <script src="data/lines/f.js"></script>
+  <script src="data/lines/co.js"></script>
+  <script src="data/lines/met.js"></script>
+  <!-- colours stated in the PDFs (tools/build_colours.py) -->
+  <script src="data/colours.js"></script>
+  <script src="js/data-index.js"></script>
+  <!-- ui -->
+  <script src="js/ui.js"></script>
+  <script src="js/views/table.js"></script>
+  <script src="js/views/chapters.js"></script>
+  <script src="js/views/colours.js"></script>
+  <script src="js/views/lists.js"></script>
+  <script src="js/views/drift.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

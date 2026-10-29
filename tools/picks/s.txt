@@ -1,0 +1,227 @@
+@src old11
+# Introduction
+360 The s-block elements of the Periodic Table are those in which the last electron enters the outermost s-orbital. As the s-orbital can accommodate only two electrons, two groups (1 & 2) belong to the s-block of the Periodic Table.
+361+362+363 Group 1 of the Periodic Table consists of the elements: lithium, sodium, potassium, rubidium, caesium and francium. They are collectively known as the alkali metals. These are so called because they form hydroxides on reaction with water which are strongly alkaline in nature.
+364+365+366 The elements of Group 2 include beryllium, magnesium, calcium, strontium, barium and radium. These elements with the exception of beryllium are commonly known as the alkaline earth metals. These are so called because their oxides and hydroxides are alkaline in nature and these metal oxides are found in the earth's crust.
+367 Among the alkali metals sodium and potassium are abundant and lithium, rubidium and caesium have much lower abundances.
+368 Francium is highly radioactive; its longest-lived isotope ^223Fr has a half-life of only 21 minutes.
+369 Of the alkaline earth metals calcium and magnesium rank fifth and sixth in abundance respectively in the earth's crust. Strontium and barium have much lower abundances.
+370 Beryllium is rare and radium is the rarest of all comprising only 10^-10 per cent of igneous rocks.
+373+374+375! Lithium and beryllium, the first elements of Group 1 and Group 2 respectively exhibit some properties which are different from those of the other members of the respective group. In these anomalous properties they resemble the second element of the following group. Thus, lithium shows similarities to magnesium and beryllium to aluminium in many of their properties.
+376+377 This type of diagonal similarity is commonly referred to as diagonal relationship in the periodic table. The diagonal relationship is due to the similarity in ionic sizes and/or charge/radius ratio of the elements.
+# Alkali metals: atomic and physical properties
+382+383+384+385 All the alkali metals have one valence electron, ns^1 outside the noble gas core. The loosely held s-electron in the outermost valence shell of these elements makes them the most electropositive metals. They readily lose electron to give monovalent M^+ ions. Hence they are never found in free state in nature.
+392+393+394 The alkali metal atoms have the largest sizes in a particular period of the periodic table. With increase in atomic number, the atom becomes larger. The monovalent ions (M^+) are smaller than the parent atom.
+395 The ionization enthalpies of the alkali metals are considerably low and decrease down the group from Li to Cs. This is because the effect of increasing size outweighs the increasing nuclear charge, and the outermost electron is very well screened from the nuclear charge.
+396+397 The hydration enthalpies of alkali metal ions decrease with increase in ionic sizes. Li^+ > Na^+ > K^+ > Rb^+ > Cs^+
+397! Li^+ has maximum degree of hydration and for this reason lithium salts are mostly hydrated, e.g., LiCl.2H2O
+397 All the alkali metals are silvery white, soft and light metals.
+398! Because of the large size, these elements have low density which increases down the group from Li to Cs. However, potassium is lighter than sodium.
+399 The melting and boiling points of the alkali metals are low indicating weak metallic bonding due to the presence of only a single valence electron in them.
+400+401 The alkali metals and their salts impart characteristic colour to an oxidizing flame. This is because the heat from the flame excites the outermost orbital electron to a higher energy level.
+402T Flame colours: Li crimson red (670.8 nm), Na yellow (589.2 nm), K violet (766.5 nm), Rb red violet (780.0 nm), Cs blue (455.5 nm).
+402 Alkali metals can therefore, be detected by the respective flame tests and can be determined by flame photometry or atomic absorption spectroscopy.
+403+404 These elements when irradiated with light, the light energy absorbed may be sufficient to make an atom lose electron. This property makes caesium and potassium useful as electrodes in photoelectric cells.
+404T Table 10.1: Ionization enthalpy/kJ mol^-1 Li 520, Na 496, K 419, Rb 403, Cs 376. Hydration enthalpy/kJ mol^-1 -506, -406, -330, -310, -276. Density/g cm^-3 0.53, 0.97, 0.86, 1.53, 1.90. E°(M^+/M)/V -3.04, -2.714, -2.925, -2.930, -2.927. Ionic radius M^+/pm 76, 102, 138, 152, 167.
+# Alkali metals: chemical properties
+408+409 The alkali metals are highly reactive due to their large size and low ionization enthalpy. The reactivity of these metals increases down the group.
+410+411+412 The alkali metals tarnish in dry air due to the formation of their oxides which in turn react with moisture to form hydroxides. They burn vigorously in oxygen forming oxides. Lithium forms monoxide, sodium forms peroxide, the other metals form superoxides.
+404+405+413T 4Li + O2 → 2Li2O (oxide); 2Na + O2 → Na2O2 (peroxide); M + O2 → MO2 (superoxide) (M = K, Rb, Cs)
+405 In all these oxides the oxidation state of the alkali metal is +1.
+413 The superoxide O2^- ion is stable only in the presence of large cations such as K, Rb, Cs.
+406! Lithium shows exceptional behaviour in reacting directly with nitrogen of air to form the nitride, Li3N as well.
+407 Because of their high reactivity towards air and water, they are normally kept in kerosene oil.
+414 The alkali metals react with water to form hydroxide and dihydrogen. 2M + 2H2O → 2M^+ + 2OH^- + H2 (M = an alkali metal)
+414+415! It may be noted that although lithium has most negative E° value, its reaction with water is less vigorous than that of sodium which has the least negative E° value among the alkali metals. This behaviour of lithium is attributed to its small size and very high hydration energy.
+416+417 Other metals of the group react explosively with water. They also react with proton donors such as alcohol, gaseous ammonia and alkynes.
+418+419 The alkali metals react with dihydrogen at about 673K (lithium at 1073K) to form hydrides. All the alkali metal hydrides are ionic solids with high melting points. 2M + H2 → 2M^+H^-
+419+420+421! The alkali metals readily react vigorously with halogens to form ionic halides, M^+X^-. However, lithium halides are somewhat covalent. It is because of the high polarisation capability of lithium ion.
+422+423! The Li^+ ion is very small in size and has high tendency to distort electron cloud around the negative halide ion. Since anion with large size can be easily distorted, among halides, lithium iodide is the most covalent in nature.
+424! The alkali metals are strong reducing agents, lithium being the most and sodium the least powerful.
+425T The standard electrode potential (E°) which measures the reducing power represents the overall change: M(s) → M(g) (sublimation enthalpy); M(g) → M^+(g) + e^- (ionization enthalpy); M^+(g) + H2O → M^+(aq) (hydration enthalpy).
+425! With the small size of its ion, lithium has the highest hydration enthalpy which accounts for its high negative E° value and its high reducing power.
+427 The alkali metals dissolve in liquid ammonia giving deep blue solutions which are conducting in nature.
+428T M + (x + y)NH3 → [M(NH3)x]^+ + [e(NH3)y]^-
+428 The blue colour of the solution is due to the ammoniated electron which absorbs energy in the visible region of light and thus imparts blue colour to the solution.
+429 The solutions are paramagnetic and on standing slowly liberate hydrogen resulting in the formation of amide.
+430T M^+(am) + e^- + NH3(l) → MNH2(am) + ½H2(g) (where 'am' denotes solution in ammonia.)
+430! In concentrated solution, the blue colour changes to bronze colour and becomes diamagnetic.
+# Alkali metals: uses
+431 Lithium metal is used to make useful alloys, for example with lead to make 'white metal' bearings for motor engines, with aluminium to make aircraft parts, and with magnesium to make armour plates.
+432+433 It is used in thermonuclear reactions. Lithium is also used to make electrochemical cells.
+434+435 Sodium is used to make a Na/Pb alloy needed to make PbEt4 and PbMe4. These organolead compounds were earlier used as anti-knock additives to petrol, but nowadays vehicles use lead-free petrol.
+436 Liquid sodium metal is used as a coolant in fast breeder nuclear reactors.
+439+440+441 Potassium chloride is used as a fertilizer. Potassium hydroxide is used in the manufacture of soft soap. It is also used as an excellent absorbent of carbon dioxide.
+442 Caesium is used in devising photoelectric cells.
+# Compounds of alkali metals
+442 All the common compounds of the alkali metals are generally ionic in nature.
+443 On combustion in excess of air, lithium forms mainly the oxide, Li2O (plus some peroxide Li2O2), sodium forms the peroxide, Na2O2 (and some superoxide NaO2) whilst potassium, rubidium and caesium form the superoxides, MO2.
+445 The increasing stability of the peroxide or superoxide, as the size of the metal ion increases, is due to the stabilisation of large anions by larger cations through lattice energy effects.
+446 These oxides are easily hydrolysed by water to form the hydroxides: M2O + H2O → 2M^+ + 2OH^-; M2O2 + 2H2O → 2M^+ + 2OH^- + H2O2; 2MO2 + 2H2O → 2M^+ + 2OH^- + H2O2 + O2
+446+447! The oxides and the peroxides are colourless when pure, but the superoxides are yellow or orange in colour. The superoxides are also paramagnetic.
+448 Sodium peroxide is widely used as an oxidising agent in inorganic chemistry.
+450 The superoxide O2^- is paramagnetic because of one unpaired electron in π*2p molecular orbital.
+450+451 The hydroxides which are obtained by the reaction of the oxides with water are all white crystalline solids. The alkali metal hydroxides are the strongest of all bases and dissolve freely in water with evolution of much heat on account of intense hydration.
+451 The alkali metal halides, MX, (X = F, Cl, Br, I) are all high melting, colourless crystalline solids.
+453! All of these halides have high negative enthalpies of formation; the ∆fH° values for fluorides become less negative as we go down the group, whilst the reverse is true for ∆fH° for chlorides, bromides and iodides.
+454+455 For a given metal ∆fH° always becomes less negative from fluoride to iodide. The melting and boiling points always follow the trend: fluoride > chloride > bromide > iodide.
+457! The low solubility of LiF in water is due to its high lattice enthalpy whereas the low solubility of CsI is due to smaller hydration enthalpy of its two ions.
+458 Other halides of lithium are soluble in ethanol, acetone and ethylacetate; LiCl is soluble in pyridine also.
+459+460 The alkali metals form salts with all the oxo-acids. They are generally soluble in water and thermally stable.
+461+462 Their carbonates (M2CO3) and in most cases the hydrogencarbonates (MHCO3) also are highly stable to heat. As the electropositive character increases down the group, the stability of the carbonates and hydrogencarbonates increases.
+463+464! Lithium carbonate is not so stable to heat; lithium being very small in size polarises a large CO3^2- ion leading to the formation of more stable Li2O and CO2. Its hydrogencarbonate does not exist as a solid.
+# Anomalous properties of lithium
+465+466 The anomalous behaviour of lithium is due to the: (i) exceptionally small size of its atom and ion, and (ii) high polarising power (i.e., charge/radius ratio). As a result, there is increased covalent character of lithium compounds which is responsible for their solubility in organic solvents.
+467+468! Lithium is much harder. Its m.p. and b.p. are higher than the other alkali metals.
+469+470! Lithium is least reactive but the strongest reducing agent among all the alkali metals. On combustion in air it forms mainly monoxide, Li2O and the nitride, Li3N unlike other alkali metals.
+471! LiCl is deliquescent and crystallises as a hydrate, LiCl.2H2O whereas other alkali metal chlorides do not form hydrates.
+472! Lithium hydrogencarbonate is not obtained in the solid form while all other elements form solid hydrogencarbonates.
+473! Lithium unlike other alkali metals forms no ethynide on reaction with ethyne.
+474! Lithium nitrate when heated gives lithium oxide, Li2O, whereas other alkali metal nitrates decompose to give the corresponding nitrite. 4LiNO3 → 2Li2O + 4NO2 + O2; 2NaNO3 → 2NaNO2 + O2
+474! LiF and Li2O are comparatively much less soluble in water than the corresponding compounds of other alkali metals.
+474 The similarity between lithium and magnesium is particularly striking and arises because of their similar sizes: atomic radii, Li = 152 pm, Mg = 160 pm; ionic radii: Li^+ = 76 pm, Mg^2+ = 72 pm.
+475+476 Both lithium and magnesium are harder and lighter than other elements in the respective groups. Lithium and magnesium react slowly with water.
+477+478 Their oxides and hydroxides are much less soluble and their hydroxides decompose on heating. Both form a nitride, Li3N and Mg3N2, by direct combination with nitrogen.
+479 The oxides, Li2O and MgO do not combine with excess oxygen to give any superoxide.
+480+481 The carbonates of lithium and magnesium decompose easily on heating to form the oxides and CO2. Solid hydrogencarbonates are not formed by lithium and magnesium.
+482+483 Both LiCl and MgCl2 are soluble in ethanol. Both LiCl and MgCl2 are deliquescent and crystallise from aqueous solution as hydrates, LiCl·2H2O and MgCl2·8H2O.
+# Sodium carbonate
+484+485 Sodium carbonate is generally prepared by Solvay Process. In this process, advantage is taken of the low solubility of sodium hydrogencarbonate whereby it gets precipitated in the reaction of sodium chloride with ammonium hydrogencarbonate.
+486 The latter is prepared by passing CO2 to a concentrated solution of sodium chloride saturated with ammonia, where ammonium carbonate followed by ammonium hydrogencarbonate are formed.
+487 2NH3 + H2O + CO2 → (NH4)2CO3; (NH4)2CO3 + H2O + CO2 → 2NH4HCO3; NH4HCO3 + NaCl → NH4Cl + NaHCO3
+487+488+489 Sodium hydrogencarbonate crystal separates. These are heated to give sodium carbonate. 2NaHCO3 → Na2CO3 + CO2 + H2O
+489+490 In this process NH3 is recovered when the solution containing NH4Cl is treated with Ca(OH)2. Calcium chloride is obtained as a by-product. 2NH4Cl + Ca(OH)2 → 2NH3 + CaCl2 + H2O
+490! Solvay process cannot be extended to the manufacture of potassium carbonate because potassium hydrogencarbonate is too soluble to be precipitated by the addition of ammonium hydrogencarbonate to a saturated solution of potassium chloride.
+491+492+493 Sodium carbonate is a white crystalline solid which exists as a decahydrate, Na2CO3·10H2O. This is also called washing soda. It is readily soluble in water.
+494+495 On heating, the decahydrate loses its water of crystallisation to form monohydrate. Above 373K, the monohydrate becomes completely anhydrous and changes to a white powder called soda ash.
+496T Na2CO3·10H2O → Na2CO3·H2O + 9H2O (375 K); Na2CO3·H2O → Na2CO3 + H2O (>373 K)
+496+497 Carbonate part of sodium carbonate gets hydrolysed by water to form an alkaline solution. CO3^2- + H2O → HCO3^- + OH^-
+497+498 It is used in water softening, laundering and cleaning. It is used in the manufacture of glass, soap, borax and caustic soda.
+# Sodium chloride
+501 The most abundant source of sodium chloride is sea water which contains 2.7 to 2.9% by mass of the salt.
+504+505 Crude sodium chloride, generally obtained by crystallisation of brine solution, contains sodium sulphate, calcium sulphate, calcium chloride and magnesium chloride as impurities. Calcium chloride, CaCl2, and magnesium chloride, MgCl2 are impurities because they are deliquescent (absorb moisture easily from the atmosphere).
+506+507+508+509 To obtain pure sodium chloride, the crude salt is dissolved in minimum amount of water and filtered to remove insoluble impurities. The solution is then saturated with hydrogen chloride gas. Crystals of pure sodium chloride separate out. Calcium and magnesium chloride, being more soluble than sodium chloride, remain in solution.
+510 Sodium chloride melts at 1081K. It has a solubility of 36.0 g in 100 g of water at 273 K. The solubility does not increase appreciably with increase in temperature.
+# Sodium hydroxide
+513+514 Sodium hydroxide is generally prepared commercially by the electrolysis of sodium chloride in Castner-Kellner cell. A brine solution is electrolysed using a mercury cathode and a carbon anode.
+515+516 Sodium metal discharged at the cathode combines with mercury to form sodium amalgam. Chlorine gas is evolved at the anode.
+517T Cathode: Na^+ + e^- → Na-amalgam (Hg); Anode: Cl^- → ½Cl2 + e^-. 2Na-amalgam + 2H2O → 2NaOH + 2Hg + H2
+517+518+519 Sodium hydroxide is a white, translucent solid. It melts at 591 K. It is readily soluble in water to give a strong alkaline solution. Crystals of sodium hydroxide are deliquescent.
+520 The sodium hydroxide solution at the surface reacts with the CO2 in the atmosphere to form Na2CO3.
+521 It is used in (i) the manufacture of soap, paper, artificial silk and a number of chemicals, (ii) in petroleum refining, (iii) in the purification of bauxite, (iv) in the textile industries for mercerising cotton fabrics, (v) for the preparation of pure fats and oils, and (vi) as a laboratory reagent.
+# Sodium hydrogencarbonate
+522 Sodium hydrogencarbonate is known as baking soda because it decomposes on heating to generate bubbles of carbon dioxide (leaving holes in cakes or pastries and making them light and fluffy).
+523+524 Sodium hydrogencarbonate is made by saturating a solution of sodium carbonate with carbon dioxide. The white crystalline powder of sodium hydrogencarbonate, being less soluble, gets separated out.
+525+526 Na2CO3 + H2O + CO2 → 2NaHCO3. Sodium hydrogencarbonate is a mild antiseptic for skin infections. It is used in fire extinguishers.
+# Biological importance of Na and K
+526 A typical 70 kg man contains about 90 g of Na and 170 g of K compared with only 5 g of iron and 0.06 g of copper.
+527+528 Sodium ions are found primarily on the outside of cells, being located in blood plasma and in the interstitial fluid which surrounds the cells. These ions participate in the transmission of nerve signals, in regulating the flow of water across cell membranes and in the transport of sugars and amino acids into cells.
+530 Thus, potassium ions are the most abundant cations within cell fluids, where they activate many enzymes, participate in the oxidation of glucose to produce ATP and, with sodium, are responsible for the transmission of nerve signals.
+532+533 In blood plasma, sodium is present to the extent of 143 mmol L^-1 whereas the potassium level is only 5 mmol L^-1 within the red blood cells. These concentrations change to 10 mmol L^-1 (Na^+) and 105 mmol L^-1 (K^+).
+534 These ionic gradients demonstrate that a discriminatory mechanism, called the sodium-potassium pump, operates across the cell membranes which consumes more than one-third of the ATP used by a resting animal and about 15 kg per 24 h in a resting human.
+# Alkaline earth metals: atomic and physical properties
+537 The first element beryllium differs from the rest of the members and shows diagonal relationship to aluminium.
+539+540 Their general electronic configuration may be represented as [noble gas] ns^2. Like alkali metals, the compounds of these elements are also predominantly ionic.
+545+554+555 The atomic and ionic radii of the alkaline earth metals are smaller than those of the corresponding alkali metals in the same periods. This is due to the increased nuclear charge in these elements. Within the group, the atomic and ionic radii increase with increase in atomic number.
+556+557 The alkaline earth metals have low ionization enthalpies due to fairly large size of the atoms. Since the atomic size increases down the group, their ionization enthalpy decreases.
+558+559 The first ionisation enthalpies of the alkaline earth metals are higher than those of the corresponding Group 1 metals. This is due to their small size as compared to the corresponding alkali metals.
+560! It is interesting to note that the second ionisation enthalpies of the alkaline earth metals are smaller than those of the corresponding alkali metals.
+561 Like alkali metal ions, the hydration enthalpies of alkaline earth metal ions decrease with increase in ionic size down the group. Be^2+ > Mg^2+ > Ca^2+ > Sr^2+ > Ba^2+
+561+562 The hydration enthalpies of alkaline earth metal ions are larger than those of alkali metal ions. Thus, compounds of alkaline earth metals are more extensively hydrated than those of alkali metals, e.g., MgCl2 and CaCl2 exist as MgCl2.6H2O and CaCl2.6H2O while NaCl and KCl do not form such hydrates.
+553T Table 10.2: Ionic radius M^2+/pm Be 31, Mg 72, Ca 100, Sr 118, Ba 135, Ra 148. Hydration enthalpy/kJ mol^-1 -2494, -1921, -1577, -1443, -1305. E°(M^2+/M)/V -1.97, -2.36, -2.84, -2.89, -2.92, -2.92. Density/g cm^-3 1.84, 1.74, 1.55, 2.63, 3.59.
+563+564 The alkaline earth metals, in general, are silvery white, lustrous and relatively soft but harder than the alkali metals. Beryllium and magnesium appear to be somewhat greyish.
+565+566! The melting and boiling points of these metals are higher than the corresponding alkali metals due to smaller sizes. The trend is, however, not systematic.
+568+569 Calcium, strontium and barium impart characteristic brick red, crimson and apple green colours respectively to the flame.
+571+572! The electrons in beryllium and magnesium are too strongly bound to get excited by flame. Hence, these elements do not impart any colour to the flame.
+573 The flame test for Ca, Sr and Ba is helpful in their detection in qualitative analysis and estimation by flame photometry.
+# Alkaline earth metals: chemical properties
+575+576 The alkaline earth metals are less reactive than the alkali metals. The reactivity of these elements increases on going down the group.
+577! Beryllium and magnesium are kinetically inert to oxygen and water because of the formation of an oxide film on their surface.
+578+579 However, powdered beryllium burns brilliantly on ignition in air to give BeO and Be3N2. Magnesium is more electropositive and burns with dazzling brilliance in air to give MgO and Mg3N2.
+580+581 Calcium, strontium and barium are readily attacked by air to form the oxide and nitride. They also react with water with increasing vigour even in cold to form hydroxides.
+582+583 All the alkaline earth metals combine with halogen at elevated temperatures forming their halides. M + X2 → MX2 (X = F, Cl, Br, I)
+583 Thermal decomposition of (NH4)2BeF4 is the best route for the preparation of BeF2, and BeCl2 is conveniently made from the oxide.
+584T BeO + C + Cl2 → BeCl2 + CO (600-800K)
+584! All the elements except beryllium combine with hydrogen upon heating to form their hydrides, MH2. BeH2, however, can be prepared by the reaction of BeCl2 with LiAlH4. 2BeCl2 + LiAlH4 → 2BeH2 + LiCl + AlCl3
+584+585 The alkaline earth metals readily react with acids liberating dihydrogen. M + 2HCl → MCl2 + H2
+585+586+587 Like alkali metals, the alkaline earth metals are strong reducing agents. This is indicated by large negative values of their reduction potentials. However their reducing power is less than those of their corresponding alkali metals.
+588+589! Beryllium has less negative value compared to other alkaline earth metals. However, its reducing nature is due to large hydration energy associated with the small size of Be^2+ ion and relatively large value of the atomization enthalpy of the metal.
+589+590 Like alkali metals, the alkaline earth metals dissolve in liquid ammonia to give deep blue black solutions forming ammoniated ions. M + (x + y)NH3 → [M(NH3)x]^2+ + 2[e(NH3)y]^-. From these solutions, the ammoniates, [M(NH3)6]^2+ can be recovered.
+# Alkaline earth metals: uses
+591+592+593 Beryllium is used in the manufacture of alloys. Copper-beryllium alloys are used in the preparation of high strength springs. Metallic beryllium is used for making windows of X-ray tubes.
+594+595 Magnesium forms alloys with aluminium, zinc, manganese and tin. Magnesium-aluminium alloys being light in mass are used in air-craft construction.
+596 Magnesium (powder and ribbon) is used in flash powders and bulbs, incendiary bombs and signals.
+597+598 A suspension of magnesium hydroxide in water (called milk of magnesia) is used as antacid in medicine. Magnesium carbonate is an ingredient of toothpaste.
+599 Calcium is used in the extraction of metals from oxides which are difficult to reduce with carbon.
+600 Calcium and barium metals, owing to their reactivity with oxygen and nitrogen at elevated temperatures, have often been used to remove air from vacuum tubes.
+601 Radium salts are used in radiotherapy, for example, in the treatment of cancer.
+# Compounds of alkaline earth metals
+602+603+604 The dipositive oxidation state (M^2+) is the predominant valence of Group 2 elements. The alkaline earth metals form compounds which are predominantly ionic but less ionic than the corresponding compounds of alkali metals. This is due to increased nuclear charge and smaller size.
+605 The oxides and other compounds of beryllium and magnesium are more covalent than those formed by the heavier and large sized members (Ca, Sr, Ba).
+607+608! The alkaline earth metals burn in oxygen to form the monoxide, MO which, except for BeO, have rock-salt structure. The BeO is essentially covalent in nature.
+609 The enthalpies of formation of these oxides are quite high and consequently they are very stable to heat.
+610+611! BeO is amphoteric while oxides of other elements are ionic in nature. All these oxides except BeO are basic in nature and react with water to form sparingly soluble hydroxides.
+612 MO + H2O → M(OH)2. The solubility, thermal stability and the basic character of these hydroxides increase with increasing atomic number from Mg(OH)2 to Ba(OH)2.
+613 The alkaline earth metal hydroxides are, however, less basic and less stable than alkali metal hydroxides.
+614+615! Beryllium hydroxide is amphoteric in nature as it reacts with acid and alkali both. Be(OH)2 + 2OH^- → [Be(OH)4]^2- (beryllate ion); Be(OH)2 + 2HCl + 2H2O → [Be(OH)4]Cl2
+615+616! Except for beryllium halides, all other halides of alkaline earth metals are ionic in nature. Beryllium halides are essentially covalent and soluble in organic solvents.
+617 Beryllium chloride has a chain structure in the solid state. In the vapour phase BeCl2 tends to form a chloro-bridged dimer which dissociates into the linear monomer at high temperatures of the order of 1200 K.
+617 The tendency to form halide hydrates gradually decreases (for example, MgCl2·8H2O, CaCl2·6H2O, SrCl2·6H2O and BaCl2·2H2O) down the group.
+618! The dehydration of hydrated chlorides, bromides and iodides of Ca, Sr and Ba can be achieved on heating; however, the corresponding hydrated halides of Be and Mg on heating suffer hydrolysis.
+619 The fluorides are relatively less soluble than the chlorides owing to their high lattice energies.
+621 Carbonates of alkaline earth metals are insoluble in water and can be precipitated by addition of a sodium or ammonium carbonate solution to a solution of a soluble salt of these metals.
+622+623 The solubility of carbonates in water decreases as the atomic number of the metal ion increases. All the carbonates decompose on heating to give carbon dioxide and the oxide.
+624+625! Beryllium carbonate is unstable and can be kept only in the atmosphere of CO2. The thermal stability increases with increasing cationic size.
+626+627 The sulphates of the alkaline earth metals are all white solids and stable to heat. BeSO4 and MgSO4 are readily soluble in water; the solubility decreases from CaSO4 to BaSO4.
+628! The greater hydration enthalpies of Be^2+ and Mg^2+ ions overcome the lattice enthalpy factor and therefore their sulphates are soluble in water.
+629+630+631 The nitrates are made by dissolution of the carbonates in dilute nitric acid. Magnesium nitrate crystallises with six molecules of water, whereas barium nitrate crystallises as the anhydrous salt. This again shows a decreasing tendency to form hydrates with increasing size and decreasing hydration enthalpy.
+632 All of them decompose on heating to give the oxide like lithium nitrate. 2M(NO3)2 → 2MO + 4NO2 + O2 (M = Be, Mg, Ca, Sr, Ba)
+634+635 Among alkaline earth metal hydroxides, the anion being common the cationic radius will influence the lattice enthalpy. Since lattice enthalpy decreases much more than the hydration enthalpy with increasing ionic size, the solubility increases as we go down the group.
+637+638 The size of anions being much larger compared to cations, the lattice enthalpy will remain almost constant within a particular group. Since the hydration enthalpies decrease down the group, solubility will decrease as found for alkaline earth metal carbonates and sulphates.
+# Anomalous behaviour of beryllium
+641+642! Beryllium has exceptionally small atomic and ionic sizes and thus does not compare well with other members of the group. Because of high ionisation enthalpy and small size it forms compounds which are largely covalent and get easily hydrolysed.
+643+644! Beryllium does not exhibit coordination number more than four as in its valence shell there are only four orbitals. The remaining members of the group can have a coordination number of six by making use of d-orbitals.
+645! The oxide and hydroxide of beryllium, unlike the hydroxides of other elements in the group, are amphoteric in nature.
+646+647 The ionic radius of Be^2+ is estimated to be 31 pm; the charge/radius ratio is nearly the same as that of the Al^3+ ion. Hence beryllium resembles aluminium in some ways.
+648 Like aluminium, beryllium is not readily attacked by acids because of the presence of an oxide film on the surface of the metal.
+648 Beryllium hydroxide dissolves in excess of alkali to give a beryllate ion, [Be(OH)4]^2- just as aluminium hydroxide gives aluminate ion, [Al(OH)4]^-.
+649+650+651 The chlorides of both beryllium and aluminium have Cl^- bridged chloride structure in vapour phase. Both the chlorides are soluble in organic solvents and are strong Lewis acids. They are used as Friedel Craft catalysts.
+652 Beryllium and aluminium ions have strong tendency to form complexes, BeF4^2-, AlF6^3-.
+# Calcium oxide
+656 It is prepared on a commercial scale by heating limestone (CaCO3) in a rotary kiln at 1070-1270 K. CaCO3 → CaO + CO2 (heat). The carbon dioxide is removed as soon as it is produced to enable the reaction to proceed to completion.
+657+658 Calcium oxide is a white amorphous solid. It has a melting point of 2870 K. On exposure to atmosphere, it absorbs moisture and carbon dioxide.
+659+660 CaO + H2O → Ca(OH)2; CaO + CO2 → CaCO3. The addition of limited amount of water breaks the lump of lime. This process is called slaking of lime.
+661+662+663 Quick lime slaked with soda gives solid sodalime. Being a basic oxide, it combines with acidic oxides at high temperature. CaO + SiO2 → CaSiO3; 6CaO + P4O10 → 2Ca3(PO4)2
+663+664+665 It is an important primary material for manufacturing cement and is the cheapest form of alkali. It is used in the manufacture of sodium carbonate from caustic soda. It is employed in the purification of sugar and in the manufacture of dye stuffs.
+# Calcium hydroxide
+666+667+668 Calcium hydroxide is prepared by adding water to quick lime, CaO. It is a white amorphous powder. It is sparingly soluble in water. The aqueous solution is known as lime water and a suspension of slaked lime in water is known as milk of lime.
+669+670 When carbon dioxide is passed through lime water it turns milky due to the formation of calcium carbonate. Ca(OH)2 + CO2 → CaCO3 + H2O
+670+671 On passing excess of carbon dioxide, the precipitate dissolves to form calcium hydrogencarbonate. CaCO3 + CO2 + H2O → Ca(HCO3)2
+671 Milk of lime reacts with chlorine to form hypochlorite, a constituent of bleaching powder. 2Ca(OH)2 + 2Cl2 → CaCl2 + Ca(OCl)2 + 2H2O
+671+672 It is used in the preparation of mortar, a building material. It is used in white wash due to its disinfectant nature. It is used in glass making, in tanning industry, for the preparation of bleaching powder and for purification of sugar.
+# Calcium carbonate
+673 Calcium carbonate occurs in nature in several forms like limestone, chalk, marble etc. It can be prepared by passing carbon dioxide through slaked lime or by the addition of sodium carbonate to calcium chloride.
+674 Ca(OH)2 + CO2 → CaCO3 + H2O; CaCl2 + Na2CO3 → CaCO3 + 2NaCl. Excess of carbon dioxide should be avoided since this leads to the formation of water soluble calcium hydrogencarbonate.
+675+676+677 Calcium carbonate is a white fluffy powder. It is almost insoluble in water. When heated to 1200 K, it decomposes to evolve carbon dioxide.
+678+679 It reacts with dilute acid to liberate carbon dioxide. CaCO3 + 2HCl → CaCl2 + H2O + CO2; CaCO3 + H2SO4 → CaSO4 + H2O + CO2
+679+680 It is used as a building material in the form of marble and in the manufacture of quick lime. Calcium carbonate along with magnesium carbonate is used as a flux in the extraction of metals such as iron.
+681+682 Specially precipitated CaCO3 is extensively used in the manufacture of high quality paper. It is also used as an antacid, mild abrasive in tooth paste, a constituent of chewing gum, and a filler in cosmetics.
+# Plaster of Paris
+683+684 Plaster of Paris, CaSO4·½H2O is a hemihydrate of calcium sulphate. It is obtained when gypsum, CaSO4·2H2O, is heated to 393 K. 2(CaSO4·2H2O) → 2(CaSO4)·H2O + 3H2O
+684+685! Above 393 K, no water of crystallisation is left and anhydrous calcium sulphate, CaSO4 is formed. This is known as 'dead burnt plaster'.
+686+687 It has a remarkable property of setting with water. On mixing with an adequate quantity of water it forms a plastic mass that gets into a hard solid in 5 to 15 minutes.
+688+689+690 The largest use of Plaster of Paris is in the building industry as well as plasters. It is used for immoblising the affected part of organ where there is a bone fracture or sprain. It is also employed in dentistry, in ornamental work and for making casts of statues and busts.
+# Cement
+691+692 Cement was first introduced in England in 1824 by Joseph Aspdin. It is also called Portland cement because it resembles with the natural limestone quarried in the Isle of Portland, England.
+693 Cement is a product obtained by combining a material rich in lime, CaO with other material such as clay which contains silica, SiO2 along with the oxides of aluminium, iron and magnesium.
+694 The average composition of Portland cement is: CaO, 50-60%; SiO2, 20-25%; Al2O3, 5-10%; MgO, 2-3%; Fe2O3, 1-2% and SO3, 1-2%.
+695 For a good quality cement, the ratio of silica (SiO2) to alumina (Al2O3) should be between 2.5 and 4 and the ratio of lime (CaO) to the total of the oxides of silicon (SiO2) aluminium (Al2O3) and iron (Fe2O3) should be as close as possible to 2.
+696+697+698 The raw materials for the manufacture of cement are limestone and clay. When clay and lime are strongly heated together they fuse and react to form 'cement clinker'. This clinker is mixed with 2-3% by weight of gypsum (CaSO4·2H2O) to form cement.
+699 Thus important ingredients present in Portland cement are dicalcium silicate (Ca2SiO4) 26%, tricalcium silicate (Ca3SiO5) 51% and tricalcium aluminate (Ca3Al2O6) 11%.
+700+701+702 When mixed with water, the setting of cement takes place to give a hard mass. This is due to the hydration of the molecules of the constituents and their rearrangement. The purpose of adding gypsum is only to slow down the process of setting of the cement so that it gets sufficiently hardened.
+# Biological importance of Mg and Ca
+705+706 An adult body contains about 25 g of Mg and 1200 g of Ca compared with only 5 g of iron and 0.06 g of copper. The daily requirement in the human body has been estimated to be 200 – 300 mg.
+707+708 All enzymes that utilise ATP in phosphate transfer require magnesium as the cofactor. The main pigment for the absorption of light in plants is chlorophyll which contains magnesium.
+709+710 About 99 % of body calcium is present in bones and teeth. It also plays important roles in neuromuscular function, interneuronal transmission, cell membrane integrity and blood coagulation.
+711+712 The calcium concentration in plasma is regulated at about 100 mg L^-1. It is maintained by two hormones: calcitonin and parathyroid hormone.
+713 Bone is not an inert and unchanging substance but is continuously being solubilised and redeposited to the extent of 400 mg per day in man.

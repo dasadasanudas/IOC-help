@@ -1,0 +1,168 @@
+a43481|Free state: C, S, Au, noble gases; others combined in the crust.
+639f3c|**Al: most abundant metal, third most abundant element in the crust (~8.3% by weight).**
+a8490d|Gems are impure Al2O3: **ruby (Cr impurity), sapphire (Co impurity).**
+0f7b4f|Fe: second most abundant metal in the crust.
+1e45ad|Minerals: natural compounds obtained by mining. Ores: minerals viable as a metal source.
+b83783|=
+6de358|=
+5d78a0|Al from bauxite. Fe from oxide ores (abundant, no polluting SO2 like iron pyrites).
+aa765c|Metallurgy: whole process of isolating a metal from its ore.
+469ed4|Gangue: earthy, unwanted material in the ore.
+c49aaf|Steps: concentration → isolation from concentrated ore → purification.
+c21969|Concentration = dressing = benefaction: removing sand, clay etc.
+e5df2a|Ores are graded and crushed first.
+4a8981|**Flux + gangue → slag**, which separates more easily than gangue.
+0a9657|Concentration method depends on physical property differences between ore and gangue.
+83de4d|Hydraulic washing: gravity separation by specific gravity difference.
+2efb70|Upward water stream washes off light gangue; heavy ore stays.
+6c8fb0|Magnetic separation: when ore or gangue is magnetic.
+dc7903|Iron ores are attracted to a magnet, so non-magnetic impurities separate.
+f50cd6|**Froth floatation: for sulphide ores.** Powdered ore + water + collectors + froth stabilisers.
+241f6e|**Collectors (pine oils, fatty acids, xanthates) increase non-wettability of mineral; froth stabilisers (cresols, aniline) stabilise froth.**
+b78da9|Mineral wetted by oil, gangue by water.
+76a103|Rotating paddle draws in air; froth carries mineral and is skimmed off.
+9a816f|Two sulphide ores can be separated by oil:water ratio or depressants.
+812fef|**ZnS + PbS: depressant NaCN keeps ZnS out of the froth; PbS goes with the froth.**
+4b7f51|-
+6b99f9|Magnetic concentration works for iron ores: haematite, magnetite, siderite, iron pyrites.
+55bfbc|Leaching: ore soluble in a suitable solvent.
+1c8c02|Bauxite impurities: SiO2, iron oxides, TiO2.
+b5db3e|**Digestion: bauxite + conc. NaOH at 473–523 K, 35–36 bar → sodium aluminate.**
+e3f354|SiO2 also dissolves as sodium silicate.
+591d71|=
+d35157|CO2 neutralises aluminate → hydrated Al2O3 precipitates.
+5df320|**Seeding: a little fresh hydrated Al2O3 added to induce precipitation.**
+61da65|=
+09831a|Sodium silicate stays in solution; hydrated alumina filtered, dried, heated: Al2O3·xH2O(s) →(1470 K) Al2O3(s) + xH2O(g)
+e91c9f|**Ag, Au: leached with dilute NaCN/KCN in air (O2)**; metal recovered by displacement.
+e2d80e|=
+bccebf|Leaching removes SiO2, Fe2O3 etc. from bauxite.
+91d4c3|Sulphide ores → oxides before reduction (oxides easier to reduce).
+26d037|**Calcination: heating, volatile matter leaves:** Fe2O3·xH2O → Fe2O3 + xH2O; ZnCO3 → ZnO + CO2; CaCO3·MgCO3 → CaO + MgO + 2CO2
+cc7029|**Roasting: heating in regular air supply, below the metal's m.p.**
+0d9860|=
+9c5543|Cu sulphide ores: reverberatory furnace; silica added if iron is present.
+ac6d6a|Iron oxide slags off as FeSiO3; Cu comes out as **matte (Cu2S + FeS)**. FeO + SiO2 → FeSiO3. SO2 used for H2SO4.
+ecff4e|Reduction: heat oxide with C, CO or another metal: MxOy + yC → xM + yCO
+7427cc|Gibbs energy decides temperature and choice of reducing agent.
+e8cbe5|Thermal reduction feasible only if ∆G < 0 at that temperature.
+239f61|∆G = ∆H – T∆S
+7a7dba|=
+378933|∆S > 0: raising T makes T∆S > ∆H, ∆G goes negative.
+a0afa3|Coupling reduction with an oxidation can make overall ∆G negative.
+6ee635|Plots are per mole of O2 consumed (Ellingham).
+b82421|Ellingham diagram: basis for choosing reducing agent; predicts feasibility of thermal reduction.
+b5f940|In reduction the oxide decomposes and the reductant takes the oxygen.
+ce3be3|Reductant's oxidation must have ∆rG° negative enough that the sum of both reactions is negative.
+fbe71a|=
+4e6cc3|=
+aa7bde|Oxide formation consumes gas → ∆S negative → –T∆S term positive.
+1925b4|So ∆fG° rises with T: **positive slope for most MxO formation lines.**
+626412|Straight lines sloping up; **slope increases at a phase change** (e.g. Zn melting kink in the Zn–ZnO line).
+3c96d6|Where a line crosses ∆rG° = 0: below, MxO is stable; above, it decomposes on its own.
+b2b1b8|**Similar diagrams for sulphides and halides show why MxS reduction is difficult.**
+48b638|**Ellingham shows only feasibility (thermodynamics), not kinetics.**
+76e132|Explains sluggish all-solid reactions vs smooth reaction once ore melts.
+2162a4|∆H, ∆S nearly constant with T, so T dominates; but ∆S depends strongly on physical state.
+6c9087|Melting (s → l) or vaporising (l → g) increases entropy.
+c2192b|**Limitation: ∆rG° interpretation assumes equilibrium (via K), not always true with solids.**
+9b31ce|-
+ca4aef|T chosen so the sum of ∆rG of the coupled redox steps is negative.
+399abf|That's the intersection of the MxO line with the reductant's oxide line.
+367a73|Beyond the intersection, the combined ∆rG is more negative, reduction possible.
+6ec198|Element on the lower line can reduce oxide of the upper line; bigger gap → easier.
+51b1ca|**At point A (Al2O3/MgO crossing), ∆rG = 0 for Al2O3 + 2Mg → 2MgO + Al; below it Mg can reduce alumina.**
+bd4ac1|**Mg isn't used for alumina in practice: feasible but uneconomical.**
+c86c3f|Liquid metal product → higher ∆S → ∆rG° more negative → easier reduction.
+ddb434|-
+cf66e5|Even feasible reactions need activation energy, so heating is required.
+b1d00c|**Below 1350 °C Mg reduces Al2O3; above 1350 °C Al reduces MgO.**
+9b3fb9|Fe oxide ores (Fe2O3, Fe3O4): calcination/roasting removes water, decomposes carbonates, oxidises sulphides.
+3a86a8|Mixed with limestone + coke, fed into the blast furnace from the top.
+271895|Hot air blast from the bottom burns coke → ~2200 K; coke supplies most of the heat.
+18563c|CO and heat move up the furnace.
+1eb369|**500–800 K (lower range):** 3Fe2O3 + CO → 2Fe3O4 + CO2; Fe3O4 + 4CO → 3Fe + 4CO2; Fe2O3 + CO → 2FeO + CO2
+f3212f|Limestone → CaO, removes silicate impurity as molten slag.
+af5bab|**900–1500 K (higher range):** C + CO2 → 2CO; FeO + CO → Fe + CO2
+0f062d|Key step FeO(s) + C(s) → Fe(s/l) + CO(g): two coupled reactions.
+3f6139|=
+c9b472|**Fe → FeO line goes up, C → CO line goes down; they cross at ~1073 K.**
+de1c54|**Above 1073 K (900–1500 K), coke reduces FeO, itself oxidised to CO.**
+ca72d4|At ~1673 K: 2FeO → 2Fe + O2 +341, 2C + O2 → 2CO –447 → overall –53 kJ mol^–1.
+dfca76|So FeO + C becomes feasible.
+f0d270|Fe3O4 and Fe2O3 are reduced by CO at lower T: their lines cross the CO–CO2 line lower.
+b7d7aa|**Pig iron: ~4% C + small S, P, Si, Mn.**
+8e2f33|**Cast iron: pig iron + scrap iron + coke with hot air; ~3% C, extremely hard and brittle.**
+c9b8d9|**Wrought (malleable) iron: purest commercial iron**, from cast iron in a haematite-lined reverberatory furnace.
+5525fd|Haematite oxidises C: Fe2O3 + 3C → 2Fe + 3CO. Limestone flux; S, Si, P oxidised into slag.
+fa370b|**Cu2O line is near the top of the Ellingham diagram: easily reduced by coke.**
+401783|(C, CO) and (C, CO2) lines are much lower, especially after 500–600 K. But most Cu ores are sulphides, some with iron.
+7097f4|Roast/smelt: 2Cu2S + 3O2 → 2Cu2O + 2SO2; then Cu2O + C → 2Cu + CO
+802e64|Actual process: reverberatory furnace with silica; iron slags off as silicate; copper matte (Cu2S + FeS) forms.
+d76ffb|Matte → silica-lined converter, more silica, hot air blast → metallic copper.
+dabccc|=
+5d2ba3|**Blister copper: blistered look from escaping SO2.**
+bdfde7|**This is self-reduction in the converter.**
+0f10c9|H2SO4 leaching for low-grade ores (hydrometallurgy).
+4d39bf|ZnO reduced by coke, at higher T than for Cu.
+9f08fc|Brickettes of ZnO + coke + clay: ZnO + C →(coke, 1673 K) Zn + CO. **Zn distilled off, collected by rapid chilling.**
+933479|Ions in solution/melt: reduced by electrolysis or a reducing element; molten salts are electrolysed.
+dd1053|Zn can be purified by fractional distillation.
+eb5007|∆G = –nE°F
+86a381|More reactive metals: large negative E°, hard to reduce.
+c66550|Positive E°(cell) → negative ∆G: less reactive metal comes out of solution: Cu^2+(aq) + Fe(s) → Cu(s) + Fe^2+(aq)
+340c21|Electrodes chosen considering reactivity of the metal produced.
+7159d9|Flux sometimes added to make the melt more conducting. Cr2O3 + 2Al → Al2O3 + 2Cr (∆rG° = –421 kJ) is thermodynamically feasible.
+c5f79a|**Al: purified Al2O3 + Na3AlF6 or CaF2 (lower m.p., add conductivity)**, fused matrix electrolysed.
+70b3a9|**Hall–Héroult: carbon-lined steel cathode, graphite anode:** 2Al2O3 + 3C → 4Al + 3CO2
+02f02f|Carbon electrodes, electrolytic cell, molten mass.
+d05548|**Anode O burns the carbon to CO and CO2: ~0.5 kg anode per kg Al.**
+37ff40|=
+fd41cc|Cu hydrometallurgy (low-grade ores): leach with acid or bacteria; Cu^2+ treated with scrap iron or H2.
+783a69|=
+82fadd|Zn scrap would reduce Cu^2+ faster (more reactive), but iron scrap is cheaper and preferred.
+bc79e5|-
+c7b1f1|Some extractions use oxidation, mainly for non-metals: **Cl2 from brine.**
+811bce|2Cl^– + 2H2O → 2OH^– + H2 + Cl2; ∆G = +422 kJ → E° = –2.2 V.
+01ad20|Needs external emf > 2.2 V, plus excess to overcome hindering reactions.
+bbf170|**Brine electrolysis gives Cl2 with H2 and NaOH; molten NaCl gives Na metal, not NaOH.**
+db7924|Au/Ag cyanide leaching is an oxidation (Ag → Ag^+, Au → Au^+).
+2bf05f|4Au + 8CN^– + 2H2O + O2 → 4[Au(CN)2]^– + 4OH^–; 2[Au(CN)2]^– + Zn → 2Au + [Zn(CN)4]^2–. **Zn is the reductant.**
+3b7e27|Refining method chosen by property difference between metal and impurity.
+aff3ed|Refining: distillation, liquation, electrolysis, zone refining, vapour phase refining, chromatography.
+dcec0c|**Distillation: low-boiling Zn, Hg.**
+705673|**Liquation: low-melting Sn flows down a slope**, leaving higher-melting impurities.
+9ea01f|Electrolytic refining: impure anode, pure cathode, salt of same metal; **more basic metals stay in solution, less basic go to anode mud.**
+457e40|-
+7752f7|Cu refined electrolytically: impure Cu anodes, pure Cu cathodes.
+43e4aa|Acidified CuSO4 electrolyte; Anode: Cu → Cu^2+ + 2e^–; Cathode: Cu^2+ + 2e^– → Cu
+bca77d|**Anode mud from blister Cu: Sb, Se, Te, Ag, Au, Pt**; recovery can pay for refining.
+8e38bb|Zn can also be refined this way.
+b39963|**Zone refining: impurities more soluble in the melt than in the solid.** Mobile heater around the impure rod.
+2578e0|Molten zone moves with the heater.
+1b958c|Pure metal crystallises behind; impurities move into the new molten zone; repeated in one direction; impure end cut off.
+6e4437|**For semiconductors and ultra-pure metals: Ge, Si, B, Ga, In.**
+2d6160|Vapour phase refining: metal must form a volatile compound, and it must decompose easily.
+cc422d|**Mond process (Ni):** Ni + 4CO →(330–350 K) Ni(CO)4; Ni(CO)4 →(450–470 K) Ni + 4CO
+e3464b|**van Arkel (Zr, Ti): removes O and N impurities**; crude metal heated with I2 in an evacuated vessel.
+bd47ab|Zr + 2I2 → ZrI4 (covalent, volatile); **decomposed on W filament at ~1800 K:** ZrI4 → Zr + 2I2
+25730a|Column chromatography: elements in minute amounts with chemically similar impurities.
+a9870d|Al foil food wrappers; Al dust in paints and lacquers.
+d6e92d|**Al (highly reactive) extracts Cr and Mn from their oxides.**
+2ba5ab|Cu: electrical wires, water/steam pipes; alloys brass (Zn), bronze (Sn), coinage alloy (Ni).
+bf6063|Zn: galvanising iron; batteries.
+fee13b|**Brass: Cu 60%, Zn 40%. German silver: Cu 25–30%, Zn 25–30%, Ni 40–50%.**
+57143a|Zn dust: reducing agent in making dyestuffs, paints.
+68f56b|Cast iron (most important form): stoves, railway sleepers, gutter pipes, toys; makes wrought iron and steel.
+a518df|Wrought iron: anchors, wires, bolts, chains, agricultural implements.
+75b60c|Nickel steel: cables, automobile and aeroplane parts, pendulums, measuring tapes.
+65387d|Chrome steel: cutting tools, crushers. Stainless steel: cycles, automobiles, utensils, pens.
+b23528|-
+293089|§Electrochemical principles§Electrode potential is used in isolating Al, Ag, Au: sum of redox couples positive → ∆G negative.
+7b8965|-
+6d76ce|-
+9c422e|-
+ce9a15|-
+0c9add|-
+95a0a2|-
+4a0392|-

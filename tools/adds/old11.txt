@@ -1,0 +1,32 @@
+50=
+57=
+98T Since its orbital is incomplete with 1s^1 electronic configuration, it does combine with almost all the elements.
+106+107T Dihydrogen reduces chlorine into chloride (Cl^-) ion and itself gets oxidised to H^+ ion by chlorine to form hydrogen chloride. An electron pair is shared between H and Cl leading to the formation of a covalent molecule.
+109T Dihydrogen reduces copper(II) oxide to copper in zero oxidation state and itself gets oxidised to H2O, which is a covalent molecule.
+113=
+115T If 'E' is the symbol of an element then hydride can be expressed as EHx (e.g., MgH2) or EmHn (e.g., B2H6).
+124=
+142T On the basis of molecular masses of NH3, H2O and HF, their boiling points are expected to be lower than those of the subsequent group member hydrides.
+202=
+311=
+313=
+315=
+444T Under appropriate conditions pure compounds M2O, M2O2 and MO2 may be prepared.
+452=
+456=
+512T Sodium chloride is used for the preparation of Na2O2, NaOH and Na2CO3.
+551+552T Ionization enthalpy (I)/kJ mol^-1: Be 899, Mg 737, Ca 590, Sr 549, Ba 503, Ra 509. Ionization enthalpy (II)/kJ mol^-1: Be 1757, Mg 1450, Ca 1145, Sr 1064, Ba 965, Ra 979.
+567=
+570=
+574=
+727+728=
+730=
+732+733=
+769=
+779+780=
+781+782=
+785+786+787=
+793+794T The presence of these d-orbitals influences the chemistry of the heavier elements in a number of other ways. The combined effect of size and availability of d orbitals considerably influences the ability of these elements to form π bonds.
+1067=
+1081=
+1118+1119T Simple silicones consist of (R2SiO)n chains in which alkyl or phenyl groups occupy the remaining bonding positions on each silicon. They are hydrophobic (water repellant) in nature.

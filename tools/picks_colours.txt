@@ -1,0 +1,151 @@
+# src|ids|formula|colour exactly as the PDF states it|hex (rendering only)|group|[text that must appear if the formula isn't written]
+# Table 4.8 (aquated ions)
+d|192|Sc^3+|colourless||Aqueous ions
+d|192|Ti^4+|colourless||Aqueous ions
+d|192|Ti^3+|purple|#7B3FA0|Aqueous ions
+d|192|V^4+|blue|#2E5FC9|Aqueous ions
+d|192|V^3+|green|#3E8E41|Aqueous ions
+d|192|V^2+|violet|#6A3FB5|Aqueous ions
+d|192|Cr^3+|violet|#5E3A9E|Aqueous ions
+d|192|Mn^3+|violet|#7442A8|Aqueous ions
+d|192|Cr^2+|blue|#3A6FD0|Aqueous ions
+d|192|Mn^2+|pink|#F2B8C8|Aqueous ions
+d|192|Fe^3+|yellow|#E9C83B|Aqueous ions
+d|192|Fe^2+|green|#8FC27A|Aqueous ions
+d|192|Co^3+|blue|#2D58C0|Aqueous ions
+d|192|Co^2+|pink|#EE9DB5|Aqueous ions
+d|192|Ni^2+|green|#4FA35A|Aqueous ions
+d|192|Cu^2+|blue|#2F7FD8|Aqueous ions
+d|192|Zn^2+|colourless||Aqueous ions
+d|265|Fe^2+ → Fe^3+ (with MnO4^-)|green → yellow|#B9C24A|Aqueous ions
+# d-block compounds
+d|243|Na2CrO4 (solution)|yellow|#F2C21B|Solutions|sodium chromate
+d|243|Na2Cr2O7·2H2O|orange|#E8730C|Solids
+d|246|K2Cr2O7|orange crystals|#E36A10|Solids|potassium dichromate
+d|255|KMnO4|dark purple (almost black) crystals|#3A0F45|Solids|potassium permanganate
+d|258|MnO4^2- (manganate)|green|#2F7A3A|Solutions|manganate
+d|233|Mn2O7|covalent green oil|#2C5E2E|Solids
+# Coordination
+co|31|[Co(NH3)6]Cl3|yellow|#E8C228|Complexes
+co|31|[CoCl(NH3)5]Cl2|purple|#7A2E8C|Complexes
+co|31|[CoCl2(NH3)4]Cl|green|#3F8A4A|Complexes
+co|31|[CoCl2(NH3)4]Cl (other isomer)|violet|#6740A8|Complexes
+co|150|[Co(NH3)5(ONO)]Cl2|red form (nitrite bound through oxygen)|#C0392B|Complexes|red form
+co|150|[Co(NH3)5(NO2)]Cl2|yellow form (nitrite bound through nitrogen)|#E6B92A|Complexes
+co|159|[Cr(H2O)6]Cl3|violet|#6B44A6|Complexes
+co|159|[Cr(H2O)5Cl]Cl2·H2O|grey-green|#7F927A|Complexes
+co|245|[CoCl(NH3)5]^2+|violet (absorbs yellow, 535 nm)|#6B3FA0|Complexes
+co|245|[Co(NH3)5(H2O)]^3+|red (absorbs blue green, 500 nm)|#C23B3B|Complexes
+co|245|[Co(NH3)6]^3+|yellow orange (absorbs blue, 475 nm)|#EFA02A|Complexes
+co|245|[Co(CN)6]^3-|pale yellow (absorbs ultraviolet, 310 nm)|#F4E7A1|Complexes
+co|245|[Cu(H2O)4]^2+|blue (absorbs red, 600 nm)|#2F72CC|Complexes
+co|245|[Ti(H2O)6]^3+|violet (absorbs blue green, 498 nm)|#7A47B0|Complexes
+co|257|[Ti(H2O)6]Cl3 after removing water on heating|colourless||Solids
+co|258|CuSO4 (anhydrous)|white|#F7F7F4|Solids
+co|258|CuSO4·5H2O|blue|#2F6FC4|Solids
+co|260|[Ni(H2O)6]^2+|green|#4C9A55|Complexes
+co|260|[Ni(H2O)4(en)]^2+|pale blue|#8FB8E6|Complexes
+co|260|[Ni(H2O)2(en)2]^2+|blue/purple|#5A4FB8|Complexes
+co|260|[Ni(en)3]^2+|violet|#7442A8|Complexes
+co|329|[Ni(CN)4]^2-|colourless||Complexes
+co|263+264|Ruby: Al2O3 with 0.5-1% Cr^3+|ruby|#B0123A|Solids|ruby
+co|273+274|Emerald: Cr^3+ in beryl Be3Al2Si6O18|green|#1E8A55|Solids|emerald
+co|301|Haemoglobin|red pigment of blood|#9E1B23|Complexes|haemoglobin
+# Group 15
+p15|111|NH3|colourless gas||Gases & liquids|ammonia
+p15|118|Zn(OH)2|white ppt|#F6F6F2|Precipitates|ZnSO
+p15|118+119|Fe2O3·xH2O|brown ppt|#7B3F1D|Precipitates|FeCl
+p15|131|[Cu(NH3)4]^2+|deep blue|#1C3FA8|Complexes
+p15|131|Cu^2+ (before NH3)|blue|#3A82D6|Aqueous ions
+p15|131|AgCl|white ppt|#F5F5F0|Precipitates
+p15|130|N2O|colourless gas||Gases & liquids|Dinitrogen oxide
+p15|130|NO|colourless gas||Gases & liquids|Nitrogen monoxide
+p15|133|N2O3|blue solid|#2F55B8|Solids|Dinitrogen trioxide
+p15|133|NO2|brown gas|#8A4A1E|Gases & liquids|Nitrogen dioxide
+p15|133|N2O4|colourless solid/liquid||Solids|Dinitrogen tetroxide
+p15|133|N2O5|colourless solid||Solids|Dinitrogen pentoxide
+p15|137|HNO3|colourless liquid||Gases & liquids|colourless liquid
+p15|151+152|[Fe(H2O)5(NO)]^2+|brown ring|#6E3414|Complexes|brown ring
+p15|156|White phosphorus (P4)|translucent white waxy solid|#F3F0E2|Solids|White phosphorus
+p15|163|Red phosphorus|iron grey lustre|#8A3A34|Solids|Red phosphorus
+p15|162|Black phosphorus|black|#222226|Solids|black phosphorus
+p15|160|P4O10|dense white fumes|#F2F2EE|Gases & liquids|white fumes
+p15|171|PH3|colourless gas||Gases & liquids|Properties It is a colourless gas
+p15|176|PCl3|colourless oily liquid||Gases & liquids|colourless oily liquid
+p15|181|PCl5|yellowish white powder|#F2EBB8|Solids
+# Group 16
+p15|280|O2|colourless gas||Gases & liquids|Dioxygen
+p15|318|O3 (gas)|pale blue gas|#A9C6EE|Gases & liquids|ozone
+p15|318|O3 (liquid)|dark blue liquid|#1E3A9A|Gases & liquids|ozone
+p15|318|O3 (solid)|violet-black solid|#2A1A3A|Solids|ozone
+p15|329|Rhombic sulphur (α-S)|yellow|#EDD23A|Solids|Rhombic sulphur
+p15|334|Monoclinic sulphur (β-S)|colourless needle shaped crystals||Solids|sulphur
+p15|355|SO2|colourless gas||Gases & liquids|Sulphur dioxide
+p15|381|H2SO4|colourless, dense, oily liquid||Gases & liquids|Sulphuric acid
+# Group 17
+p15|450|F2|yellow|#EFE07A|Gases & liquids
+p15|450|Cl2|greenish yellow|#C9D646|Gases & liquids
+p15|450|Br2|red|#9C2A1A|Gases & liquids
+p15|450|I2|violet|#5B2A86|Solids
+p15|517|Chlorine water (on standing, HCl + HOCl)|loses its yellow colour|#F1EFC9|Solutions|Chlorine water
+p15|531|HCl (solid, f.p. 159 K)|white crystalline solid|#F5F5F1|Solids|white crystalline solid
+p15|534|NH4Cl (HCl + NH3)|white fumes|#F2F2EE|Gases & liquids
+p15|551|ClF|colourless gas||Interhalogens
+p15|551|BrF|pale brown gas|#B58A62|Interhalogens
+p15|551|ICl (α-form)|ruby red solid|#9B1B30|Interhalogens
+p15|551|ICl (β-form)|brown red solid|#7C2A1E|Interhalogens
+p15|551|IBr|black solid|#1E1A1A|Interhalogens
+p15|551|ClF3|colourless gas||Interhalogens
+p15|551|BrF3|yellow green liquid|#B7C440|Interhalogens
+p15|551|IF3|yellow powder|#EDD34A|Interhalogens
+p15|551|ICl3|orange solid|#E07B1A|Interhalogens
+p15|551|IF5|colourless gas but solid below 77 K||Interhalogens
+p15|551|BrF5|colourless liquid||Interhalogens
+p15|551|ClF5|colourless liquid||Interhalogens
+p15|551|IF7|colourless gas||Interhalogens
+# Group 18
+p15|606|O2^+PtF6^-|red|#B3262E|Solids
+p15|608|Xe^+PtF6^-|red colour compound|#A8282F|Solids
+p15|627|XeO3|colourless explosive solid||Solids
+p15|628|XeOF4|colourless volatile liquid||Gases & liquids
+# Hydrogen
+old11|90|H2|colourless gas||Gases & liquids|Dihydrogen
+old11|162|H2O|colourless and tasteless liquid||Gases & liquids|colourless and tasteless liquid
+old11|244|H2O2 (pure)|almost colourless (very pale blue) liquid|#DCEAF7|Gases & liquids|pure state
+old11|11|Br2 vapour (bromide + conc. H2SO4)|red vapour|#A0301E|Gases & liquids|red vapour of bromine
+old11|11|HCl (chloride + conc. H2SO4)|colourless pungent smelling gas||Gases & liquids|colourless pungent smelling gas HCl
+# s-block flame
+old11|402|Li (flame)|crimson|#C8102E|Flame|Li
+old11|402|Na (flame)|yellow|#F4C20D|Flame|Na
+old11|402|K (flame)|violet|#8A5CC8|Flame|K
+old11|402|Rb (flame)|red violet|#A23C8C|Flame|Rb
+old11|402|Cs (flame)|blue|#3B6FD8|Flame|Cs
+old11|568+569|Ca (flame)|brick red|#C2462A|Flame|Calcium
+old11|569|Sr (flame)|crimson|#C0112E|Flame|strontium
+old11|569|Ba (flame)|apple green|#8DC63F|Flame|barium
+old11|572|Be, Mg (flame)|do not impart any colour||Flame|do not impart any colour
+# s-block compounds and solutions
+old11|427|Alkali metal in liquid NH3 (dilute)|deep blue|#1F3F9E|Solutions|liquid ammonia
+old11|430|Alkali metal in liquid NH3 (concentrated)|bronze|#9C6B30|Solutions|bronze colour
+old11|589|Alkaline earth metal in liquid NH3|deep blue black|#16204A|Solutions|deep blue black
+old11|446|Alkali metal oxides and peroxides (pure)|colourless||Solids|colourless when pure
+old11|446|Alkali metal superoxides (MO2)|yellow or orange|#F0A020|Solids|superoxides
+old11|450|Alkali metal hydroxides|white crystalline solids|#F6F6F2|Solids|white crystalline solids
+old11|451|Alkali metal halides MX|colourless crystalline solids||Solids|colourless crystalline solids
+old11|491|Na2CO3·10H2O|white crystalline solid|#F5F5F1|Solids|Sodium carbonate
+old11|517|NaOH|white, translucent solid|#F1F1EC|Solids|Sodium hydroxide
+old11|524|NaHCO3|white crystalline powder|#F6F6F3|Solids|sodium hydrogencarbonate
+old11|626|Alkaline earth sulphates|white solids|#F5F5F1|Solids|sulphates
+old11|657|CaO|white amorphous solid|#F4F4EF|Solids|Calcium oxide
+old11|666|Ca(OH)2|white amorphous powder|#F3F3EE|Solids|Calcium hydroxide
+old11|675|CaCO3|white fluffy powder|#F7F7F3|Solids|Calcium carbonate
+# Group 13 / 14
+old11|828|Boron|extremely hard and black coloured solid|#1F1F22|Solids|black coloured solid
+old11|886|Na2B4O7·10H2O (borax)|white crystalline solid|#F5F5F0|Solids|white crystalline solid
+old11|892|Co(BO2)2 (borax bead with CoO)|blue|#1E4FC2|Solids|blue coloured
+old11|892|H3BO3|white crystalline solid, soapy touch|#F4F4EF|Solids|Orthoboric acid
+old11|906|B2H6|colourless, highly toxic gas||Gases & liquids|Diborane
+old11|868|AlCl3 (anhydrous, moist air)|white fumes|#F2F2EE|Gases & liquids|White fumes
+old11|1061|Carbon black|black pigment|#141414|Solids|Carbon black
+old11|1068|CO|colourless, odourless gas||Gases & liquids|Carbon monoxide
+old11|1078|CO2|colourless and odourless gas||Gases & liquids|colourless and odourless gas

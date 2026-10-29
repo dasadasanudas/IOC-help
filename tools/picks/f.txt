@@ -1,0 +1,66 @@
+@src d
+# Introduction
+270 The f-block consists of the two series, lanthanoids (the fourteen elements following lanthanum) and actinoids (the fourteen elements following actinium).
+271 Because lanthanum closely resembles the lanthanoids, it is usually included in any discussion of the lanthanoids for which the general symbol Ln is often used.
+273+274 The lanthanoids resemble one another more closely than do the members of ordinary transition elements in any series. They have only one stable oxidation state and their chemistry provides an excellent opportunity to examine the effect of small changes in size and nuclear charge along a series of otherwise similar elements.
+275+276 The chemistry of the actinoids is, on the other hand, much more complicated. The complication arises partly owing to the occurrence of a wide range of oxidation states in these elements and partly because their radioactivity creates special problems in their study.
+# Lanthanoids: configuration and size
+278 It may be noted that atoms of these elements have electronic configuration with 6s^2 common but with variable occupancy of 4f level.
+279 However, the electronic configurations of all the tripositive ions (the most stable oxidation state of all the lanthanoids) are of the form 4f^n (n = 1 to 14 with increasing atomic number).
+299T Table 4.9, configurations: La 5d^1 6s^2; Ce 4f^1 5d^1 6s^2; Gd 4f^7 5d^1 6s^2; Lu 4f^14 5d^1 6s^2; Eu 4f^7 6s^2; Yb 4f^14 6s^2.
+280+281 The overall decrease in atomic and ionic radii from lanthanum to lutetium (the lanthanoid contraction) is a unique feature in the chemistry of the lanthanoids. It has far reaching consequences in the chemistry of the third transition series of the elements.
+282! The decrease in atomic radii (derived from the structures of metals) is not quite regular as it is regular in M^3+ ions.
+283+284 This contraction is, of course, similar to that observed in an ordinary transition series and is attributed to the same cause, the imperfect shielding of one electron by another in the same sub-shell. However, the shielding of one 4f electron by another is less than one d electron by another with the increase in nuclear charge along the series.
+286 The cumulative effect of the contraction of the lanthanoid series, known as lanthanoid contraction, causes the radii of the members of the third transition series to be very similar to those of the corresponding members of the second series.
+287! The almost identical radii of Zr (160 pm) and Hf (159 pm), a consequence of the lanthanoid contraction, account for their occurrence together in nature and for the difficulty faced in their separation.
+# Lanthanoids: oxidation states
+288+289 In the lanthanoids, La(III) and Ln(III) compounds are predominant species. However, occasionally +2 and +4 ions in solution or in solid compounds are also obtained.
+290 This irregularity (as in ionisation enthalpies) arises mainly from the extra stability of empty, half-filled or filled f subshell.
+291! Thus, the formation of Ce(IV) is favoured by its noble gas configuration, but it is a strong oxidant reverting to the common +3 state.
+292+293! The E° value for Ce^4+/Ce^3+ is +1.74 V which suggests that it can oxidise water. However, the reaction rate is very slow and hence Ce(IV) is a good analytical reagent.
+294! Pr, Nd, Tb and Dy also exhibit +4 state but only in oxides, MO2.
+294+295! Eu^2+ is formed by losing the two s electrons and its f^7 configuration accounts for the formation of this ion. However, Eu^2+ is a strong reducing agent changing to the common +3 state.
+296+297! Similarly Yb^2+ which has f^14 configuration is a reductant. Tb(IV) has half-filled f-orbitals and is an oxidant.
+298 The behaviour of samarium is very much like europium, exhibiting both +2 and +3 oxidation states.
+# Lanthanoids: general characteristics
+396 Lanthanum and all the lanthanoids are rather soft white metals.
+300+301! The hardness increases with increasing atomic number, samarium being steel hard. Their melting points range between 1000 to 1200 K but samarium melts at 1623 K.
+301 They have typical metallic structure and are good conductors of heat and electricity.
+302! Density and other properties change smoothly except for Eu and Yb and occasionally for Sm and Tm.
+302+303 Many trivalent lanthanoid ions are coloured both in the solid state and in aqueous solutions. Colour of these ions may be attributed to the presence of f electrons.
+304+305! Neither La^3+ nor Lu^3+ ion shows any colour but the rest do so. However, absorption bands are narrow, probably because of the excitation within f level.
+306! The lanthanoid ions other than the f^0 type (La^3+ and Ce^4+) and the f^14 type (Yb^2+ and Lu^3+) are all paramagnetic.
+307 The first ionisation enthalpies of the lanthanoids are around 600 kJ mol^–1, the second about 1200 kJ mol^–1 comparable with those of calcium.
+309! This is indicated from the abnormally low value of the third ionisation enthalpy of lanthanum, gadolinium and lutetium.
+310 In their chemical behaviour, in general, the earlier members of the series are quite reactive similar to calcium but, with increasing atomic number, they behave more like aluminium.
+311+312! Values for E° for the half-reaction: Ln^3+(aq) + 3e^– → Ln(s) are in the range of –2.2 to –2.4 V except for Eu for which the value is – 2.0 V.
+313+314 The metals combine with hydrogen when gently heated in the gas. The carbides, Ln3C, Ln2C3 and LnC2 are formed when the metals are heated with carbon.
+315+316 They liberate hydrogen from dilute acids and burn in halogens to form halides. They form oxides M2O3 and hydroxides M(OH)3.
+317+318 The hydroxides are definite compounds, not just hydrated oxides. They are basic like alkaline earth metal oxides and hydroxides.
+312T Fig. 4.7, chemical reactions of the lanthanoids: with C at 2773 K → LnC2; heated with N2 → LnN; burns in O2 → Ln2O3; with H2O → Ln(OH)3 + H2; with acids → H2; heated with S → Ln2S3; with halogens → LnX3.
+# Lanthanoids: uses
+320 The best single use of the lanthanoids is for the production of alloy steels for plates and pipes.
+321 A well known alloy is mischmetall which consists of a lanthanoid metal (~ 95%) and iron (~ 5%) and traces of S, C, Ca and Al. A good deal of mischmetall is used in Mg-based alloy to produce bullets, shell and lighter flint.
+322 Mixed oxides of lanthanoids are employed as catalysts in petroleum cracking.
+323 Some individual Ln oxides are used as phosphors in television screens and similar fluorescing surfaces.
+# Actinoids
+324 The actinoids include the fourteen elements from Th to Lr.
+326 The actinoids are radioactive elements and the earlier members have relatively long half-lives, the latter ones have half-life values ranging from a day to 3 minutes for lawrencium (Z = 103).
+327 The latter members could be prepared only in nanogram quantities.
+329 All the actinoids are believed to have the electronic configuration of 7s^2 and variable occupancy of the 5f and 6d subshells.
+330! The fourteen electrons are formally added to 5f, though not in thorium (Z = 90) but from Pa onwards the 5f orbitals are complete at element 103.
+331+332 The irregularities in the electronic configurations of the actinoids, like those in the lanthanoids are related to the stabilities of the f^0, f^7 and f^14 occupancies of the 5f orbitals. Thus, the configurations of Am and Cm are [Rn] 5f^7 7s^2 and [Rn] 5f^7 6d^1 7s^2.
+333 Although the 5f orbitals resemble the 4f orbitals in their angular part of the wave-function, they are not as buried as 4f orbitals and hence 5f electrons can participate in bonding to a far greater extent.
+335+336+337! There is a gradual decrease in the size of atoms or M^3+ ions across the series. This may be referred to as the actinoid contraction (like lanthanoid contraction). The contraction is, however, greater from element to element in this series resulting from poor shielding by 5f electrons.
+338 There is a greater range of oxidation states, which is in part attributed to the fact that the 5f, 6d and 7s levels are of comparable energies.
+340+341 The actinoids show in general +3 oxidation state. The elements, in the first half of the series frequently exhibit higher oxidation states.
+342! For example, the maximum oxidation state increases from +4 in Th to +5, +6 and +7 respectively in Pa, U and Np but decreases in succeeding elements.
+343+344 The actinoids resemble the lanthanoids in having more compounds in +3 state than in the +4 state. However, +3 and +4 ions tend to hydrolyse.
+345+346 The actinoid metals are all silvery in appearance but display a variety of structures. The structural variability is obtained due to irregularities in metallic radii which are far greater than in lanthanoids.
+347+348 The actinoids are highly reactive metals, especially when finely divided. The action of boiling water on them, for example, gives a mixture of oxide and hydride and combination with most non metals takes place at moderate temperatures.
+349! Hydrochloric acid attacks all metals but most are slightly affected by nitric acid owing to the formation of protective oxide layers; alkalies have no action.
+350+351 The magnetic properties of the actinoids are more complex than those of the lanthanoids. Although the variation in the magnetic susceptibility of the actinoids with the number of unpaired 5f electrons is roughly parallel to the corresponding results for the lanthanoids, the latter have higher values.
+352! It is evident from the behaviour of the actinoids that the ionisation enthalpies of the early actinoids, though not accurately known, but are lower than for the early lanthanoids.
+353+354+355 This is quite reasonable since it is to be expected that when 5f orbitals are beginning to be occupied, they will penetrate less into the inner core of electrons. The 5f electrons, will therefore, be more effectively shielded from the nuclear charge than the 4f electrons of the corresponding lanthanoids. Because the outer electrons are less firmly held, they are available for bonding in the actinoids.
+356 A comparison of the actinoids with the lanthanoids, with respect to different characteristics as discussed above, reveals that behaviour similar to that of the lanthanoids is not evident until the second half of the actinoid series.
+358+359 The lanthanoid and actinoid contractions, have extended effects on the sizes, and therefore, the properties of the elements succeeding them in their respective periods. The lanthanoid contraction is more important because the chemistry of elements succeeding the actinoids are much less known at the present time.

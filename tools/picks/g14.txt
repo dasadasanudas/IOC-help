@@ -1,0 +1,122 @@
+@src old11
+# Occurrence
+936 Carbon (C), silicon (Si), germanium (Ge), tin (Sn) and lead (Pb) are the members of group 14.
+937 Carbon is the seventeenth most abundant element by mass in the earth's crust. It is widely distributed in nature in free as well as in the combined state.
+938 In elemental state it is available as coal, graphite and diamond; however, in combined state it is present as metal carbonates, hydrocarbons and carbon dioxide gas (0.03%) in air.
+943+944 Naturally occurring carbon contains two stable isotopes: ^12C and ^13C. In addition to these, third isotope, ^14C is also present. It is a radioactive isotope with half-life 5770 years and used for radiocarbon dating.
+945+946 Silicon is the second (27.7 % by mass) most abundant element on the earth's crust and is present in nature in the form of silica and silicates. Silicon is a very important component of ceramics, glass and cement.
+947+948 Germanium exists only in traces. Tin occurs mainly as cassiterite, SnO2 and lead as galena, PbS. Ultrapure form of germanium and silicon are used to make transistors and semiconductor devices.
+# Atomic and physical properties
+949 The valence shell electronic configuration of these elements is ns^2np^2.
+951+952! There is a considerable increase in covalent radius from C to Si, thereafter from Si to Pb a small increase in radius is observed. This is due to the presence of completely filled d and f orbitals in heavier members.
+953+955 The first ionization enthalpy of group 14 members is higher than the corresponding members of group 13. In general the ionisation enthalpy decreases down the group.
+956! Small decrease in ∆iH from Si to Ge to Sn and slight increase in ∆iH from Sn to Pb is the consequence of poor shielding effect of intervening d and f orbitals and increase in size of the atom.
+957+958 Due to small size, the elements of this group are slightly more electronegative than group 13 elements. The electronegativity values for elements from Si to Pb are almost the same.
+959+960+961 All group 14 members are solids. Carbon and silicon are non-metals, germanium is a metalloid, whereas tin and lead are soft metals with low melting points.
+962 Melting points and boiling points of group 14 elements are much higher than those of corresponding elements of group 13.
+960T Table 11.2 (group 14): ∆iH1/kJ mol^-1 C 1086, Si 786, Ge 761, Sn 708, Pb 715. Covalent radius/pm 77, 118, 122, 140, 146. Electronegativity 2.5, 1.8, 1.8, 1.8, 1.9. Melting point/K 4373, 1693, 1218, 505, 600.
+# Oxidation states
+962+963+964 The group 14 elements have four electrons in outermost shell. The common oxidation states exhibited by these elements are +4 and +2. Carbon also exhibits negative oxidation states.
+965 Since the sum of the first four ionization enthalpies is very high, compounds in +4 oxidation state are generally covalent in nature.
+966+967 In heavier members the tendency to show +2 oxidation state increases in the sequence Ge<Sn<Pb. It is due to the inability of ns^2 electrons of valence shell to participate in bonding.
+969+970 Carbon and silicon mostly show +4 oxidation state. Germanium forms stable compounds in +4 state and only few compounds in +2 state.
+971+972! Tin forms compounds in both oxidation states (Sn in +2 state is a reducing agent). Lead compounds in +2 state are stable and in +4 state are strong oxidising agents.
+973+974 In tetravalent state the number of electrons around the central atom in a molecule (e.g., carbon in CCl4) is eight. Being electron precise molecules, they are normally not expected to act as electron acceptor or electron donor species.
+975+976+977 Although carbon cannot exceed its covalence more than 4, other elements of the group can do so. It is because of the presence of d orbital in them. Due to this, their halides undergo hydrolysis and have tendency to form complexes by accepting electron pairs from donor species.
+978 For example, the species like, SiF6^2-, [GeCl6]^2-, [Sn(OH)6]^2- exist where the hybridisation of the central atom is sp^3d^2.
+# Oxides, water, halides
+978+979+980! All members when heated in oxygen form oxides. There are mainly two types of oxides, i.e., monoxide and dioxide of formula MO and MO2 respectively. SiO only exists at high temperature.
+981+982! Oxides in higher oxidation states of elements are generally more acidic than those in lower oxidation states. The dioxides — CO2, SiO2 and GeO2 are acidic, whereas SnO2 and PbO2 are amphoteric in nature.
+983! Among monoxides, CO is neutral, GeO is distinctly acidic whereas SnO and PbO are amphoteric.
+984+985 Problem 11.5: Select the member(s) of group 14 that (i) forms the most acidic dioxide, (ii) is commonly found in +2 oxidation state, (iii) used as semiconductor. Answer: (i) carbon (ii) lead (iii) silicon and germanium.
+985+986+987 Carbon, silicon and germanium are not affected by water. Tin decomposes steam to form dioxide and dihydrogen gas. Sn + 2H2O → SnO2 + 2H2 (∆)
+987! Lead is unaffected by water, probably because of a protective oxide film formation.
+988+989 These elements can form halides of formula MX2 and MX4 (where X = F, Cl, Br, I). Except carbon, all other members react directly with halogen under suitable condition to make halides.
+990+991+992! Most of the MX4 are covalent in nature. The central metal atom in these halides undergoes sp^3 hybridisation and the molecule is tetrahedral in shape. Exceptions are SnF4 and PbF4, which are ionic in nature.
+993! PbI4 does not exist because Pb—I bond initially formed during the reaction does not release enough energy to unpair 6s^2 electrons and excite one of them to higher orbital to have four unpaired electrons around lead atom.
+994+995+996 Heavier members Ge to Pb are able to make halides of formula MX2. Stability of dihalides increases down the group. Considering the thermal and chemical stability, GeX4 is more stable than GeX2, whereas PbX2 is more than PbX4.
+997+998! Except CCl4, other tetrachlorides are easily hydrolysed by water because the central atom can accommodate the lone pair of electrons from oxygen atom of water molecule in d orbital.
+998T SiCl4 + 4H2O → Si(OH)4 (silicic acid) + 4HCl
+998+1000+1001! [SiF6]^2- is known whereas [SiCl6]^2- not. The main reasons are: (i) six large chloride ions cannot be accommodated around Si^4+ due to limitation of its size. (ii) interaction between lone pair of chloride ion and Si^4+ is not very strong.
+# Anomalous behaviour of carbon
+1002+1003! Like first member of other groups, carbon also differs from rest of the members of its group. It is due to its smaller size, higher electronegativity, higher ionisation enthalpy and unavailability of d orbitals.
+1004+1005 In carbon, only s and p orbitals are available for bonding and, therefore, it can accommodate only four pairs of electrons around it. This would limit the maximum covalence to four whereas other members can expand their covalence due to the presence of d orbitals.
+1006+1007 Carbon also has unique ability to form pπ-pπ multiple bonds with itself and with other atoms of small size and high electronegativity. Few examples of multiple bonding are: C=C, C≡C, C=O, C=S, and C≡N. Heavier elements do not form pπ-pπ bonds because their atomic orbitals are too large and diffuse to have effective overlapping.
+1008+1009+1010 Carbon atoms have the tendency to link with one another through covalent bonds to form chains and rings. This property is called catenation. This is because C—C bonds are very strong.
+1011+1013! Down the group the size increases and electronegativity decreases, and, thereby, tendency to show catenation decreases. The order of catenation is C >> Si > Ge ≈ Sn. Lead does not show catenation.
+1014T Bond enthalpy/kJ mol^-1: C—C 348, Si—Si 297, Ge—Ge 260, Sn—Sn 240.
+# Allotropes of carbon
+1014+1015+1016 Due to property of catenation and pπ-pπ bond formation, carbon is able to show allotropic forms. Carbon exhibits many allotropic forms; both crystalline as well as amorphous. Diamond and graphite are two well-known crystalline forms of carbon.
+1017+1018 In 1985, third form of carbon known as fullerenes was discovered by H.W.Kroto, E.Smalley and R.F.Curl. For this discovery they were awarded the Nobel Prize in 1996.
+1020+1021 In diamond each carbon atom undergoes sp^3 hybridisation and linked to four other carbon atoms by using hybridised orbitals in tetrahedral fashion. The C-C bond length is 154 pm.
+1022+1024+1025 The structure extends in space and produces a rigid three-dimensional network of carbon atoms. In this structure directional covalent bonds are present throughout the lattice. It is very difficult to break extended covalent bonding and, therefore, diamond is a hardest substance on the earth.
+1026 It is used as an abrasive for sharpening hard tools, in making dies and in the manufacture of tungsten filaments for electric light bulbs.
+1029+1030 Graphite has layered structure. Layers are held by van der Waals forces and distance between two layers is 340 pm.
+1031+1032 Each layer is composed of planar hexagonal rings of carbon atoms. C—C bond length within the layer is 141.5 pm.
+1033+1034+1035 Each carbon atom in hexagonal ring undergoes sp^2 hybridisation and makes three sigma bonds with three neighbouring carbon atoms. Fourth electron forms a π bond. The electrons are delocalised over the whole sheet.
+1036 Electrons are mobile and, therefore, graphite conducts electricity along the sheet.
+1037+1038 Graphite cleaves easily between the layers and, therefore, it is very soft and slippery. For this reason graphite is used as a dry lubricant in machines running at high temperature, where oil cannot be used as a lubricant.
+1038 Fullerenes are made by the heating of graphite in an electric arc in the presence of inert gases such as helium or argon.
+1039 The sooty material formed by condensation of vapourised Cn small molecules consists of mainly C60 with smaller quantity of C70 and traces of fullerenes consisting of even number of carbon atoms up to 350 or above.
+1040! Fullerenes are the only pure form of carbon because they have smooth structure without having 'dangling' bonds.
+1041+1042 Fullerenes are cage like molecules. C60 molecule has a shape like soccer ball and called Buckminsterfullerene.
+1043+1044 It contains twenty six-membered rings and twelve five membered rings. A six membered ring is fused with six or five membered rings but a five membered ring can only fuse with six membered rings.
+1045+1046+1047+1048 All the carbon atoms are equal and they undergo sp^2 hybridisation. Each carbon atom forms three sigma bonds with other three carbon atoms. The remaining electron at each carbon is delocalised in molecular orbitals, which in turn give aromatic character to molecule.
+1049 This ball shaped molecule has 60 vertices and each one is occupied by one carbon atom and it also contains both single and double bonds with C-C distances of 143.5 pm and 138.3 pm respectively.
+1050 Spherical fullerenes are also called bucky balls in short.
+1052+1053! It is very important to know that graphite is thermodynamically most stable allotrope of carbon and, therefore, ∆fH° of graphite is taken as zero. ∆fH° values of diamond and fullerene, C60, are 1.90 and 38.1 kJ mol^-1, respectively.
+1054 Other forms of elemental carbon like carbon black, coke, and charcoal are all impure forms of graphite or fullerenes.
+1055+1056 Carbon black is obtained by burning hydrocarbons in a limited supply of air. Charcoal and coke are obtained by heating wood or coal respectively at high temperatures in the absence of air.
+# Uses of carbon
+1056+1057 Graphite fibres embedded in plastic material form high strength, lightweight composites. The composites are used in products such as tennis rackets, fishing rods, aircrafts and canoes.
+1058+1059 Being good conductor, graphite is used for electrodes in batteries and industrial electrolysis. Crucibles made from graphite are inert to dilute acids and alkalies.
+1060 Being highly porous, activated charcoal is used in adsorbing poisonous gases; also used in water filters to remove organic contaminators and in airconditioning system to control odour.
+1061+1062 Carbon black is used as black pigment in black ink and as filler in automobile tyres. Coke is used as a fuel and largely as a reducing agent in metallurgy.
+1063+1064 Diamond is a precious stone and used in jewellery. It is measured in carats (1 carat = 200 mg).
+# Carbon monoxide
+1064 Direct oxidation of C in limited supply of oxygen or air yields carbon monoxide. 2C(s) + O2(g) → 2CO(g) (∆)
+1064 On small scale pure CO is prepared by dehydration of formic acid with concentrated H2SO4 at 373 K. HCOOH → H2O + CO (373 K, conc. H2SO4)
+1064+1065+1066 On commercial scale it is prepared by the passage of steam over hot coke. The mixture of CO and H2 thus produced is known as water gas or synthesis gas. C(s) + H2O(g) → CO(g) + H2(g) (473-1273 K)
+1066 When air is used instead of steam, a mixture of CO and N2 is produced, which is called producer gas. 2C(s) + O2(g) + 4N2(g) → 2CO(g) + 4N2(g) (1273 K). Water gas and producer gas are very important industrial fuels.
+1068+1069 Carbon monoxide is a colourless, odourless and almost water insoluble gas. It is a powerful reducing agent and reduces almost all metal oxides other than those of the alkali and alkaline earth metals, aluminium and a few transition metals.
+1071+1072 This property of CO is used in the extraction of many metals from their oxides ores. Fe2O3(s) + 3CO(g) → 2Fe(s) + 3CO2(g); ZnO(s) + CO(g) → Zn(s) + CO2(g)
+1072+1073 In CO molecule, there are one sigma and two π bonds between carbon and oxygen, :C≡O:. Because of the presence of a lone pair on carbon, CO molecule acts as a donor and reacts with certain metals when heated to form metal carbonyls.
+1074! The highly poisonous nature of CO arises because of its ability to form a complex with haemoglobin, which is about 300 times more stable than the oxygen-haemoglobin complex. This prevents haemoglobin in the red blood corpuscles from carrying oxygen round the body and ultimately resulting in death.
+# Carbon dioxide
+1075+1076 It is prepared by complete combustion of carbon and carbon containing fuels in excess of air. C(s) + O2(g) → CO2(g); CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+1076+1077 In the laboratory it is conveniently prepared by the action of dilute HCl on calcium carbonate. CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l). On commercial scale it is obtained by heating limestone.
+1078+1079 It is a colourless and odourless gas. Its low solubility in water makes it of immense biochemical and geo-chemical importance.
+1080 With water, it forms carbonic acid, H2CO3 which is a weak dibasic acid and dissociates in two steps: H2CO3(aq) + H2O(l) ⇌ HCO3^-(aq) + H3O^+(aq); HCO3^-(aq) + H2O(l) ⇌ CO3^2-(aq) + H3O^+(aq)
+1080 H2CO3/HCO3^- buffer system helps to maintain pH of blood between 7.26 to 7.42.
+1082+1083+1084 Carbon dioxide, which is normally present to the extent of ~ 0.03 % by volume in the atmosphere, is removed from it by the process known as photosynthesis. 6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O (hν, chlorophyll)
+1085+1086+1087 Unlike CO, it is not poisonous. But the increase in combustion of fossil fuels and decomposition of limestone for cement manufacture in recent years seem to increase the CO2 content of the atmosphere. This may lead to increase in green house effect and thus, raise the temperature of the atmosphere which might have serious consequences.
+1088+1089 Carbon dioxide can be obtained as a solid in the form of dry ice by allowing the liquified CO2 to expand rapidly. Dry ice is used as a refrigerant for ice-cream and frozen food.
+1090+1091+1092 Gaseous CO2 is extensively used to carbonate soft drinks. Being heavy and non-supporter of combustion it is used as fire extinguisher. A substantial amount of CO2 is used to manufacture urea.
+1093+1094+1095 In CO2 molecule carbon atom undergoes sp hybridisation. Two sp hybridised orbitals of carbon atom overlap with two p orbitals of oxygen atoms to make two sigma bonds while other two electrons of carbon atom are involved in pπ-pπ bonding with oxygen atom. This results in its linear shape [with both C—O bonds of equal length (115 pm)] with no dipole moment.
+# Silicon dioxide
+1096 95% of the earth's crust is made up of silica and silicates.
+1097+1098 Silicon dioxide, commonly known as silica, occurs in several crystallographic forms. Quartz, cristobalite and tridymite are some of the crystalline forms of silica, and they are interconvertable at suitable temperature.
+1099+1100+1101 Silicon dioxide is a covalent, three-dimensional network solid in which each silicon atom is covalently bonded in a tetrahedral manner to four oxygen atoms. Each oxygen atom in turn covalently bonded to another silicon atoms.
+1102+1103 Each corner is shared with another tetrahedron. The entire crystal may be considered as giant molecule in which eight membered rings are formed with alternate silicon and oxygen atoms.
+1103+1104 Silica in its normal form is almost nonreactive because of very high Si—O bond enthalpy. It resists the attack by halogens, dihydrogen and most of the acids and metals even at elevated temperatures.
+1105! However, it is attacked by HF and NaOH. SiO2 + 2NaOH → Na2SiO3 + H2O; SiO2 + 4HF → SiF4 + 2H2O
+1105 Quartz is extensively used as a piezoelectric material; it has made possible to develop extremely accurate clocks, modern radio and television broadcasting and mobile radio communications.
+1106+1107 Silica gel is used as a drying agent and as a support for chromatographic materials and catalysts. Kieselghur, an amorphous form of silica is used in filtration plants.
+# Silicones
+1108 Silicones are a group of organosilicon polymers, which have (-R2SiO-) as a repeating unit.
+1109 The starting materials for the manufacture of silicones are alkyl or aryl substituted silicon chlorides, RnSiCl(4-n), where R is alkyl or aryl group.
+1110 When methyl chloride reacts with silicon in the presence of copper as a catalyst at a temperature 573K various types of methyl substituted chlorosilane of formula MeSiCl3, Me2SiCl2, Me3SiCl with small amount of Me4Si are formed.
+1111 Hydrolysis of dimethyldichlorosilane, (CH3)2SiCl2 followed by condensation polymerisation yields straight chain polymers.
+1112T 2CH3Cl + Si → (CH3)2SiCl2 (Cu powder, 570 K); (CH3)2SiCl2 + 2H2O → (CH3)2Si(OH)2 + 2HCl; condensation polymerisation (−H2O) → silicone
+1112 The chain length of the polymer can be controlled by adding (CH3)3SiCl which blocks the ends.
+1113+1114 Silicones being surrounded by non-polar alkyl groups are water repelling in nature. They have in general high thermal stability, high dielectric strength and resistance to oxidation and chemicals.
+1116+1117 They are used as sealant, greases, electrical insulators and for water proofing of fabrics. Being biocompatible they are also used in surgical and cosmetic plants.
+# Silicates and zeolites
+1120+1121 A large number of silicates minerals exist in nature. Some of the examples are feldspar, zeolites, mica and asbestos.
+1122 The basic structural unit of silicates is SiO4^4- in which silicon atom is bonded to four oxygen atoms in tetrahedron fashion.
+1123+1124 In silicates either the discrete unit is present or a number of such units are joined together via corners by sharing 1,2,3 or 4 oxygen atoms per silicate units. When silicate units are linked together, they form chain, ring, sheet or three-dimensional structures.
+1125+1129+1130 Negative charge on silicate structure is neutralized by positively charged metal ions. If all the four corners are shared with other tetrahedral units, three-dimensional network is formed.
+1131 Two important man-made silicates are glass and cement.
+1132+1133+1134 If aluminium atoms replace few silicon atoms in three-dimensional network of silicon dioxide, overall structure known as aluminosilicate, acquires a negative charge. Cations such as Na^+, K^+ or Ca^2+ balance the negative charge. Examples are feldspar and zeolites.
+1135 Zeolites are widely used as a catalyst in petrochemical industries for cracking of hydrocarbons and isomerisation, e.g., ZSM-5 (A type of zeolite) used to convert alcohols directly into gasoline.
+1136 Hydrated zeolites are used as ion exchangers in softening of "hard" water.

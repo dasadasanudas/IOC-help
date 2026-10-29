@@ -1,0 +1,224 @@
+@src p15
+# Occurrence
+9 Group 15 includes nitrogen, phosphorus, arsenic, antimony, bismuth and moscovium.
+10 As we go down the group, there is a shift from nonmetallic to metallic through metalloidic character.
+11 Nitrogen and phosphorus are non-metals, arsenic and antimony metalloids, bismuth and moscovium are typical metals.
+12 Molecular nitrogen comprises 78% by volume of the atmosphere.
+13 In the earth's crust, it occurs as sodium nitrate, NaNO3 (called Chile saltpetre) and potassium nitrate (Indian saltpetre).
+16+17+18 Phosphorus occurs in minerals of the apatite family, Ca9(PO4)6.CaX2 (X = F, Cl or OH) (e.g., fluorapatite Ca9(PO4)6.CaF2) which are the main components of phosphate rocks.
+20 It is present in bones as well as in living cells.
+21 Phosphoproteins are present in milk and eggs.
+22 Arsenic, antimony and bismuth are found mainly as sulphide minerals.
+23 Moscovium is a synthetic radioactive element.
+# Electronic configuration, radii, ionisation enthalpy
+29 The s orbital in these elements is completely filled and p orbitals are half-filled, making their electronic configuration extra stable.
+30 Covalent and ionic (in a particular state) radii increase in size down the group.
+31+32! There is a considerable increase in covalent radius from N to P. However, from As to Bi only a small increase in covalent radius is observed. This is due to the presence of completely filled d and/or f orbitals in heavier members.
+33 Ionisation enthalpy decreases down the group due to gradual increase in atomic size.
+34! Because of the extra stable half-filled p orbitals electronic configuration and smaller size, the ionisation enthalpy of the group 15 elements is much greater than that of group 14 elements in the corresponding periods.
+35 The order of successive ionisation enthalpies, as expected is ∆iH1 < ∆iH2 < ∆iH3.
+# Electronegativity and physical properties
+36+37 The electronegativity value, in general, decreases down the group with increasing atomic size. However, amongst the heavier elements, the difference is not that much pronounced.
+38+39 All the elements of this group are polyatomic. Dinitrogen is a diatomic gas while all others are solids.
+41 Nitrogen and phosphorus are non-metals, arsenic and antimony metalloids and bismuth is a metal. This is due to decrease in ionisation enthalpy and increase in atomic size.
+42! The boiling points, in general, increase from top to bottom in the group but the melting point increases upto arsenic and then decreases upto bismuth.
+43! Except nitrogen, all the elements show allotropy.
+# Oxidation states
+44 The common oxidation states of these elements are –3, +3 and +5.
+45 The tendency to exhibit –3 oxidation state decreases down the group due to increase in size and metallic character.
+46! In fact last member of the group, bismuth hardly forms any compound in –3 oxidation state.
+48! The only well characterised Bi(V) compound is BiF5. The stability of +5 oxidation state decreases and that of +3 state increases (due to inert pair effect) down the group.
+49 Besides +5 oxidation state, nitrogen exhibits +1, +2, +4 oxidation states also when it reacts with oxygen.
+50! However, it does not form compounds in +5 oxidation state with halogens as nitrogen does not have d-orbitals to accommodate electrons from other elements to form bonds.
+51 Phosphorus also shows +1 and +4 oxidation states in some oxoacids.
+52+53 In the case of nitrogen, all oxidation states from +1 to +4 tend to disproportionate in acid solution. For example, 3HNO2 → HNO3 + H2O + 2NO
+53 Similarly, in case of phosphorus nearly all intermediate oxidation states disproportionate into +5 and –3 both in alkali and acid.
+54 However +3 oxidation state in case of arsenic, antimony and bismuth becomes increasingly stable with respect to disproportionation.
+55! Nitrogen is restricted to a maximum covalency of 4 since only four (one s and three p) orbitals are available for bonding.
+56 The heavier elements have vacant d orbitals in the outermost shell which can be used for bonding (covalency) and hence, expand their covalence as in PF6^–.
+# Anomalous properties of nitrogen
+57! Nitrogen differs from the rest of the members of this group due to its small size, high electronegativity, high ionisation enthalpy and non-availability of d orbitals.
+58! Nitrogen has unique ability to form pπ-pπ multiple bonds with itself and with other elements having small size and high electronegativity (e.g., C, O).
+59 Heavier elements of this group do not form pπ-pπ bonds as their atomic orbitals are so large and diffuse that they cannot have effective overlapping.
+60+61 Thus, nitrogen exists as a diatomic molecule with a triple bond (one s and two p) between the two atoms. Consequently, its bond enthalpy (941.4 kJ mol^–1) is very high.
+62 On the contrary, phosphorus, arsenic and antimony form single bonds as P–P, As–As and Sb–Sb while bismuth forms metallic bonds in elemental state.
+63+64! However, the single N–N bond is weaker than the single P–P bond because of high interelectronic repulsion of the non-bonding electrons, owing to the small bond length.
+65! As a result the catenation tendency is weaker in nitrogen.
+67! Besides restricting its covalency to four, nitrogen cannot form dπ–pπ bond as the heavier elements can e.g., R3P = O or R3P = CH2 (R = alkyl group).
+68 Phosphorus and arsenic can form dπ–dπ bond also with transition metals when their compounds like P(C2H5)3 and As(C6H5)3 act as ligands.
+# Hydrides EH3
+69 All the elements of Group 15 form hydrides of the type EH3 where E = N, P, As, Sb or Bi.
+71+72 The stability of hydrides decreases from NH3 to BiH3 which can be observed from their bond dissociation enthalpy. Consequently, the reducing character of the hydrides increases.
+73 Ammonia is only a mild reducing agent while BiH3 is the strongest reducing agent amongst all the hydrides.
+74 Basicity also decreases in the order NH3 > PH3 > AsH3 > SbH3 > BiH3.
+74+75! Due to high electronegativity and small size of nitrogen, NH3 exhibits hydrogen bonding in solid as well as liquid state. Because of this, it has higher melting and boiling points than that of PH3.
+81T Table 7.2: HEH angle (°) NH3 107.8, PH3 93.6, AsH3 91.8, SbH3 91.3. Boiling point/K NH3 238.5, PH3 185.5, AsH3 210.6, SbH3 254.6, BiH3 290. ∆fH^⊖/kJ mol^–1 NH3 –46.1, PH3 13.4, AsH3 66.4, SbH3 145.1, BiH3 278.
+690 [Hint: Can be explained on the basis of sp3 hybridisation in NH3 and only s–p bonding between hydrogen and other elements of the group].
+88 Unlike NH3, PH3 molecules are not associated through hydrogen bonding in liquid state.
+# Oxides E2O3, E2O5
+75 All these elements form two types of oxides: E2O3 and E2O5. The oxide in the higher oxidation state of the element is more acidic than that of lower oxidation state.
+76 Their acidic character decreases down the group.
+77 The oxides of the type E2O3 of nitrogen and phosphorus are purely acidic, that of arsenic and antimony amphoteric and those of bismuth predominantly basic.
+# Halides EX3, EX5
+78! These elements react to form two series of halides: EX3 and EX5. Nitrogen does not form pentahalide due to non-availability of the d orbitals in its valence shell.
+79+80 Pentahalides are more covalent than trihalides. This is due to the fact that in pentahalides +5 oxidation state exists while in the case of trihalides +3 oxidation state exists.
+81+95 Since elements in +5 oxidation state will have more polarising power than in +3 oxidation state, the covalent character of bonds is more in pentahalides.
+96+97! All the trihalides of these elements except those of nitrogen are stable. In case of nitrogen, only NF3 is known to be stable.
+98! Trihalides except BiF3 are predominantly covalent in nature.
+# Binary compounds with metals
+99 All these elements react with metals to form their binary compounds exhibiting –3 oxidation state, such as, Ca3N2 (calcium nitride) Ca3P2 (calcium phosphide), Na3As (sodium arsenide), Zn3Sb2 (zinc antimonide) and Mg3Bi2 (magnesium bismuthide).
+# Dinitrogen
+89 Dinitrogen is produced commercially by the liquefaction and fractional distillation of air.
+90 Liquid dinitrogen (b.p. 77.2 K) distils out first leaving behind liquid oxygen (b.p. 90 K).
+91 In the laboratory, dinitrogen is prepared by treating an aqueous solution of ammonium chloride with sodium nitrite.
+92 NH4Cl(aq) + NaNO2(aq) → N2(g) + 2H2O(l) + NaCl(aq)
+92 Small amounts of NO and HNO3 are also formed in this reaction; these impurities can be removed by passing the gas through aqueous sulphuric acid containing potassium dichromate.
+93+94 It can also be obtained by the thermal decomposition of ammonium dichromate. (NH4)2Cr2O7 → N2 + 4H2O + Cr2O3 (heat)
+94+95 Very pure nitrogen can be obtained by the thermal decomposition of sodium or barium azide. Ba(N3)2 → Ba + 3N2
+110 Thermal decomposition of sodium azide gives dinitrogen gas. 2NaN3 → 2Na + 3N2
+101 Dinitrogen is a colourless, odourless, tasteless and non-toxic gas.
+102 It has a very low solubility in water (23.2 cm^3 per litre of water at 273 K and 1 bar pressure) and low freezing and boiling points.
+103+104 Dinitrogen is rather inert at room temperature because of the high bond enthalpy of N≡N bond. Reactivity, however, increases rapidly with rise in temperature.
+105 At higher temperatures, it directly combines with some metals to form predominantly ionic nitrides and with non-metals, covalent nitrides.
+106 A few typical reactions are: 6Li + N2 → 2Li3N (heat); 3Mg + N2 → Mg3N2 (heat)
+106 It combines with hydrogen at about 773 K in the presence of a catalyst (Haber's Process) to form ammonia: N2(g) + 3H2(g) ⇌ 2NH3(g); ∆fH = –46.1 kJ mol^–1
+106 Dinitrogen combines with dioxygen only at very high temperature (at about 2000 K) to form nitric oxide, NO. N2 + O2(g) ⇌ 2NO(g) (heat)
+106 The main use of dinitrogen is in the manufacture of ammonia and other industrial chemicals containing nitrogen, (e.g., calcium cyanamide).
+107 It also finds use where an inert atmosphere is required (e.g., in iron and steel industry, inert diluent for reactive chemicals).
+108 Liquid dinitrogen is used as a refrigerant to preserve biological materials, food items and in cryosurgery.
+# Ammonia
+100 Ammonia is present in small quantities in air and soil where it is formed by the decay of nitrogenous organic matter e.g., urea.
+101T NH2CONH2 + 2H2O → (NH4)2CO3 ⇌ 2NH3 + H2O + CO2
+101 On a small scale ammonia is obtained from ammonium salts which decompose when treated with caustic soda or calcium hydroxide.
+101 2NH4Cl + Ca(OH)2 → 2NH3 + 2H2O + CaCl2; (NH4)2SO4 + 2NaOH → 2NH3 + 2H2O + Na2SO4
+119+120 On a large scale, ammonia is manufactured by Haber's process. N2(g) + 3H2(g) ⇌ 2NH3(g); ∆fH = –46.1 kJ mol^–1
+120 In accordance with Le Chatelier's principle, high pressure would favour the formation of ammonia.
+121 The optimum conditions for the production of ammonia are a pressure of 200 × 10^5 Pa (about 200 atm), a temperature of ~ 700 K and the use of a catalyst such as iron oxide with small amounts of K2O and Al2O3 to increase the rate of attainment of equilibrium.
+123 Earlier, iron was used as a catalyst with molybdenum as a promoter.
+111 Ammonia is a colourless gas with a pungent odour.
+112 Its freezing and boiling points are 198.4 and 239.7 K respectively.
+113 In the solid and liquid states, it is associated through hydrogen bonds as in the case of water and that accounts for its higher melting and boiling points than expected on the basis of its molecular mass.
+114 The ammonia molecule is trigonal pyramidal with the nitrogen atom at the apex. It has three bond pairs and one lone pair of electrons as shown in the structure.
+115+116 Ammonia gas is highly soluble in water. Its aqueous solution is weakly basic due to the formation of OH^– ions.
+117 NH3(g) + H2O(l) ⇌ NH4^+(aq) + OH^–(aq)
+117 It forms ammonium salts with acids, e.g., NH4Cl, (NH4)2SO4, etc. As a weak base, it precipitates the hydroxides (hydrated oxides in case of some metals) of many metals from their salt solutions.
+118T ZnSO4(aq) + 2NH4OH(aq) → Zn(OH)2(s) (white ppt) + (NH4)2SO4(aq)
+118+119T FeCl3(aq) + NH4OH(aq) → Fe2O3.xH2O(s) (brown ppt) + NH4Cl(aq)
+130 The presence of a lone pair of electrons on the nitrogen atom of the ammonia molecule makes it a Lewis base.
+131 It donates the electron pair and forms linkage with metal ions and the formation of such complex compounds finds applications in detection of metal ions such as Cu^2+, Ag^+:
+131T Cu^2+(aq) (blue) + 4NH3(aq) ⇌ [Cu(NH3)4]^2+(aq) (deep blue)
+131T Ag^+(aq) (colourless) + Cl^–(aq) → AgCl(s) (white ppt); AgCl(s) (white ppt) + 2NH3(aq) → [Ag(NH3)2]Cl(aq) (colourless)
+126 Ammonia is used to produce various nitrogenous fertilisers (ammonium nitrate, urea, ammonium phosphate and ammonium sulphate) and in the manufacture of some inorganic nitrogen compounds, the most important one being nitric acid.
+127 Liquid ammonia is also used as a refrigerant.
+# Oxides of nitrogen
+128 Nitrogen forms a number of oxides in different oxidation states.
+130T Table 7.3: Dinitrogen oxide N2O, +1, [Nitrogen(I) oxide]: NH4NO3 → N2O + 2H2O (heat); colourless gas, neutral.
+130T Table 7.3: Nitrogen monoxide NO, +2, [Nitrogen(II) oxide]: 2NaNO2 + 2FeSO4 + 3H2SO4 → Fe2(SO4)3 + 2NaHSO4 + 2H2O + 2NO; colourless gas, neutral.
+133T Table 7.3: Dinitrogen trioxide N2O3, +3, [Nitrogen(III) oxide]: 2NO + N2O4 → 2N2O3 (250 K); blue solid, acidic.
+133T Table 7.3: Nitrogen dioxide NO2, +4, [Nitrogen(IV) oxide]: 2Pb(NO3)2 → 4NO2 + 2PbO + O2 (673 K); brown gas, acidic.
+133T Table 7.3: Dinitrogen tetroxide N2O4, +4, [Nitrogen(IV) oxide]: 2NO2 ⇌ N2O4 (cool / heat); colourless solid/liquid, acidic.
+133T Table 7.3: Dinitrogen pentoxide N2O5, +5, [Nitrogen(V) oxide]: 4HNO3 + P4O10 → 4HPO3 + 2N2O5; colourless solid, acidic.
+143+144+145 NO2 contains odd number of valence electrons. It behaves as a typical odd molecule. On dimerisation, it is converted to stable N2O4 molecule with even number of electrons.
+651 These oxides have resonating structures and have multiple bonds.
+# Nitric acid
+145+146 Nitrogen forms oxoacids such as H2N2O2 (hyponitrous acid), HNO2 (nitrous acid) and HNO3 (nitric acid). Amongst them HNO3 is the most important.
+134 In the laboratory, nitric acid is prepared by heating KNO3 or NaNO3 and concentrated H2SO4 in a glass retort. NaNO3 + H2SO4 → NaHSO4 + HNO3
+134+135 On a large scale it is prepared mainly by Ostwald's process. This method is based upon catalytic oxidation of NH3 by atmospheric oxygen.
+136T 4NH3(g) + 5O2(g) (from air) → 4NO(g) + 6H2O(g) (Pt/Rh gauge catalyst, 500 K, 9 bar)
+136 Nitric oxide thus formed combines with oxygen giving NO2. 2NO(g) + O2(g) ⇌ 2NO2(g)
+136 Nitrogen dioxide so formed, dissolves in water to give HNO3. 3NO2(g) + H2O(l) → 2HNO3(aq) + NO(g)
+136 NO thus formed is recycled and the aqueous HNO3 can be concentrated by distillation upto ~ 68% by mass.
+137 Further concentration to 98% can be achieved by dehydration with concentrated H2SO4.
+137 It is a colourless liquid (f.p. 231.4 K and b.p. 355.6 K).
+138 Laboratory grade nitric acid contains ~ 68% of the HNO3 by mass and has a specific gravity of 1.504.
+139 In the gaseous state, HNO3 exists as a planar molecule with the structure as shown.
+140+141 In aqueous solution, nitric acid behaves as a strong acid giving hydronium and nitrate ions. HNO3(aq) + H2O(l) → H3O^+(aq) + NO3^–(aq)
+141 Concentrated nitric acid is a strong oxidising agent and attacks most metals except noble metals such as gold and platinum.
+147 The products of oxidation depend upon the concentration of the acid, temperature and the nature of the material undergoing oxidation.
+147 3Cu + 8HNO3(dilute) → 3Cu(NO3)2 + 2NO + 4H2O
+147 Cu + 4HNO3(conc.) → Cu(NO3)2 + 2NO2 + 2H2O
+147 Zinc reacts with dilute nitric acid to give N2O and with concentrated acid to give NO2.
+147 4Zn + 10HNO3(dilute) → 4Zn(NO3)2 + 5H2O + N2O
+147 Zn + 4HNO3(conc.) → Zn(NO3)2 + 2H2O + 2NO2
+147! Some metals (e.g., Cr, Al) do not dissolve in concentrated nitric acid because of the formation of a passive film of oxide on the surface.
+148+149 Concentrated nitric acid also oxidises non–metals and their compounds. Iodine is oxidised to iodic acid, carbon to carbon dioxide, sulphur to H2SO4, and phosphorus to phosphoric acid.
+150 I2 + 10HNO3 → 2HIO3 + 10NO2 + 4H2O
+150 C + 4HNO3 → CO2 + 2H2O + 4NO2
+150 S8 + 48HNO3 → 8H2SO4 + 48NO2 + 16H2O
+150 P4 + 20HNO3 → 4H3PO4 + 20NO2 + 4H2O
+150 The familiar brown ring test for nitrates depends on the ability of Fe^2+ to reduce nitrates to nitric oxide, which reacts with Fe^2+ to form a brown coloured complex.
+150 The test is usually carried out by adding dilute ferrous sulphate solution to an aqueous solution containing nitrate ion, and then carefully adding concentrated sulphuric acid along the sides of the test tube.
+151 A brown ring at the interface between the solution and sulphuric acid layers indicates the presence of nitrate ion in solution.
+152 NO3^- + 3Fe^2+ + 4H^+ → NO + 3Fe^3+ + 2H2O
+152T [Fe(H2O)6]^2+ + NO → [Fe(H2O)5(NO)]^2+ + H2O (brown)
+152 The major use of nitric acid is in the manufacture of ammonium nitrate for fertilisers and other nitrates for use in explosives and pyrotechnics.
+153 It is also used for the preparation of nitroglycerin, trinitrotoluene and other organic nitro compounds.
+154 Other major uses are in the pickling of stainless steel, etching of metals and as an oxidiser in rocket fuels.
+# Phosphorus: allotropic forms
+155 Phosphorus is found in many allotropic forms, the important ones being white, red and black.
+156 White phosphorus is a translucent white waxy solid.
+157 It is poisonous, insoluble in water but soluble in carbon disulphide and glows in dark (chemiluminescence).
+158 It dissolves in boiling NaOH solution in an inert atmosphere giving PH3.
+158T P4 + 3NaOH + 3H2O → PH3 + 3NaH2PO2 (sodium hypophosphite)
+159! White phosphorus is less stable and therefore, more reactive than the other solid phases under normal conditions because of angular strain in the P4 molecule where the angles are only 60°.
+160 It readily catches fire in air to give dense white fumes of P4O10. P4 + 5O2 → P4O10
+160 It consists of discrete tetrahedral P4 molecule.
+161 Red phosphorus is obtained by heating white phosphorus at 573K in an inert atmosphere for several days.
+162 When red phosphorus is heated under high pressure, a series of phases of black phosphorus is formed.
+163 Red phosphorus possesses iron grey lustre.
+164 It is odourless, nonpoisonous and insoluble in water as well as in carbon disulphide.
+165+166 Chemically, red phosphorus is much less reactive than white phosphorus. It does not glow in the dark.
+167 It is polymeric, consisting of chains of P4 tetrahedra linked together.
+168 Black phosphorus has two forms α-black phosphorus and β-black phosphorus. α-Black phosphorus is formed when red phosphorus is heated in a sealed tube at 803K. It can be sublimed in air and has opaque monoclinic or rhombohedral crystals.
+169+170 It does not oxidise in air. β-Black phosphorus is prepared by heating white phosphorus at 473 K under high pressure. It does not burn in air upto 673 K.
+# Phosphine
+170 Phosphine is prepared by the reaction of calcium phosphide with water or dilute HCl. Ca3P2 + 6H2O → 3Ca(OH)2 + 2PH3; Ca3P2 + 6HCl → 3CaCl2 + 2PH3
+170 In the laboratory, it is prepared by heating white phosphorus with concentrated NaOH solution in an inert atmosphere of CO2.
+170! When pure, it is non inflammable but becomes inflammable owing to the presence of P2H4 or P4 vapours.
+171 To purify it from the impurities, it is absorbed in HI to form phosphonium iodide (PH4I) which on treating with KOH gives off phosphine. PH4I + KOH → KI + H2O + PH3
+171 It is a colourless gas with rotten fish smell and is highly poisonous.
+172 It explodes in contact with traces of oxidising agents like HNO3, Cl2 and Br2 vapours.
+173 It is slightly soluble in water.
+174 The solution of PH3 in water decomposes in presence of light giving red phosphorus and H2.
+174+178 When absorbed in copper sulphate or mercuric chloride solution, the corresponding phosphides are obtained.
+178 3CuSO4 + 2PH3 → Cu3P2 + 3H2SO4; 3HgCl2 + 2PH3 → Hg3P2 + 6HCl
+178 Phosphine is weakly basic and like ammonia, gives phosphonium compounds with acids e.g., PH3 + HBr → PH4Br
+179 PH3 reacts with acids like HI to form PH4I which shows that it is basic in nature. Due to lone pair on phosphorus atom, PH3 is acting as a Lewis base in the above reaction.
+701 In PH4^+ all the four orbitals are bonded whereas in PH3 there is a lone pair of electrons on P, which is responsible for lone pair-bond pair repulsion in PH3 reducing the bond angle to less than 109° 28′.
+176 The spontaneous combustion of phosphine is technically used in Holme's signals.
+177 Containers containing calcium carbide and calcium phosphide are pierced and thrown in the sea when the gases evolved burn and serve as a signal. It is also used in smoke screens.
+# Phosphorus trichloride
+175 Phosphorus forms two types of halides, PX3 (X = F, Cl, Br, I) and PX5 (X = F, Cl, Br).
+176 It is obtained by passing dry chlorine over heated white phosphorus. P4 + 6Cl2 → 4PCl3
+176 It is also obtained by the action of thionyl chloride with white phosphorus. P4 + 8SOCl2 → 4PCl3 + 4SO2 + 2S2Cl2
+176 It is a colourless oily liquid and hydrolyses in the presence of moisture. PCl3 + 3H2O → H3PO3 + 3HCl
+187 PCl3 hydrolyses in the presence of moisture giving fumes of HCl.
+176 It reacts with organic compounds containing –OH group such as CH3COOH, C2H5OH. 3CH3COOH + PCl3 → 3CH3COCl + H3PO3; 3C2H5OH + PCl3 → 3C2H5Cl + H3PO3
+176 It has a pyramidal shape, in which phosphorus is sp^3 hybridised.
+# Phosphorus pentachloride
+181 Phosphorus pentachloride is prepared by the reaction of white phosphorus with excess of dry chlorine. P4 + 10Cl2 → 4PCl5
+181 It can also be prepared by the action of SO2Cl2 on phosphorus. P4 + 10SO2Cl2 → 4PCl5 + 10SO2
+181 PCl5 is a yellowish white powder and in moist air, it hydrolyses to POCl3 and finally gets converted to phosphoric acid. PCl5 + H2O → POCl3 + 2HCl; POCl3 + 3H2O → H3PO4 + 3HCl
+181+182 When heated, it sublimes but decomposes on stronger heating. PCl5 → PCl3 + Cl2 (heat)
+182 It reacts with organic compounds containing –OH group converting them to chloro derivatives. C2H5OH + PCl5 → C2H5Cl + POCl3 + HCl; CH3COOH + PCl5 → CH3COCl + POCl3 + HCl
+182 Finely divided metals on heating with PCl5 give corresponding chlorides. 2Ag + PCl5 → 2AgCl + PCl3; Sn + 2PCl5 → SnCl4 + 2PCl3
+182 It is used in the synthesis of some organic compounds, e.g., C2H5Cl, CH3COCl.
+183 In gaseous and liquid phases, it has a trigonal bipyramidal structure.
+184+185! The three equatorial P–Cl bonds are equivalent, while the two axial bonds are longer than equatorial bonds. This is due to the fact that the axial bond pairs suffer more repulsion as compared to equatorial bond pairs.
+# Oxoacids of phosphorus
+194 The compositions of the oxoacids are interrelated in terms of loss or gain of H2O molecule or O-atom.
+196+197 In oxoacids phosphorus is tetrahedrally surrounded by other atoms. All these acids contain at least one P=O bond and one P–OH bond.
+198 The oxoacids in which phosphorus has lower oxidation state (less than +5) contain, in addition to P=O and P–OH bonds, either P–P (e.g., in H4P2O6) or P–H (e.g., in H3PO2) bonds but not both.
+199 These acids in +3 oxidation state of phosphorus tend to disproportionate to higher and lower oxidation states.
+200 For example, orthophophorous acid (or phosphorous acid) on heating disproportionates to give orthophosphoric acid (or phosphoric acid) and phosphine. 4H3PO3 → 3H3PO4 + PH3
+200T Table 7.5: Hypophosphorous (Phosphinic) H3PO2, +1; One P–OH, Two P–H, One P=O; from white P4 + alkali.
+200T Table 7.5: Orthophosphorous (Phosphonic) H3PO3, +3; Two P–OH, One P–H, One P=O; from P2O3 + H2O.
+200T Table 7.5: Pyrophosphorous H4P2O5, +3; Two P–OH, Two P–H, Two P=O; from PCl3 + H3PO3.
+200T Table 7.5: Hypophosphoric H4P2O6, +4; Four P–OH, Two P=O, One P–P; from red P4 + alkali.
+200T Table 7.5: Orthophosphoric H3PO4, +5; Three P–OH, One P=O; from P4O10 + H2O.
+200T Table 7.5: Pyrophosphoric H4P2O7, +5; Four P–OH, Two P=O, One P–O–P; from heat phosphoric acid.
+200T Table 7.5: Metaphosphoric (HPO3)n, +5 (exists in polymeric forms only); Three P–OH, Three P=O, Three P–O–P; from phosphorus acid + Br2, heat in a sealed tube.
+201 The acids which contain P–H bond have strong reducing properties.
+202 Thus, hypophosphorous acid is a good reducing agent as it contains two P–H bonds and reduces, for example, AgNO3 to metallic silver. 4AgNO3 + 2H2O + H3PO2 → 4Ag + 4HNO3 + H3PO4
+202+203! These P–H bonds are not ionisable to give H^+ and do not play any role in basicity. Only those H atoms which are attached with oxygen in P–OH form are ionisable and cause the basicity.
+204 Thus, H3PO3 and H3PO4 are dibasic and tribasic, respectively as the structure of H3PO3 has two P–OH bonds and H3PO4 three.

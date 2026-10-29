@@ -1,0 +1,176 @@
+86d144|Group 16 (chalcogens): O, S, Se, Te, Po, Lv.
+fc987a|Most copper minerals contain O or S (hence "chalcogens", ore-formers).
+498701|-
+4c0098|O is the most abundant element on earth.
+21fbe1|O: 46.6% of the crust by mass; 20.946% of dry air by volume.
+56cf33|S: only 0.03–0.1% of the crust.
+8e5701|S as sulphates: gypsum CaSO4·2H2O, epsom salt MgSO4·7H2O, baryte BaSO4; as sulphides: galena PbS, zinc blende ZnS, copper pyrites CuFeS2.
+d7335e|Traces of S as H2S in volcanoes.
+c97e70|-
+04461d|Se and Te occur as selenides and tellurides in sulphide ores.
+6d5581|Po: decay product in thorium and uranium minerals.
+c81fe0|Lv: synthetic, radioactive.
+a932ee|ns^2np^4.
+79c6a3|Radii increase down the group.
+b48a8b|**O is exceptionally small.**
+816a04|=
+7feab3|∆iH decreases down the group.
+e39420|**∆iH of group 16 < group 15** in the same period (group 15 has extra-stable half-filled p).
+4999c0|**∆egH: O less negative than S** (compact O); from S to Po it becomes less negative again.
+394940|O has the second-highest EN (after F).
+a54368|EN decreases down the group; metallic character increases O → Po.
+1340d0|O, S non-metals; Se, Te metalloids; Po metal (radioactive, t½ 13.8 days).
+316ab0|All show allotropy.
+fea76b|m.p. and b.p. increase down the group.
+0238f9|Big m.p./b.p. gap between O and S: O2 is diatomic, sulphur is S8.
+581be0|**O is +2 in OF2 and +1 in O2F2.**
+1f20b1|–2 stability decreases down the group; **Po hardly shows –2**.
+25125c|O shows only –2 (high EN), except +2 in OF2.
+ea5d4f|Others show +2, +4, +6; +4 and +6 more common.
+c6a69f|S, Se, Te: usually +4 with oxygen, +6 with fluorine.
+6e0fff|+6 stability decreases and +4 increases down the group (inert pair).
+5315bc|Bonding in +4 and +6 is mainly covalent.
+2041ce|O is anomalous: small size, high EN.
+531e8f|Strong H-bonding in H2O, absent in H2S.
+247996|-
+758ea6|**O: no d orbitals, so covalency ≤ 4, and rarely exceeds 2 in practice.**
+c67735|Others can expand covalence beyond 4.
+019717|All form H2E (E = O, S, Se, Te, Po).
+8cfd94|**Acidity increases H2O → H2Te** (H–E bond enthalpy decreases).
+c8f229|Thermal stability decreases H2O → H2Po.
+bcfca3|**All hydrides except H2O are reducing**; increasing H2S → H2Te.
+03163f|=
+384da4|Water is liquid because of extensive H-bonding (small, electronegative O).
+4d957b|Oxides EO2 and EO3 (E = S, Se, Te, Po). O3 and SO2 are gases; SeO2 is solid.
+6a64da|**Reducing power falls SO2 → TeO2: SO2 is a reductant, TeO2 an oxidant.**
+3d1cb6|S, Se, Te also form EO3 (SO3, SeO3, TeO3). Both EO2 and EO3 are acidic.
+e76240|Halides EX6, EX4, EX2.
+2e72c7|Halide stability: F^– > Cl^– > Br^– > I^–.
+d401f5|Only hexafluorides are stable hexahalides; all gaseous, octahedral.
+0fb3be|**SF6 is exceptionally stable (steric reasons).**
+e62338|SF4 gas, SeF4 liquid, TeF4 solid.
+8eb24a|EF4: sp^3d, trigonal bipyramidal with a lone pair at an equatorial position: **see-saw**.
+75361d|**All except O form dichlorides and dibromides.**
+d10fdd|EX2: sp^3, tetrahedral (electron arrangement).
+c8a53f|Monohalides are dimeric: S2F2, S2Cl2, S2Br2, Se2Cl2, Se2Br2.
+477e99|They disproportionate: 2Se2Cl2 → SeCl4 + 3Se
+bae03e|Lab O2: heat chlorates, nitrates, permanganates.
+c3b547|=
+58cc35|Heat oxides of metals low in the electrochemical series, and higher oxides: 2Ag2O → 4Ag + O2; 2Pb3O4 → 6PbO + O2; 2HgO → 2Hg + O2; 2PbO2 → 2PbO + O2
+33d85d|2H2O2(aq) → 2H2O(l) + O2(g) (finely divided metals or MnO2 catalyst)
+7388b3|Electrolysis of water: H2 at cathode, O2 at anode.
+443ae6|Industrial: remove CO2 and water vapour from air, liquefy, fractionally distil.
+d60cc7|O2: colourless, odourless.
+e57bd6|Solubility 3.08 cm^3 per 100 cm^3 water (293 K), enough for aquatic life.
+d53479|Liquefies at 90 K, freezes at 55 K.
+0582be|**O2 is paramagnetic despite an even number of electrons.**
+df7da5|Reacts directly with nearly all metals and non-metals, **except some metals (Au, Pt) and some noble gases**.
+ceb0fa|Reactions are often strongly exothermic, which sustains them.
+7a82dd|Initial heating needed: high O=O bond dissociation enthalpy (493.4 kJ mol^–1).
+40536b|§Hydrides H2E§Acidity increases down the group (E–H bond enthalpy falls).
+a47fa8|=
+8b0a3d|Catalytic oxidations: 2SO2 + O2 → 2SO3 (V2O5); 4HCl + O2 → 2Cl2 + 2H2O (CuCl2)
+c5a47c|O2 uses: respiration, combustion; oxyacetylene welding; metal (steel) manufacture.
+864756|O2 cylinders: hospitals, high-altitude flying, mountaineering.
+70824e|Fuels (e.g. hydrazines) burnt in liquid O2: rocket thrust.
+4ae3dd|Oxide = binary compound of O with another element.
+f10522|One element may form several oxides of widely varying nature.
+05feeb|Simple (MgO, Al2O3) or mixed (Pb3O4, Fe3O4).
+c84f6a|Simple oxides: acidic, basic, amphoteric (or neutral).
+479768|Acidic oxide gives an acid with water: SO2, Cl2O7, CO2, N2O5.
+a038cb|SO2 + H2O → H2SO3
+78d850|**Non-metal oxides are acidic, but so are some high-oxidation-state metal oxides: Mn2O7, CrO3, V2O5.**
+87c262|Basic oxides give bases: Na2O, CaO, BaO.
+2c07ab|CaO + H2O → Ca(OH)2
+201997|Metal oxides are generally basic.
+350053|Amphoteric oxides behave as acidic and basic.
+e0fc54|They react with both acids and alkalies.
+b30221|e.g. Al2O3.
+73db27|=
+0fe29b|**Neutral oxides: CO, NO, N2O.**
+b168de|O3 is an allotrope of oxygen, too reactive to persist at sea level.
+02bfc8|Formed from O2 by sunlight at ~20 km; the ozone layer screens UV.
+f341dc|Slow dry O2 through a silent electric discharge gives ~10% O3.
+d6a099|Ozonised oxygen: 3O2 → 2O3; ∆H(298 K) = +142 kJ mol^–1
+06913c|Endothermic, so a **silent** discharge is used, to avoid decomposing the O3.
+ab320a|>10% O3: battery of ozonisers; pure O3 (b.p. 101.1 K) condensed using liquid O2.
+fccdd7|**Pure O3: pale blue gas, dark blue liquid, violet-black solid.**
+9e5b81|Characteristic smell; harmless in small amounts; above ~100 ppm causes headache, nausea.
+fc9d56|O3 is thermodynamically unstable: O3 → O2 has ∆H < 0 and ∆S > 0, so a large negative ∆G.
+942e72|High concentrations can be dangerously explosive.
+f92799|Powerful oxidant: easily gives nascent O (O3 → O2 + O).
+422b2d|PbS(s) + 4O3(g) → PbSO4(s) + 4O2(g); 2I^–(aq) + H2O(l) + O3(g) → 2OH^–(aq) + I2(s) + O2(g)
+68db8f|**Estimating O3**: excess KI buffered at pH 9.2 (borate); the liberated I2 is titrated with standard thiosulphate.
+f088bc|NO (from supersonic jet exhaust) reacts rapidly with O3 and may deplete the ozone layer.
+d9a570|=
+18d222|Freons (aerosols, refrigerants) also threaten the ozone layer.
+9489fc|**O3: angular, both O–O bonds 128 pm, angle ~117°.**
+7b8cff|Resonance hybrid of two main forms.
+70e11f|O3 uses: germicide, disinfectant, water sterilisation.
+8cec4f|Bleaching oils, ivory, flour, starch; oxidant in KMnO4 manufacture.
+a509d3|S allotropes: most important are yellow rhombic (α) and monoclinic (β).
+ec27e4|Rhombic is stable at room temperature; becomes monoclinic above 369 K.
+e8d69e|Rhombic S: yellow, m.p. 385.8 K, sp. gr. 2.06.
+85d65d|Rhombic crystals from evaporating roll sulphur in CS2; insoluble in water, somewhat soluble in benzene, alcohol, ether.
+16d5a2|Readily soluble in CS2.
+5f9bf4|Monoclinic S: m.p. 393 K, sp. gr. 1.98; soluble in CS2.
+5344d6|Monoclinic S: melt rhombic S, cool till a crust forms, pierce, pour out the liquid; colourless needles of β-S remain.
+6c13a2|β-S stable above 369 K, α-S below.
+c53f3d|**369 K = transition temperature** (both forms stable).
+40735e|Both contain S8 molecules, packed differently.
+b324bf|S8 ring is puckered, crown-shaped.
+f92aba|**S2 vapour is paramagnetic**: two unpaired electrons in π* (like O2).
+8f212f|Rings of 6–20 S atoms have been synthesised.
+cc5419|Cyclo-S6: chair form.
+d915bd|At ~1000 K, S2 dominates (paramagnetic).
+176f75|S burnt in air or O2 gives SO2 with a little (6–8%) SO3. S + O2 → SO2
+c68cf7|Lab: sulphite + dilute H2SO4: SO3^2- + 2H^+ → H2O + SO2
+36d1d7|Industrial: by-product of roasting sulphide ores.
+e13a36|=
+85f6e0|Dried, liquefied under pressure, stored in steel cylinders.
+3d52f8|SO2: colourless, pungent, very soluble in water.
+f1b170|Liquefies at room temperature under 2 atm; b.p. 263 K.
+3a0729|SO2(g) + H2O(l) ⇌ H2SO3(aq)
+f8eeff|2NaOH + SO2 → Na2SO3 + H2O; Na2SO3 + H2O + SO2 → 2NaHSO3
+4775d3|With water and alkalies SO2 behaves like CO2.
+d33626|SO2(g) + Cl2(g) → SO2Cl2(l) (charcoal catalyst)
+30dd45|2SO2(g) + O2(g) → 2SO3(g) (V2O5)
+5cafcc|Moist SO2 is a reductant: Fe^3+ → Fe^2+; **decolourises acidified KMnO4 (test for SO2)**.
+35c248|=
+1eade2|SO2 is angular; resonance hybrid of two forms.
+f19421|SO2 uses: refining petroleum and sugar; bleaching wool and silk; antichlor, disinfectant, preservative.
+669c4d|Used to make H2SO4, NaHSO3, Ca(HSO3)2.
+d7e4a3|Liquid SO2: solvent for many organic and inorganic chemicals.
+fa1a46|Both S–O bonds in SO2 are equal (resonance).
+e273fa|S oxoacids: H2SO3, H2S2O3, H2S2O4, H2S2O5, H2SxO6 (x = 2–5), H2SO4, H2S2O7, H2SO5, H2S2O8.
+dbce6c|Several are unstable; known only in solution or as salts.
+48f31a|-
+268b65|**Contact process**: (i) burn S or sulphide ores → SO2; (ii) SO2 + O2 → SO3 (V2O5); (iii) SO3 absorbed in H2SO4 → oleum H2S2O7.
+1d1257|SO2 is purified (dust, arsenic compounds removed).
+702fce|Key step: catalytic oxidation SO2 → SO3 over V2O5.
+a4568f|=
+a09357|Exothermic, reversible, volume decreases: low T and high P favour yield, but T can't be too low (slow rate).
+d45dba|**Operating conditions: 2 bar, 720 K.**
+08ea50|SO3 absorbed in conc. H2SO4 → oleum; dilution gives the desired H2SO4.
+800a7b|SO3 + H2SO4 → H2S2O7 (oleum); steps run simultaneously (continuous process).
+bed932|Contact-process acid is 96–98% pure.
+7d57d6|=
+112e45|H2SO4: colourless, dense, oily; sp. gr. 1.84 (298 K); f.p. 283 K, b.p. 611 K; dissolves in water with much heat.
+008c9f|**Add conc. acid slowly to water with stirring** (never the reverse).
+b5977d|Reactions stem from: low volatility, strong acidity, strong affinity for water, oxidising ability.
+7ef6bb|=
+bd8c28|Large Ka1 (>10): H2SO4 is largely dissociated to H^+ and HSO4^–.
+a471b8|Larger Ka, stronger acid.
+521e9e|Two series of salts: normal sulphates (Na2SO4, CuSO4) and acid sulphates (NaHSO4).
+c5e13f|Low volatility: makes volatile acids from salts. 2MX + H2SO4 → 2HX + M2SO4 (X = F, Cl, NO3)
+5b6337|Strong dehydrating agent: dries wet gases that don't react with it.
+a07717|Chars carbohydrates: C12H22O11 → 12C + 11H2O
+0a3b58|Hot conc. H2SO4 is a moderately strong oxidant, between H3PO4 and HNO3.
+a8b314|Oxidises metals and non-metals, itself reduced to SO2: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O; S + 2H2SO4 → 3SO2 + 2H2O; C + 2H2SO4 → CO2 + 2SO2 + 2H2O
+0f8c7d|-
+a17a90|Main use: fertilisers ((NH4)2SO4, superphosphate).
+f1c0c7|Other uses: petroleum refining; pigments, paints, dyes; detergents; metallurgy (cleaning before enamelling, electroplating, galvanising); storage batteries; nitrocellulose; lab reagent.
+6b683e|=
+ca41a3|-
+66e2d5|H2SO4 is very strong because of the first ionisation; HSO4^– → SO4^2– is tiny, so Ka2 << Ka1.
+21f397|-

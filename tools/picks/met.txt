@@ -1,0 +1,155 @@
+@src met
+# Occurrence of metals
+77 A few elements like carbon, sulphur, gold and noble gases, occur in free state while others are found in combined forms in the earth’s crust.
+78+79 Among metals, aluminium is the most abundant. In fact, it is the third most abundant element in earth’s crust (8.3% approx. by weight).
+81 Many gemstones are impure forms of Al2O3. For example, gems ‘ruby’ and ‘sapphire’ have Cr and Co respectively as impurity.
+82 Iron is the second most abundant metal in the earth’s crust.
+84+85 For obtaining a particular metal, first we look for minerals which are naturally occurring chemical substances in the earth’s crust and are obtained through mining. Out of many minerals in which a metal may be found, only a few are viable to be used as source of that metal. Such minerals are known as ores.
+86T Table 6.1: Aluminium: Bauxite AlOx(OH)3-2x [where 0 < x < 1], Kaolinite (a form of clay) [Al2(OH)4Si2O5]. Iron: Haematite Fe2O3, Magnetite Fe3O4, Siderite FeCO3, Iron pyrites FeS2.
+86T Table 6.1: Copper: Copper pyrites CuFeS2, Malachite CuCO3·Cu(OH)2, Cuprite Cu2O, Copper glance Cu2S. Zinc: Zinc blende or Sphalerite ZnS, Calamine ZnCO3, Zincite ZnO.
+88+89 For the purpose of extraction, bauxite is chosen for aluminium. For iron, usually the oxide ores which are abundant and do not produce polluting gases (like SO2 that is produced in case of iron pyrites) are taken.
+91 The entire scientific and technological process used for isolation of the metal from its ore is known as metallurgy.
+94+95 An ore rarely contains only a desired substance. It is usually contaminated with earthly or undesired materials known as gangue.
+98 Removal of the unwanted materials (e.g., sand, clays, etc.) from the ore is known as concentration, dressing or benefaction.
+160+161 During metallurgy, ‘flux’ is added which combines with ‘gangue’ to form ‘slag’. Slag separates more easily from the ore than the gangue.
+# Concentration of ores
+100 Concentration of ores involves several steps and selection of these steps depends upon the differences in physical properties of the compound of the metal present and that of the gangue.
+103+104 Hydraulic washing is based on the difference between specific gravities of the ore and the gangue particles. It is therefore a type of gravity separation.
+105+106 In one such process, an upward stream of running water is used to wash the powdered ore. The lighter gangue particles are washed away and the heavier ore particles are left behind.
+107+108 Magnetic separation is based on differences in magnetic properties of the ore components. If either the ore or the gangue is attracted towards magnetic field, then the separation is carried out by this method.
+109 For example iron ores are attracted towards magnet, hence, non–magnetic impurities can be separted from them using magnetic separation.
+376 Ores in which one of the components (either the impurity or the actual ore) is magnetic can be concentrated, e.g., ores containing iron (haematite, magnetite, siderite and iron pyrites).
+111+112+113 Froth floatation is used for removing gangue from sulphide ores. In this process, a suspension of the powdered ore is made with water. Collectors and froth stabilisers are added to it.
+114 Collectors (e.g., pine oils, fatty acids, xanthates, etc.) enhance nonwettability of the mineral particles and froth stabilisers (e.g., cresols, aniline) stabilise the froth.
+115 The mineral particles become wet by oils while the gangue particles by water.
+116+117+118 A rotating paddle agitates the mixture and draws air in it. As a result, froth is formed which carries the mineral particles. The froth is light and is skimmed off.
+120 Sometimes, it is possible to separate two sulphide ores by adjusting proportion of oil to water or by using ‘depressants’.
+121! For example, in the case of an ore containing ZnS and PbS, the depressant used is NaCN. It selectively prevents ZnS from coming to the froth but allows PbS to come with the froth.
+136 Invention of the Froth Floatation Method made copper mining profitable even from the lowgrade ores.
+# Leaching
+122 Leaching is often used if the ore is soluble in some suitable solvent.
+123+124 Bauxite is the principal ore of aluminium. It usually contains SiO2, iron oxides and titanium oxide (TiO2) as impurities.
+125+126+127 Concentration is carried out by heating the powdered ore with a concentrated solution of NaOH at 473 – 523 K and 35 – 36 bar pressure. This process is called digestion. This way, Al2O3 is extracted out as sodium aluminate.
+138 The impurity, SiO2 too dissolves forming sodium silicate.
+140 Al2O3(s) + 2NaOH(aq) + 3H2O(l) → 2Na[Al(OH)4](aq)
+140 The sodium aluminate present in solution is neutralised by passing CO2 gas and hydrated Al2O3 is precipitated.
+141+142+143 At this stage, small amount of freshly prepared sample of hydrated Al2O3 is added to the solution. This is called seeding. It induces the precipitation.
+143 2Na[Al(OH)4](aq) + 2CO2(g) → Al2O3·xH2O(s) + 2NaHCO3(aq)
+143 Sodium silicate remains in the solution and hydrated alumina is filtered, dried and heated to give back pure Al2O3. Al2O3·xH2O(s) →(1470 K) Al2O3(s) + xH2O(g)
+376 Leaching is significant as it helps in removing the impurities like SiO2, Fe2O3, etc. from the bauxite ore.
+143 In the metallurgy of silver and gold, the respective metal is leached with a dilute solution of NaCN or KCN in the presence of air, which supplies O2. The metal is obtained later by replacement reaction.
+143T 4M(s) + 8CN^–(aq) + 2H2O(aq) + O2(g) → 4[M(CN)2]^–(aq) + 4OH^–(aq) (M = Ag or Au); 2[M(CN)2]^–(aq) + Zn(s) → [Zn(CN)4]^2–(aq) + 2M(s)
+# Conversion to oxide
+143 Usually sulphide ores are converted to oxide before reduction because oxides are easier to reduce.
+144+145 Calcination involves heating. It removes the volatile matter which escapes leaving behind the metal oxide: Fe2O3·xH2O(s) →Δ Fe2O3(s) + xH2O(g); ZnCO3(s) →Δ ZnO(s) + CO2(g); CaCO3·MgCO3(s) →Δ CaO(s) + MgO(s) + 2CO2(g)
+145 In roasting, the ore is heated in a regular supply of air in a furnace at a temperature below the melting point of the metal.
+146 2ZnS + 3O2 → 2ZnO + 2SO2; 2PbS + 3O2 → 2PbO + 2SO2; 2Cu2S + 3O2 → 2Cu2O + 2SO2
+146+147 The sulphide ores of copper are heated in reverberatory furnace. If the ore contains iron, it is mixed with silica before heating.
+148 Iron oxide ‘slags of’ as iron silicate and copper is produced in the form of copper matte which contains Cu2S and FeS. FeO + SiO2 → FeSiO3 (slag). The SO2 produced is utilised for manufacturing H2SO4.
+# Thermodynamic principles
+149+150 Reduction of the metal oxide usually involves heating it with a reducing agent, for example C, or CO or even another metal. The reducing agent (e.g., carbon) combines with the oxygen of the metal oxide. MxOy + yC → xM + yCO
+155 The criterion for the feasibility of a thermal reduction is that at a given temperture Gibbs energy change of the reaction must be negative.
+156 ∆G = ∆H – T∆S, where, ∆H is the enthalpy change and ∆S is the entropy change for the process.
+158 If ∆S is positive, on increasing the temperature (T), the value of T∆S increases so that ∆H < T∆S. In this situation ∆G will become negative on increasing temperature.
+159 If coupling of the two reactions, i.e. reduction and oxidation, results in negative value of ∆G for overall reaction, the final reaction becomes feasible.
+164+165 These plots are drawn for free energy changes that occur when one gram mole of oxygen is consumed. The graphical representation of Gibbs energy was first used by H.J.T. Ellingham.
+166+167+168 This provides a sound basis for considering the choice of reducing agent in the reduction of oxides. This is known as Ellingham Diagram. Such diagrams help us in predicting the feasibility of thermal reduction of an ore.
+170 The role of reducing agent is to provide ∆rG° negative and large enough to make the sum of ∆rG° of the two reactions, i.e, oxidation of the reducing agent and reduction of the metal oxide negative.
+173 In this reaction, gas is consumed in the formation of oxide hence, molecular randomness decreases in the formation of oxide which leades to a negative value of ∆S as a result sign of T∆S term in equation (6.14) becomes positive.
+174 Subsequently ∆fG° shifts towards higher side despite rising T. The result is positive slope in the curve for most of the reactions for the formation of MxO(s).
+175+176 Each plot is a straight line and slopes upwards except when some change in phase (s→l or l→g) takes place. The temperature at which such change occurs, is indicated by an increase in the slope on positive side (e.g., in the Zn, ZnO plot, the melting is indicated by an abrupt change in the curve).
+177+178+179+180 When temperature is raised, a point is reached in the curve where it crosses ∆rG° = 0 line. Below this temperature, ∆rG° for the formation of oxide is negative so MxO is stable. Above this point, free energy of formation of oxide is positive. The oxide, MxO will decompose on its own.
+181+182! Similar diagrams are constructed for sulfides and halides also. From them it becomes clear that why reduction of MxS is difficult.
+184+185+186 The graph simply indicates whether a reaction is possible or not, i.e., the tendency of reduction with a reducing agent is indicated. This is so because it is based only on the thermodynamic concepts. It does not explain the kinetics of the reduction process.
+188 However, it explains why the reactions are sluggish when every species is in solid state and smooth when the ore melts down.
+192+193 The interpretation of ∆rG° is based on K (∆G° = – RT lnK). Thus it is presumed that the reactants and products are in equilibrium. This is not always true because the reactant/product may be solid.
+199 In ∆rG vs T plots (Ellingham diagram), this is indicated by the point of intersection of the two curves, i.e, the curve for the formation of MxO and that for the formation of the oxide of the reducing substance.
+201+202 The difference in the two ∆rG values after that point determines whether reduction of the oxide of the element of the upper line is feasible by the element of which oxide formation is represented by the lower line. If the difference is large, the reduction is easier.
+205! At the point of intersection of the Al2O3 and MgO curves (marked “A”), the ∆rG becomes ZERO for the reaction: Al2O3 + 2Mg → 2MgO + Al. Below that point magnesium can reduce alumina.
+206+208+209! Although thermodynamically feasible, in practice, magnesium metal is not used for the reduction of alumina in the metallurgy of aluminium. Temperatures below the point of intersection of Al2O3 and MgO curves, magnesium can reduce alumina. But the process will be uneconomical.
+210+211+212 The entropy is higher if the metal is in liquid state than when it is in solid state. The value of entropy change (∆S) of the reduction process is more on positive side when the metal formed is in liquid state and the metal oxide being reduced is in solid state. Thus the value of ∆rG° becomes more on negative side and the reduction becomes easier.
+376 Certain amount of activation energy is essential even for such reactions which are thermodynamically feasible, therefore heating is required.
+376! Yes, below 1350°C Mg can reduce Al2O3 and above 1350°C, Al can reduce MgO. This can be inferred from ∆G° vs T plots.
+# Extraction of iron
+203 After concentration, mixture of oxide ores of iron (Fe2O3, Fe3O4) is subjected to calcination/roasting to remove water, to decompose carbonates and to oxidise sulphides.
+204 After that these are mixed with limestone and coke and fed into a Blast furnace from its top, in which the oxide is reduced to the metal.
+214 A blast of hot air is blown from the bottom of the furnace by burning coke in the lower portion to give temperature upto about 2200K. The burning of coke, therefore, supplies most of the heat required in the process.
+216 At 500 – 800 K (lower temperature range in the blast furnace), Fe2O3 is first reduced to Fe3O4 and then to FeO: 3Fe2O3 + CO → 2Fe3O4 + CO2; Fe3O4 + 4CO → 3Fe + 4CO2; Fe2O3 + CO → 2FeO + CO2
+216+217 Limestone is also decomposed to CaO which removes silicate impurity of the ore as slag. The slag is in molten state and separates out from iron.
+218 At 900 – 1500 K (higher temperature range in the blast furnace): C + CO2 → 2CO; FeO + CO → Fe + CO2
+222+223 In ∆rG vs T plot representing the change Fe→FeO goes upward and that representing the change C→CO (C,CO) goes downward. They cross each other at about 1073K.
+224! So above 1073 K in the range of temprature 900–1500 K coke will reduce FeO and will itself be oxidised to CO.
+225+226+227 At about 1673K (1400 °C) ∆rG value for the reaction 2FeO → 2Fe + O2 is +341 kJ mol^-1 and for the reaction 2C + O2 → 2CO ∆rG is -447 kJ mol^-1. If we calculate ∆rG value for overall reaction the value will be -53 kJ mol^-1.
+229 In a similar way the reduction of Fe3O4 and Fe2O3 by CO at relatively lower temperatures can be explained on the basis of lower lying points of intersection of their curves with the CO, CO2 curve.
+230+231 The iron obtained from Blast furnace contains about 4% carbon and many impurities in smaller amount (e.g., S, P, Si, Mn). This is known as pig iron.
+233 Cast iron is different from pig iron and is made by melting pig iron with scrap iron and coke using hot air blast. It has slightly lower carbon content (about 3%) and is extremely hard and brittle.
+234 Wrought iron or malleable iron is the purest form of commercial iron and is prepared from cast iron by oxidising impurities in a reverberatory furnace lined with haematite.
+235 The haematite oxidises carbon to carbon monoxide: Fe2O3 + 3C → 2Fe + 3CO. Limestone is added as a flux and sulphur, silicon and phosphorus are oxidised and passed into the slag.
+# Extraction of copper
+237+238 In the graph of ∆rG vs T for the formation of oxides, the Cu2O line is almost at the top. So it is quite easy to reduce oxide ores of copper directly to the metal by heating with coke.
+239 The lines (C, CO) and (C, CO2) are at much lower positions in the graph particularly after 500 – 600K. However, many of the ores are sulphides and some may also contain iron.
+240 The sulphide ores are roasted/smelted to give oxides: 2Cu2S + 3O2 → 2Cu2O + 2SO2. The oxide can then be easily reduced to metallic copper using coke: Cu2O + C → 2Cu + CO
+240+241+242 In actual process, the ore is heated in a reverberatory furnace after mixing with silica. In the furnace, iron oxide ‘slags of’ as iron slicate is formed. Copper is produced in the form of copper matte. This contains Cu2S and FeS.
+242+243+244 Copper matte is then charged into silica lined convertor. Some silica is also added and hot air blast is blown to convert the remaining FeS, FeO and Cu2S/Cu2O to the metallic copper.
+245 2FeS + 3O2 → 2FeO + 2SO2; FeO + SiO2 → FeSiO3; 2Cu2S + 3O2 → 2Cu2O + 2SO2; 2Cu2O + Cu2S → 6Cu + SO2
+245 The solidified copper obtained has blistered appearance due to the evolution of SO2 and so it is called blister copper.
+364 It is self reduction in a specially designed converter.
+366 Sulphuric acid leaching is also used in hydrometallurgy for low grade ores.
+# Extraction of zinc
+246+247 The reduction of zinc oxide is done using coke. The temperature in this case is higher than that in the case of copper.
+248+249 For the purpose of heating, the oxide is made into brickettes with coke and clay. ZnO + C →(coke, 1673 K) Zn + CO. The metal is distilled off and collected by rapid chilling.
+367 The metal may be purified by fractional distillation.
+# Electrochemical principles
+254 ∆G = – nE°F, here n is the number of electrons and E° is the electrode potential of the redox couple formed in the system.
+255 More reactive metals have large negative values of the electrode potential. So their reduction is difficult.
+256 If the difference of two E° values corresponds to a positive E° and consequently negative ∆G, then the less reactive metal will come out of the solution and the more reactive metal will go into the solution, e.g., Cu^2+(aq) + Fe(s) → Cu(s) + Fe^2+(aq)
+261+262 In the metallurgy of aluminium, purified Al2O3 is mixed with Na3AlF6 or CaF2 which lowers the melting point of the mixture and brings conductivity. The fused matrix is electrolysed.
+263+264 Steel vessel with lining of carbon acts as cathode and graphite anode is used. The overall reaction may be written as: 2Al2O3 + 3C → 4Al + 3CO2. This process of electrolysis is widely known as Hall-Heroult process.
+266! The oxygen liberated at anode reacts with the carbon of anode producing CO and CO2. This way for each kg of aluminium produced, about 0.5 kg of carbon anode is burnt away.
+267 Cathode: Al^3+(melt) + 3e^– → Al(l); Anode: C(s) + O^2–(melt) → CO(g) + 2e^–; C(s) + 2O^2–(melt) → CO2(g) + 4e^–
+363 Temperature approaching 2170 K is required.
+267+268+269 Copper is extracted by hydrometallurgy from low grade ores. It is leached out using acid or bacteria. The solution containing Cu^2+ is treated with scrap iron or H2.
+270 Cu^2+(aq) + H2(g) → Cu(s) + 2H^+(aq)
+276+277 Zinc being above iron in the electrochemical series (more reactive metal is zinc), the reduction will be faster in case zinc scraps are used. But zinc is costlier metal than iron so using iron scraps will be advisable and advantageous.
+# Oxidation reduction
+270+271 Besides reductions, some extractions are based on oxidation particularly for non-metals. A very common example of extraction based on oxidation is the extraction of chlorine from brine.
+271 2Cl^–(aq) + 2H2O(l) → 2OH^–(aq) + H2(g) + Cl2(g). The ∆G for this reaction is + 422 kJ. When it is converted to E° (using ∆G° = – nE°F), we get E° = – 2.2 V.
+271 Naturally, it will require an external emf that is greater than 2.2 V. But the electrolysis requires an excess potential to overcome some other hindering reactions.
+272+273+274! Thus, Cl2 is obtained by electrolysis giving out H2 and aqueous NaOH as by-products. Electrolysis of molten NaCl is also carried out. But in that case, Na metal is produced and not NaOH.
+278+279 As studied earlier, extraction of gold and silver involves leaching the metal with CN^–. This is also an oxidation reaction (Ag → Ag^+ or Au → Au^+).
+280 4Au(s) + 8CN^–(aq) + 2H2O(aq) + O2(g) → 4[Au(CN)2]^–(aq) + 4OH^–(aq); 2[Au(CN)2]^–(aq) + Zn(s) → 2Au(s) + [Zn(CN)4]^2–(aq). In this reaction zinc acts as a reducing agent.
+# Refining
+284 (a) Distillation (b) Liquation (c) Electrolysis (d) Zone refining (e) Vapour phase refining (f) Chromatographic methods.
+285+286 Distillation is very useful for low boiling metals like zinc and mercury. The impure metal is evaporated to obtain the pure metal as distillate.
+287+288 Liquation: in this method a low melting metal like tin can be made to flow on a sloping surface. In this way it is separated from higher melting impurities.
+289+290+291 In electrolytic refining, the impure metal is made to act as anode. A strip of the same metal in pure form is used as cathode. They are put in a suitable electrolytic bath containing soluble salt of the same metal. The more basic metal remains in the solution and the less basic ones go to the anode mud.
+293+294 Copper is refined using an electrolytic method. Anodes are of impure copper and pure copper strips are taken as cathode.
+295 The electrolyte is acidified solution of copper sulphate and the net result of electrolysis is the transfer of copper in pure form from the anode to the cathode: Anode: Cu → Cu^2+ + 2e^–; Cathode: Cu^2+ + 2e^– → Cu
+295 Impurities from the blister copper deposit as anode mud which contains antimony, selenium, tellurium, silver, gold and platinum; recovery of these elements may meet the cost of refining.
+296 Zinc may also be refined this way.
+297 Zone refining is based on the principle that the impurities are more soluble in the melt than in the solid state of the metal. A mobile heater surrounding the rod of impure metal is fixed at its one end.
+299+300+301+302 As the heater moves forward, the pure metal crystallises out of the melt left behind and the impurities pass on into the adjacent new molten zone created by movement of heaters. The process is repeated several times and the heater is moved in the same direction again and again. Impurities get concentrated at one end. This end is cut off.
+303 This method is very useful for producing semiconductor and other metals of very high purity, e.g., germanium, silicon, boron, gallium and indium.
+304 In vapour phase refining, the metal is converted into its volatile compound which is collected and decomposed to give pure metal. So, the two requirements are: (i) the metal should form a volatile compound with an available reagent, (ii) the volatile compound should be easily decomposable, so that the recovery is easy.
+306+307 Mond Process for Refining Nickel: In this process, nickel is heated in a stream of carbon monoxide forming a volatile complex named as nickel tetracarbonyl. This complex is decomposed at higher temperature to obtain pure metal. Ni + 4CO →(330 – 350 K) Ni(CO)4; Ni(CO)4 →(450 – 470 K) Ni + 4CO
+307 van Arkel Method for Refining Zirconium or Titanium: This method is very useful for removing all the oxygen and nitrogen present in the form of impurity in certain metals like Zr and Ti. The crude metal is heated in an evacuated vessel with iodine.
+308+309 The metal iodide being more covalent, volatilises: Zr + 2I2 → ZrI4. The metal iodide is decomposed on a tungsten filament, electrically heated to about 1800K. The pure metal deposits on the filament. ZrI4 → Zr + 2I2
+320 Column chromatography is very useful for purification of the elements which are available in minute quantities and the impurities are not very different in chemical properties from the element to be purified.
+# Uses
+321+322 Aluminium foils are used as wrappers for food materials. The fine dust of the metal is used in paints and lacquers.
+323 Aluminium, being highly reactive, is also used in the extraction of chromium and manganese from their oxides.
+326+327 Copper is used for making wires used in electrical industry and for water and steam pipes. It is also used in several alloys that are rather tougher than the metal itself, e.g., brass (with zinc), bronze (with tin) and coinage alloy (with nickel).
+328+329 Zinc is used for galvanising iron. It is also used in large quantities in batteries.
+330 It is constituent of many alloys, e.g., brass, (Cu 60%, Zn 40%) and german silver (Cu 25-30%, Zn 25-30%, Ni 40–50%).
+331 Zinc dust is used as a reducing agent in the manufacture of dye-stuffs, paints, etc.
+331 Cast iron, which is the most important form of iron, is used for casting stoves, railway sleepers, gutter pipes, toys, etc. It is used in the manufacture of wrought iron and steel.
+332 Wrought iron is used in making anchors, wires, bolts, chains and agricultural implements.
+335 Nickel steel is used for making cables, automobiles and aeroplane parts, pendulum, measuring tapes.
+336 Chrome steel is used for cutting tools and crushing machines, and stainless steel is used for cycles, automobiles, utensils, pens, etc.
+# Ancient Indian metallurgy
+7 The ‘Seven metals of antiquity’, as they are sometimes called, are gold, copper, silver, lead, tin, iron and mercury.
+47 Wootz steel is primarily iron containing a high proportion of carbon (1.0 – 1.9%).
+52+53 When iron ore is reduced in solid state by using charcoal, porous iron blocks are formed. Therefore, reduced iron blocks are also called sponge iron blocks.
+54+55 Any useful product can be obtained from this material only after removing the porosity by hot forging. The iron so obtained is termed as wrought iron.
+58 The most significant aspect of the pillar is that there is no sign of corrosion inspite of the fact that it has been exposed to the atmosphere for about 1,600 years.
+63+64 India was the first country to master zinc distillation. Due to low boiling point, zinc tends to vapourise while its ore is smelted.

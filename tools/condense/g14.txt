@@ -1,0 +1,112 @@
+980fbc|Group 14: C, Si, Ge, Sn, Pb.
+803422|-
+141e14|Free C: coal, graphite, diamond. Combined: carbonates, hydrocarbons, CO2 (0.03% of air).
+c50008|Isotopes ^12C, ^13C (stable) and ^14C (radioactive, t½ 5770 years, radiocarbon dating).
+fa415a|Si: second most abundant element in the crust (27.7%), as silica and silicates; key in ceramics, glass, cement.
+fb759b|Ores: Sn as cassiterite SnO2, Pb as galena PbS. Ultrapure Ge and Si: transistors, semiconductors.
+3bc7c3|ns^2np^2.
+68180a|**Big radius jump C → Si, then only small increases Si → Pb** (filled d and f orbitals).
+0b2c0d|∆iH1 higher than group 13; generally decreases down the group.
+2daea2|**∆iH: small decrease Si → Ge → Sn, slight increase Sn → Pb** (poor d/f shielding, size).
+165eae|Slightly more electronegative than group 13; EN of Si to Pb almost equal.
+9f0686|All solids. C, Si non-metals; Ge metalloid; Sn, Pb soft low-melting metals.
+a73339|=
+7bddc8|m.p./b.p. much higher than group 13.
+5210b2|Common oxidation states +4, +2; C also negative.
+902ec3|Very high sum of first four ∆iH, so +4 compounds are generally covalent.
+a8c0be|+2 tendency rises Ge < Sn < Pb (inert pair: ns^2 reluctant to bond).
+8dc9fa|C and Si mostly +4; Ge stable +4, few +2 compounds.
+eea012|**Sn(II) is a reducing agent; Pb(II) is stable and Pb(IV) a strong oxidant.**
+901c56|+4 molecules (e.g. CCl4) are electron precise: normally neither electron acceptors nor donors.
+9fdefb|C can't exceed covalence 4; others can (d orbitals), so their halides hydrolyse and form complexes with donors.
+35dcaf|SiF6^2-, [GeCl6]^2-, [Sn(OH)6]^2-: central atom sp^3d^2.
+410a8e|Oxides MO and MO2; **SiO exists only at high temperature**.
+fe7ad3|Higher oxidation state oxides are more acidic. **CO2, SiO2, GeO2 acidic; SnO2, PbO2 amphoteric.**
+e0807a|**Monoxides: CO neutral, GeO distinctly acidic, SnO and PbO amphoteric.**
+562a12|Most acidic dioxide: C. Commonly +2: Pb. Semiconductors: Si, Ge.
+ccbf4a|C, Si, Ge unaffected by water; **Sn decomposes steam**: Sn + 2H2O → SnO2 + 2H2
+60525e|Pb is unaffected by water (protective oxide film).
+ad9768|Halides MX2 and MX4; all except C react directly with halogens.
+17a87a|MX4: mostly covalent, sp^3, tetrahedral; **SnF4 and PbF4 are ionic**.
+6afeed|**PbI4 does not exist**: Pb–I bond formation doesn't release enough energy to unpair 6s^2.
+e902c9|Ge to Pb form MX2; dihalide stability increases down the group: GeX4 > GeX2, but PbX2 > PbX4.
+a4de16|**All tetrachlorides except CCl4 hydrolyse easily**: the central atom accepts the O lone pair into a d orbital.
+ea90a0|=
+090f44|**[SiF6]^2- exists, [SiCl6]^2- doesn't**: six large Cl^- can't fit around Si^4+, and the Cl^- lone pair–Si^4+ interaction is weak.
+c9b4e0|C is anomalous: smaller size, higher EN and ∆iH, no d orbitals.
+2d0cd8|C: only s and p orbitals, max four electron pairs, so max covalence 4; others can expand.
+35a3b3|C forms pπ–pπ multiple bonds with itself and small electronegative atoms (C=C, C≡C, C=O, C=S, C≡N); heavier atoms' orbitals are too large and diffuse.
+e95a47|Catenation: C forms chains and rings (strong C–C bonds).
+114918|**Catenation: C >> Si > Ge ≈ Sn; Pb shows none.**
+c457e9|=
+73a5aa|Catenation and pπ–pπ bonding give C many crystalline and amorphous allotropes; diamond and graphite are crystalline.
+3f373c|Third crystalline form: fullerenes.
+52c58b|Diamond: each C sp^3, bonded tetrahedrally to four C; C–C 154 pm.
+6d2031|Rigid 3D network of directional covalent bonds, so diamond is the hardest substance.
+f50003|Diamond uses: abrasive, dies, making tungsten filaments.
+7431d1|Graphite: layers held by van der Waals forces, 340 pm apart.
+231965|Each layer: planar hexagonal rings; C–C 141.5 pm.
+7cfffc|Each C sp^2 with three σ bonds; fourth electron forms delocalised π bonding over the sheet.
+d4150a|Graphite conducts along the sheet (mobile electrons).
+7906d7|Cleaves between layers, soft and slippery: **dry lubricant at high temperature** where oil can't be used.
+224b65|Fullerenes: heat graphite in an electric arc under He or Ar.
+561352|Soot is mainly C60, less C70, traces of even-numbered fullerenes up to C350+.
+422bb0|**Fullerenes are the only pure form of carbon** (smooth, no dangling bonds).
+b805da|Cage molecules; C60 (soccer-ball shape) = Buckminsterfullerene.
+761a8b|C60: 20 six-membered and 12 five-membered rings; a 5-ring fuses only with 6-rings.
+0d7a25|All C equivalent, sp^2; three σ bonds each; remaining electrons delocalised, so aromatic.
+4d91a6|60 vertices; single and double bonds: C–C 143.5 pm and 138.3 pm.
+155bc6|Spherical fullerenes = bucky balls.
+6e0ecb|**Graphite is the thermodynamically most stable allotrope (∆fH° = 0)**; diamond 1.90, C60 38.1 kJ mol^-1.
+e31af9|Carbon black, coke, charcoal are impure graphite or fullerenes.
+d1e96a|Carbon black: hydrocarbons burnt in limited air. Charcoal and coke: wood or coal heated strongly without air.
+02ca28|Graphite fibres in plastic: strong light composites (rackets, rods, aircraft, canoes).
+17fbca|Graphite: electrodes (batteries, electrolysis); graphite crucibles inert to dilute acids and alkalies.
+5d4d2f|Activated charcoal (porous): adsorbs poisonous gases; water filters; odour control.
+d66d58|Carbon black: black ink pigment, tyre filler. Coke: fuel and reducing agent in metallurgy.
+10017f|-
+edf95e|2C(s) + O2(g) → 2CO(g) in limited O2.
+d38c6c|Pure CO: HCOOH → H2O + CO (conc. H2SO4, 373 K)
+49136b|Water gas (synthesis gas): C(s) + H2O(g) → CO(g) + H2(g) (473–1273 K)
+eac59b|Producer gas (air instead of steam): 2C + O2 + 4N2 → 2CO + 4N2 (1273 K). Both are industrial fuels.
+6e463a|Their CO burns further to CO2, releasing heat.
+67ef6d|CO: colourless, odourless, almost insoluble; powerful reductant of almost all metal oxides **except those of alkali and alkaline earth metals, Al and a few transition metals**.
+d10b92|Fe2O3(s) + 3CO(g) → 2Fe(s) + 3CO2(g); ZnO(s) + CO(g) → Zn(s) + CO2(g)
+d2104e|:C≡O: has one σ and two π bonds; the lone pair on C makes CO a donor, forming metal carbonyls.
+92efad|**CO is poisonous: CO–haemoglobin complex is ~300× more stable than O2–haemoglobin**, so blood can't carry O2.
+b1b93a|CO2 from complete combustion: C + O2 → CO2; CH4 + 2O2 → CO2 + 2H2O
+25e901|Lab: CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l). Commercial: heating limestone.
+49806a|CO2: colourless, odourless; low water solubility.
+523375|H2CO3: weak dibasic acid. H2CO3 + H2O ⇌ HCO3^- + H3O^+; HCO3^- + H2O ⇌ CO3^2- + H3O^+
+93c343|H2CO3/HCO3^- buffer keeps blood pH at 7.26–7.42.
+e80e1b|Acidic: forms carbonates with alkalies.
+254260|Photosynthesis removes atmospheric CO2 (~0.03%): 6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O (hν, chlorophyll)
+6280ca|CO2 isn't poisonous, but rising levels (fossil fuels, limestone for cement) increase the greenhouse effect.
+a08b7b|Dry ice: liquid CO2 expanded rapidly; refrigerant for ice-cream and frozen food.
+6aae80|CO2: carbonating drinks; fire extinguisher (heavy, doesn't support combustion); urea manufacture.
+12d5b0|CO2: C sp; two σ bonds and pπ–pπ bonds to O; **linear, C–O 115 pm (both equal), zero dipole moment**.
+4fdf88|95% of the earth's crust is silica and silicates.
+a3a8ea|Crystalline silica: quartz, cristobalite, tridymite (interconvertible).
+5fd187|SiO2: covalent 3D network; each Si bonded tetrahedrally to four O; each O to two Si.
+842395|Corners shared; giant molecule of 8-membered rings of alternating Si and O.
+eb64dc|Silica is almost unreactive (very high Si–O bond enthalpy): resists halogens, H2, most acids and metals.
+28c40a|**SiO2 is attacked by HF and NaOH**: SiO2 + 2NaOH → Na2SiO3 + H2O; SiO2 + 4HF → SiF4 + 2H2O
+c493b8|Quartz: piezoelectric (accurate clocks, radio, TV, mobile communication).
+1e8880|Silica gel: drying agent; chromatography and catalyst support. Kieselghur (amorphous): filtration.
+47809d|Silicones: organosilicon polymers with repeating unit (–R2SiO–).
+770121|Made from RnSiCl(4-n) (R = alkyl or aryl).
+cbcfb8|CH3Cl + Si (Cu catalyst, 573 K) → MeSiCl3, Me2SiCl2, Me3SiCl, a little Me4Si.
+d43dbf|Hydrolysis of (CH3)2SiCl2 then condensation polymerisation gives straight-chain silicones.
+68b004|=
+138fb3|**(CH3)3SiCl blocks the chain ends**, controlling chain length.
+c16fa9|Non-polar alkyl surface: water repellent; high thermal stability, high dielectric strength, resistant to oxidation and chemicals.
+9fee5a|Uses: sealants, greases, electrical insulators, waterproofing; biocompatible (surgical and cosmetic implants).
+922acd|Simple silicones: (R2SiO)n chains with alkyl or phenyl groups on Si; hydrophobic.
+f7627f|Silicate minerals: feldspar, zeolites, mica, asbestos.
+3c70ce|Basic unit: tetrahedral SiO4^4-.
+b84b4c|Units are discrete or share 1, 2, 3 or 4 O corners, giving chain, ring, sheet or 3D structures.
+d2844d|Negative charge balanced by metal cations; all four corners shared gives a 3D network.
+03510d|Man-made silicates: glass, cement.
+455308|Al replacing some Si in the SiO2 network gives negatively charged aluminosilicates (balanced by Na^+, K^+, Ca^2+): feldspar, zeolites.
+789fde|Zeolites: petrochemical catalysts (cracking, isomerisation); **ZSM-5 converts alcohols directly to gasoline**.
+75d392|Hydrated zeolites: ion exchangers for softening hard water.

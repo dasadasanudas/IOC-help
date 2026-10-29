@@ -1,0 +1,102 @@
+@src old11
+# p-block: general
+760 In p-block elements the last electron enters the outermost p orbital. As we know that the number of p orbitals is three and, therefore, the maximum number of electrons that can be accommodated in a set of p orbitals is six.
+762+763 Boron, carbon, nitrogen, oxygen, fluorine and helium head the groups. Their valence shell electronic configuration is ns^2np^1-6 (except for He).
+767+768 The maximum oxidation state shown by a p-block element is equal to the total number of valence electrons (i.e., the sum of the s- and p-electrons). Clearly, the number of possible oxidation states increases towards the right of the periodic table.
+771+772+773! In boron, carbon and nitrogen families the group oxidation state is the most stable state for the lighter elements in the group. However, the oxidation state two unit less than the group oxidation state becomes progressively more stable for the heavier elements in each group. The occurrences of oxidation states two unit less than the group oxidation states are sometime attributed to the 'inert pair effect'.
+774T Table 11.1: Group 13 ns^2np^1, group oxidation state +3, other +1; Group 14 ns^2np^2, +4, other +2, -4; Group 15 ns^2np^3, +5, other +3, -3; Group 16 ns^2np^4, +6, other +4, +2, -2; Group 17 ns^2np^5, +7, other +5, +3, +1, -1; Group 18 ns^2np^6 (1s^2 for He), +8, other +6, +4, +2.
+775+776+777 It is interesting to note that the non-metals and metalloids exist only in the p-block of the periodic table. The non-metallic character of elements decreases down the group. In fact the heaviest element in each p-block group is the most metallic in nature.
+783+784 The change of non-metallic to metallic character can be best illustrated by the nature of oxides they form. The non-metal oxides are acidic or neutral whereas metal oxides are basic in nature.
+788 The second important difference, which applies only to the p-block elements, arises from the effect of d-orbitals in the valence shell of heavier elements (starting from the third period onwards) and their lack in second period elements.
+789+790+791 The second period elements of p-groups starting from boron are restricted to a maximum covalence of four (using 2s and three 2p orbitals). In contrast, the third period elements of p-groups with the electronic configuration 3s^2 3p^n have the vacant 3d orbitals lying between the 3p and the 4s levels of energy. Using these d-orbitals the third period elements can expand their covalence above four.
+792! For example, while boron forms only [BF4]^-, aluminium gives [AlF6]^3- ion.
+795+796 The first member of a group differs from the heavier members in its ability to form pπ - pπ multiple bonds to itself (e.g., C=C, C≡C, N≡N) and to other second row elements (e.g., C=O, C=N, C≡N, N=O).
+797+798+799 This type of π-bonding is not particularly strong for the heavier p-block elements. The heavier elements do form π bonds but this involves d orbitals (dπ - pπ or dπ - dπ). As the d orbitals are of higher energy than the p orbitals, they contribute less to the overall stability of molecules than does pπ-pπ bonding of the second row elements.
+800+801 However, the coordination number in species of heavier elements may be higher than for the first element in the same oxidation state. For example, in +5 oxidation state both N and P form oxoanions: NO3^- (three-coordination with π-bond involving one nitrogen p-orbital) and PO4^3- (four-coordination involving s, p and d orbitals contributing to the π-bond).
+# Group 13: occurrence
+802+803 This group elements show a wide variation in properties. Boron is a typical non-metal, aluminium is a metal but shows many chemical similarities to boron, and gallium, indium and thallium are almost exclusively metallic in character.
+804 Boron is a fairly rare element, mainly occurs as orthoboric acid, (H3BO3), borax, Na2B4O7·10H2O, and kernite, Na2B4O7·4H2O.
+805+806 In India borax occurs in Puga Valley (Ladakh) and Sambhar Lake (Rajasthan). The abundance of boron in earth crust is less than 0.0001% by mass.
+807 There are two isotopic forms of boron ^10B (19%) and ^11B (81%).
+808 Aluminium is the most abundant metal and the third most abundant element in the earth's crust (8.3% by mass) after oxygen (45.5%) and Si (27.7%).
+809+810 Bauxite, Al2O3·2H2O and cryolite, Na3AlF6 are the important minerals of aluminium. In India it is found as mica in Madhya Pradesh, Karnataka, Orissa and Jammu.
+# Group 13: atomic properties
+812+813 The outer electronic configuration of these elements is ns^2np^1. A close look at the electronic configuration suggests that while boron and aluminium have noble gas core, gallium and indium have noble gas plus 10 d-electrons, and thallium has noble gas plus 14 f electrons plus 10 d-electrons cores.
+815+816+817! On moving down the group, for each successive member one extra shell of electrons is added and, therefore, atomic radius is expected to increase. However, a deviation can be seen. Atomic radius of Ga is less than that of Al.
+818+819! The presence of additional 10 d-electrons offer only poor screening effect for the outer electrons from the increased nuclear charge in gallium. Consequently, the atomic radius of gallium (135 pm) is less than that of aluminium (143 pm).
+819+820+821! The ionisation enthalpy values as expected from the general trends do not decrease smoothly down the group. The decrease from B to Al is associated with increase in size. The observed discontinuity in the ionisation enthalpy values between Al and Ga, and between In and Tl are due to inability of d- and f-electrons, which have low screening effect, to compensate the increase in nuclear charge.
+822+823 The order of ionisation enthalpies, as expected, is ∆iH1 < ∆iH2 < ∆iH3. The sum of the first three ionisation enthalpies for each of the elements is very high.
+824+825+826! Down the group, electronegativity first decreases from B to Al and then increases marginally. This is because of the discrepancies in atomic size of the elements.
+846T Table 11.2: ∆iH1/kJ mol^-1 B 801, Al 577, Ga 579, In 558, Tl 589. Electronegativity 2.0, 1.5, 1.6, 1.7, 1.8. Melting point/K 2453, 933, 303, 430, 576. Boiling point/K 3923, 2740, 2676, 2353, 1730. E°(M^3+/M)/V Al -1.66, Ga -0.56, In -0.34, Tl +1.26. Density/g cm^-3 2.35, 2.70, 5.90, 7.31, 11.85.
+# Group 13: physical properties
+827+828+829+830 Boron is non-metallic in nature. It is extremely hard and black coloured solid. It exists in many allotropic forms. Due to very strong crystalline lattice, boron has unusually high melting point.
+831 Rest of the members are soft metals with low melting point and high electrical conductivity.
+832+833! It is worthwhile to note that gallium with unusually low melting point (303K), could exist in liquid state during summer. Its high boiling point (2676K) makes it a useful material for measuring high temperatures.
+834 Density of the elements increases down the group from boron to thallium.
+# Group 13: oxidation states and chemical properties
+835+836! Due to small size of boron, the sum of its first three ionization enthalpies is very high. This prevents it to form +3 ions and forces it to form only covalent compounds.
+837+838 But as we move from B to Al, the sum of the first three ionisation enthalpies of Al considerably decreases, and is therefore able to form Al^3+ ions. In fact, aluminium is a highly electropositive metal.
+838+839 However, down the group, due to poor shielding effect of intervening d and f orbitals, the increased effective nuclear charge holds ns electrons tightly (responsible for inert pair effect) and thereby, restricting their participation in bonding. As a result of this, only p-orbital electron may be involved in bonding.
+840+841+842! In fact in Ga, In and Tl, both +1 and +3 oxidation states are observed. The relative stability of +1 oxidation state progressively increases for heavier elements: Al<Ga<In<Tl. In thallium +1 oxidation state is predominant whereas the +3 oxidation state is highly oxidising in character.
+843 The compounds in +1 oxidation state, as expected from energy considerations, are more ionic than those in +3 oxidation state.
+844+847+848 In trivalent state, the number of electrons around the central atom in a molecule of the compounds of these elements (e.g., boron in BF3) will be only six. Such electron deficient molecules have tendency to accept a pair of electrons to achieve stable electronic configuration and thus, behave as Lewis acids.
+849+850 The tendency to behave as Lewis acid decreases with the increase in the size down the group. BCl3 easily accepts a lone pair of electrons from ammonia to form BCl3·NH3.
+851 AlCl3 achieves stability by forming a dimer.
+851+852 In trivalent state most of the compounds being covalent are hydrolysed in water. For example, the trichlorides on hydrolysis in water form tetrahedral [M(OH)4]^- species; the hybridisation state of element M is sp^3.
+853+854 Aluminium chloride in acidified aqueous solution forms octahedral [Al(H2O)6]^3+ ion. In this complex ion, the 3d orbitals of Al are involved and the hybridisation state of Al is sp^3d^2.
+855+856+857! E° for Al^3+/Al is -1.66 V and that of Tl^3+/Tl is +1.26 V. Aluminium has high tendency to make Al^3+(aq) ions, whereas Tl^3+ is not only unstable in solution but is a powerful oxidising agent also. Thus Tl^+ is more stable in solution than Tl^3+.
+858 Aluminium being able to form +3 ions easily, is more electropositive than thallium.
+859+860 Boron is unreactive in crystalline form. Aluminium forms a very thin oxide layer on the surface which protects the metal from further attack.
+861+862 Amorphous boron and aluminium metal on heating in air form B2O3 and Al2O3 respectively. With dinitrogen at high temperature they form nitrides. 4E(s) + 3O2(g) → 2E2O3(s); 2E(s) + N2(g) → 2EN(s)
+862+863+864 The nature of these oxides varies down the group. Boron trioxide is acidic and reacts with basic (metallic) oxides forming metal borates. Aluminium and gallium oxides are amphoteric and those of indium and thallium are basic in their properties.
+865! Boron does not react with acids and alkalies even at moderate temperature; but aluminium dissolves in mineral acids and aqueous alkalies and thus shows amphoteric character.
+866 Aluminium dissolves in dilute HCl and liberates dihydrogen. 2Al(s) + 6HCl(aq) → 2Al^3+(aq) + 6Cl^-(aq) + 3H2(g)
+866! However, concentrated nitric acid renders aluminium passive by forming a protective oxide layer on the surface.
+867 Aluminium also reacts with aqueous alkali and liberates dihydrogen. 2Al(s) + 2NaOH(aq) + 6H2O(l) → 2Na^+[Al(OH)4]^-(aq) (sodium tetrahydroxoaluminate(III)) + 3H2(g)
+867! These elements react with halogens to form trihalides (except TlI3). 2E(s) + 3X2(g) → 2EX3(s) (X = F, Cl, Br, I)
+870+871 Anhydrous aluminium chloride is partially hydrolysed with atmospheric moisture to liberate HCl gas. Moist HCl appears white in colour.
+# Anomalous properties of boron
+872+873! The tri-chlorides, bromides and iodides of all these elements being covalent in nature are hydrolysed in water. Species like tetrahedral [M(OH)4]^- and octahedral [M(H2O)6]^3+, except in boron, exist in aqueous medium.
+874+875+876 The monomeric trihalides, being electron deficient, are strong Lewis acids. Boron trifluoride easily reacts with Lewis bases such as NH3 to complete octet around boron. F3B + :NH3 → F3B←NH3
+876+877! It is due to the absence of d orbitals that the maximum covalence of B is 4. Since the d orbitals are available with Al and other elements, the maximum covalence can be expected beyond 4.
+878+879 Most of the other metal halides (e.g., AlCl3) are dimerised through halogen bridging (e.g., Al2Cl6). The metal species completes its octet by accepting electrons from halogen in these halogen bridged molecules.
+880+882+883! Boron is unable to form BF6^3- ion. Due to non-availability of d orbitals, boron is unable to expand its octet. Therefore, the maximum covalence of boron cannot exceed 4.
+# Borax
+885+886+887 Borax is the most important compound of boron. It is a white crystalline solid of formula Na2B4O7·10H2O. In fact it contains the tetranuclear units [B4O5(OH)4]^2- and correct formula; therefore, is Na2[B4O5(OH)4]·8H2O.
+888+889 Borax dissolves in water to give an alkaline solution. Na2B4O7 + 7H2O → 2NaOH + 4H3BO3 (orthoboric acid)
+889+890 On heating, borax first loses water molecules and swells up. On further heating it turns into a transparent liquid, which solidifies into glass like material known as borax bead.
+891 Na2B4O7·10H2O → Na2B4O7 → 2NaBO2 (sodium metaborate) + B2O3 (boric anhydride) (heat)
+891 The metaborates of many transition metals have characteristic colours and, therefore, borax bead test can be used to identify them in the laboratory.
+892 For example, when borax is heated in a Bunsen burner flame with CoO on a loop of platinum wire, a blue coloured Co(BO2)2 bead is formed.
+# Orthoboric acid
+892+893 Orthoboric acid, H3BO3 is a white crystalline solid, with soapy touch. It is sparingly soluble in water but highly soluble in hot water.
+894+895 It can be prepared by acidifying an aqueous solution of borax. Na2B4O7 + 2HCl + 5H2O → 2NaCl + 4B(OH)3
+895 It is also formed by the hydrolysis (reaction with water or dilute acid) of most boron compounds (halides, hydrides, etc.).
+896+897 It has a layer structure in which planar BO3 units are joined by hydrogen bonds.
+898+899! Boric acid is a weak monobasic acid. It is not a protonic acid but acts as a Lewis acid by accepting electrons from a hydroxyl ion: B(OH)3 + 2HOH → [B(OH)4]^- + H3O^+
+899+900 On heating, orthoboric acid above 370K forms metaboric acid, HBO2 which on further heating yields boric oxide, B2O3. H3BO3 → HBO2 → B2O3 (heat)
+902+903 Because it is not able to release H^+ ions on its own. It receives OH^- ions from water molecule to complete its octet and in turn releases H^+ ions.
+# Diborane
+904+905 The simplest boron hydride known, is diborane. It is prepared by treating boron trifluoride with LiAlH4 in diethyl ether. 4BF3 + 3LiAlH4 → 2B2H6 + 3LiF + 3AlF3
+905 A convenient laboratory method for the preparation of diborane involves the oxidation of sodium borohydride with iodine. 2NaBH4 + I2 → B2H6 + 2NaI + H2
+905+906 Diborane is produced on an industrial scale by the reaction of BF3 with sodium hydride. 2BF3 + 6NaH → B2H6 + 6NaF (450 K)
+906 Diborane is a colourless, highly toxic gas with a b.p. of 180 K. Diborane catches fire spontaneously upon exposure to air.
+907+908 It burns in oxygen releasing an enormous amount of energy. B2H6 + 3O2 → B2O3 + 3H2O; ∆cH° = -1976 kJ mol^-1
+909+910+911 Most of the higher boranes are also spontaneously flammable in air. Boranes are readily hydrolysed by water to give boric acid. B2H6(g) + 6H2O(l) → 2B(OH)3(aq) + 6H2(g)
+911 Diborane undergoes cleavage reactions with Lewis bases (L) to give borane adducts, BH3·L. B2H6 + 2NMe3 → 2BH3·NMe3; B2H6 + 2CO → 2BH3·CO
+911 Reaction of ammonia with diborane gives initially B2H6·2NH3 which is formulated as [BH2(NH3)2]^+[BH4]^-; further heating gives borazine, B3N3H6 known as "inorganic benzene".
+912+913 The four terminal hydrogen atoms and the two boron atoms lie in one plane. Above and below this plane, there are two bridging hydrogen atoms.
+914+915 The four terminal B-H bonds are regular two centre-two electron bonds while the two bridge (B-H-B) bonds are different and can be described in terms of three centre-two electron bonds.
+919+920 Each B atom uses sp^3 hybrids for bonding. Out of the four sp^3 hybrids on each B atom, one is without an electron.
+921+922 The terminal B-H bonds are normal 2-centre-2-electron bonds but the two bridge bonds are 3-centre-2-electron bonds. The 3-centre-2-electron bridge bonds are also referred to as banana bonds.
+916+917 Boron also forms a series of hydridoborates; the most important one is the tetrahedral [BH4]^- ion. Tetrahydridoborates of several metals are known.
+918 Lithium and sodium tetrahydridoborates, also known as borohydrides, are prepared by the reaction of metal hydrides with B2H6 in diethyl ether. 2MH + B2H6 → 2M^+[BH4]^- (M = Li or Na)
+923+924 Both LiBH4 and NaBH4 are used as reducing agents in organic synthesis. They are useful starting materials for preparing other metal borohydrides.
+# Uses of boron and aluminium
+925+926 Boron being extremely hard refractory solid of high melting point, low density and very low electrical conductivity, finds many applications. Boron fibres are used in making bullet-proof vest and light composite material for aircraft.
+927 The boron-10 (^10B) isotope has high ability to absorb neutrons and, therefore, metal borides are used in nuclear industry as protective shields and control rods.
+928 The main industrial application of borax and boric acid is in the manufacture of heat resistant glasses (e.g., Pyrex), glass-wool and fibreglass.
+929+930 Borax is also used as a flux for soldering metals, for heat, scratch and stain resistant glazed coating to earthenwares and as constituent of medicinal soaps. An aqueous solution of orthoboric acid is generally used as a mild antiseptic.
+931+932+933! Aluminium is a bright silvery-white metal, with high tensile strength. It has a high electrical and thermal conductivity. On a weight-to-weight basis, the electrical conductivity of aluminium is twice that of copper.
+935 It forms alloys with Cu, Mn, Mg, Si and Zn. Aluminium and its alloys can be given shapes of pipe, tubes, rods, wires, plates or foils and, therefore, find uses in packing, utensil making, construction, aeroplane and transportation industry.
+936 The use of aluminium and its compounds for domestic purposes is now reduced considerably because of their toxic nature.

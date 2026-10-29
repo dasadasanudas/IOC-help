@@ -1,0 +1,96 @@
+ea3f94|p-block: last electron enters the outermost p orbital (max 6 p electrons).
+39c19e|Groups headed by B, C, N, O, F, He; valence configuration ns^2np^1-6 (except He).
+fd1d70|Max oxidation state = total valence electrons (s + p); number of possible oxidation states increases to the right.
+0fcfb6|Other oxidation states usually differ from the group oxidation state by 2.
+df5618|B, C, N families: group oxidation state is most stable for lighter members; **(group – 2) becomes progressively more stable for heavier members (inert pair effect)**.
+1e5035|=
+2e8033|Non-metals and metalloids exist only in the p-block; non-metallic character falls down a group; the heaviest member is the most metallic.
+9ed36f|Non-metals: higher ∆iH and EN than metals, so they form anions; metals form cations.
+716fbc|Reactive metal + reactive non-metal: ionic (large ∆EN). Non-metal + non-metal: covalent (small ∆EN).
+2e94de|Oxides show the trend: non-metal oxides acidic or neutral, metal oxides basic.
+a017fb|First member differs (1) in size and size-dependent properties, like Li and Be in the s-block.
+84cf44|(2) Heavier members (period 3 on) have d orbitals in the valence shell; period 2 does not.
+c2ed86|Period 2 p-elements (from B): **max covalence 4** (2s + three 2p). Period 3 has vacant 3d (between 3p and 4s) and can exceed 4.
+4c8713|**B forms only [BF4]^-; Al forms [AlF6]^3-.**
+2fb2b2|Size plus d-orbital availability controls π-bond formation.
+4cbd6f|First member forms pπ–pπ multiple bonds to itself (C=C, C≡C, N≡N) and to other period-2 atoms (C=O, C=N, C≡N, N=O).
+966d55|Heavier elements form weaker π bonds using d orbitals (dπ–pπ or dπ–dπ); higher-energy d orbitals add less stability than pπ–pπ.
+7a7ed2|Heavier members can have higher coordination number in the same oxidation state: NO3^- (3-coordinate, pπ–pπ) vs PO4^3- (4-coordinate, s, p, d contribute to π).
+efd07a|B: typical non-metal; Al: metal with many B-like properties; Ga, In, Tl: almost exclusively metallic.
+8a1ce9|B ores: orthoboric acid H3BO3, borax Na2B4O7·10H2O, kernite Na2B4O7·4H2O.
+e57a79|-
+ff938e|B isotopes: ^10B (19%), ^11B (81%).
+f9ed77|Al: most abundant metal, third most abundant element in the crust (8.3%) after O (45.5%) and Si (27.7%).
+15e2a5|Al minerals: bauxite Al2O3·2H2O, cryolite Na3AlF6.
+cfd339|ns^2np^1. B, Al: noble-gas core; Ga, In: + 10 d electrons; Tl: + 14 f + 10 d.
+d29aa9|Radius should rise down the group, **but r(Ga) < r(Al)**.
+794920|Ga's 10 d electrons shield poorly, so Ga (135 pm) < Al (143 pm).
+90104a|∆iH does not fall smoothly: B → Al decreases (size), but **jumps at Al → Ga and In → Tl** (poor d and f shielding).
+d6b5f8|∆iH1 < ∆iH2 < ∆iH3; the sum of the first three is very high.
+601de0|**EN falls B → Al, then rises slightly** (irregular atomic sizes).
+f2dee5|=
+20c241|B: non-metal, extremely hard, black; many allotropes; unusually high m.p. (strong lattice).
+2b18c5|Others: soft metals, low m.p., high conductivity.
+a04ddc|**Ga: m.p. 303 K (liquid in summer), b.p. 2676 K**, used to measure high temperatures.
+2a474d|Density increases B → Tl.
+60a191|**B: very high sum of first three ∆iH (small size), so no B^3+; only covalent compounds.**
+19d22a|Al: lower sum, forms Al^3+; highly electropositive.
+3cdeae|Down the group poor d/f shielding holds the ns^2 pair tightly (inert pair effect), so often only the p electron bonds.
+ec4ff7|Ga, In, Tl show +1 and +3; **+1 stability: Al < Ga < In < Tl. In Tl, +1 is predominant and +3 is strongly oxidising.**
+3568ed|+1 compounds are more ionic than +3 compounds.
+22fa3e|+3 compounds (e.g. BF3) have only 6 electrons on the central atom: electron deficient, Lewis acids.
+a918bb|Lewis acidity decreases down the group. BCl3 + NH3 → BCl3·NH3
+409faf|AlCl3 attains stability by dimerising.
+2abe58|Covalent +3 compounds hydrolyse; trichlorides give tetrahedral [M(OH)4]^- (M sp^3).
+e2e62a|AlCl3 in acidified water: octahedral [Al(H2O)6]^3+ (3d involved, sp^3d^2).
+d284f9|E°: Al^3+/Al -1.66 V, Tl^3+/Tl +1.26 V. **Al^3+ forms readily; Tl^3+ is unstable and strongly oxidising, so Tl^+ is more stable in solution.**
+db6422|Al is more electropositive than Tl.
+33e462|Crystalline B is unreactive; Al is protected by a thin oxide layer.
+df812c|Amorphous B and Al burn to B2O3, Al2O3; with N2 at high T give nitrides. 4E + 3O2 → 2E2O3; 2E + N2 → 2EN
+dcd57d|**B2O3 acidic (forms borates); Al2O3 and Ga2O3 amphoteric; In2O3 and Tl2O3 basic.**
+18f327|B is unaffected by acids and alkalies at moderate T; **Al dissolves in both (amphoteric)**.
+7727ed|2Al(s) + 6HCl(aq) → 2Al^3+(aq) + 6Cl^-(aq) + 3H2(g)
+6f0220|**Concentrated HNO3 makes Al passive** (protective oxide).
+418a23|2Al + 2NaOH + 6H2O → 2Na^+[Al(OH)4]^- (sodium tetrahydroxoaluminate(III)) + 3H2
+829f9c|All form trihalides, **except TlI3**. 2E + 3X2 → 2EX3
+6a460f|Anhydrous AlCl3 fumes in moist air: partial hydrolysis releases HCl (white fumes).
+ca089d|Trichlorides, tribromides, triiodides are covalent and hydrolyse; [M(OH)4]^- and [M(H2O)6]^3+ exist in water **for all except B**.
+39b8ae|Monomeric trihalides are strong Lewis acids: F3B + :NH3 → F3B←NH3
+8cf077|**B: max covalence 4 (no d orbitals)**; Al and heavier can exceed 4.
+aa33f4|Other trihalides (e.g. AlCl3) dimerise by halogen bridging (Al2Cl6), completing the metal's octet.
+b5d905|**BF6^3- does not exist**: B can't expand its octet.
+753ab5|Borax Na2B4O7·10H2O: white crystalline; actually contains [B4O5(OH)4]^2-, so correct formula **Na2[B4O5(OH)4]·8H2O**.
+bc06bd|Aqueous borax is alkaline: Na2B4O7 + 7H2O → 2NaOH + 4H3BO3
+ea326b|Heating: borax loses water and swells, melts to a transparent liquid, solidifies to a glassy borax bead.
+eb0e77|Na2B4O7·10H2O → Na2B4O7 → 2NaBO2 (sodium metaborate) + B2O3 (boric anhydride)
+961469|Transition-metal metaborates are coloured, hence the borax bead test.
+e19d34|Borax + CoO in the flame: **blue Co(BO2)2 bead**.
+4a7b50|H3BO3: white crystalline, soapy; sparingly soluble in cold water, very soluble in hot.
+3f7b7d|From acidified borax: Na2B4O7 + 2HCl + 5H2O → 2NaCl + 4B(OH)3
+05a7d1|Also formed by hydrolysis of most boron compounds (halides, hydrides).
+6e2690|Layer structure: planar BO3 units joined by H-bonds.
+8b69fa|**Boric acid: weak monobasic Lewis acid, not a protonic acid.** B(OH)3 + 2HOH → [B(OH)4]^- + H3O^+
+ad9c4e|Heating: H3BO3 → HBO2 (metaboric acid, above 370 K) → B2O3
+98259e|It can't release H^+ itself; it accepts OH^- from water to complete its octet, releasing H^+.
+e917b4|B2H6 (simplest borane): 4BF3 + 3LiAlH4 → 2B2H6 + 3LiF + 3AlF3 (diethyl ether)
+0c8bd3|Lab: 2NaBH4 + I2 → B2H6 + 2NaI + H2
+47608d|Industrial: 2BF3 + 6NaH → B2H6 + 6NaF (450 K)
+c44042|B2H6: colourless, highly toxic, b.p. 180 K; catches fire spontaneously in air.
+1778ac|B2H6 + 3O2 → B2O3 + 3H2O; ∆cH° = -1976 kJ mol^-1
+195126|Higher boranes are also spontaneously flammable. B2H6(g) + 6H2O(l) → 2B(OH)3(aq) + 6H2(g)
+d4dda5|Cleaved by Lewis bases to BH3·L: B2H6 + 2NMe3 → 2BH3·NMe3; B2H6 + 2CO → 2BH3·CO
+152229|With NH3: B2H6·2NH3 = [BH2(NH3)2]^+[BH4]^-; further heating gives **borazine B3N3H6 ("inorganic benzene")**.
+6df747|Structure: 4 terminal H and 2 B in one plane; 2 bridging H above and below.
+cf58ee|4 terminal B–H are 2c–2e bonds; 2 bridging B–H–B are **3c–2e bonds**.
+0097af|Tetrahedral [BH4]^- (hydridoborates).
+1cfc7a|2MH + B2H6 → 2M^+[BH4]^- (M = Li, Na; diethyl ether)
+3b8b81|Each B uses sp^3 hybrids; one of the four is empty.
+4f6b09|Bridge bonds (3c–2e) are called **banana bonds**.
+cae1c6|LiBH4, NaBH4: reducing agents in organic synthesis; used to make other borohydrides.
+499c55|B: hard, refractory, high m.p., low density, very low conductivity; B fibres in bullet-proof vests and light aircraft composites.
+26e154|^10B absorbs neutrons strongly: metal borides as shields and control rods.
+5ca101|Borax/boric acid: heat-resistant glass (Pyrex), glass-wool, fibreglass.
+c3e752|Borax: soldering flux, glazes for earthenware, medicinal soaps; aqueous boric acid: mild antiseptic.
+19d9e5|Al: bright silvery-white, high tensile strength, good conductor; **weight for weight, twice the electrical conductivity of Cu**.
+594fc0|Al alloys with Cu, Mn, Mg, Si, Zn; used in packing, utensils, construction, aircraft, transport.
+03a207|Domestic use of Al is now reduced (toxicity).

@@ -1,0 +1,59 @@
+@src p15
+# Occurrence
+572+573+574 Group 18 consists of elements: helium, neon, argon, krypton, xenon, radon and oganesson. All these are gases and chemically unreactive. They form very few compounds, because of this they are termed as noble gases.
+575+576 All these gases except radon and oganesson occur in the atmosphere. Their atmospheric abundance in dry air is ~ 1% by volume of which argon is the major constituent.
+577+578 Helium and sometimes neon are found in minerals of radioactive origin e.g., pitchblende, monazite, cleveite. The main commercial source of helium is natural gas.
+579 Xenon and radon are the rarest elements of the group.
+580T Radon is obtained as a decay product of ^226Ra: ^226_88Ra → ^222_86Rn + ^4_2He
+580T Oganesson has been synthetically produced by collision of ^249_98Cf atoms and ^48_20Ca ions: ^249_98Cf + ^48_20Ca → ^294_118Og + 3n
+581+582 The elements present in Group 18 have their valence shell orbitals completely filled and, therefore, react with a few elements only under certain conditions. Therefore, they are now known as noble gases.
+583+585 Oganesson has its symbol Og, atomic number 118, atomic mass 294 and electronic configuration [Rn] 5f^14 6d^10 7s^2 7p^6. Its half life is 0.7 milliseconds.
+# Atomic and physical properties
+590! All noble gases have general electronic configuration ns^2np^6 except helium which has 1s^2.
+591 Many of the properties of noble gases including their inactive nature are ascribed to their closed shell structures.
+592+593 Due to stable electronic configuration these gases exhibit very high ionisation enthalpy. However, it decreases down the group with increase in atomic size.
+594 Atomic radii increase down the group with increase in atomic number.
+595 Since noble gases have stable electronic configurations, they have no tendency to accept the electron and therefore, have large positive values of electron gain enthalpy.
+589T Table 7.12: Ionisation enthalpy/kJ mol^-1 He 2372, Ne 2080, Ar 1520, Kr 1351, Xe 1170, Rn 1037. Electron gain enthalpy/kJ mol^-1 He 48, Ne 116, Ar 96, Kr 96, Xe 77, Rn 68. Atomic radius/pm He 120, Ne 160, Ar 190, Kr 200, Xe 220.
+596+597+598 All the noble gases are monoatomic. They are colourless, odourless and tasteless. They are sparingly soluble in water.
+599 They have very low melting and boiling points because the only type of interatomic interaction in these elements is weak dispersion forces.
+600! Helium has the lowest boiling point (4.2 K) of any known substance.
+601! It has an unusual property of diffusing through most commonly used laboratory materials such as rubber, glass or plastics.
+# Chemical properties
+601+602+603 In general, noble gases are least reactive. Their inertness to chemical reactivity is attributed to the following reasons: (i) The noble gases except helium (1s^2) have completely filled ns^2np^6 electronic configuration in their valence shell. (ii) They have high ionisation enthalpy and more positive electron gain enthalpy.
+605+606 In March 1962, Neil Bartlett, then at the University of British Columbia, observed the reaction of a noble gas. First, he prepared a red compound which is formulated as O2^+PtF6^–.
+607 He, then realised that the first ionisation enthalpy of molecular oxygen (1175 kJ mol^–1) was almost identical with that of xenon (1170 kJ mol^–1).
+608 He made efforts to prepare same type of compound with Xe and was successful in preparing another red colour compound Xe^+PtF6^– by mixing PtF6 and xenon.
+609 After this discovery, a number of xenon compounds mainly with most electronegative elements like fluorine and oxygen, have been synthesised.
+610+611 The compounds of krypton are fewer. Only the difluoride (KrF2) has been studied in detail.
+612+616! Compounds of radon have not been isolated but only identified (e.g., RnF2) by radiotracer technique.
+617! No true compounds of Ar, Ne or He are yet known.
+704 Radon is radioactive with very short half-life which makes the study of chemistry of radon difficult.
+# Xenon fluorides
+618 Xenon forms three binary fluorides, XeF2, XeF4 and XeF6 by the direct reaction of elements under appropriate experimental conditions.
+619T Xe(g) + F2(g) → XeF2(s) (673 K, 1 bar; xenon in excess)
+619T Xe(g) + 2F2(g) → XeF4(s) (873 K, 7 bar; 1:5 ratio)
+619T Xe(g) + 3F2(g) → XeF6(s) (573 K, 60-70 bar; 1:20 ratio)
+619 XeF6 can also be prepared by the interaction of XeF4 and O2F2 at 143K. XeF4 + O2F2 → XeF6 + O2
+619 XeF2, XeF4 and XeF6 are colourless crystalline solids and sublime readily at 298 K. They are powerful fluorinating agents.
+620+621 They are readily hydrolysed even by traces of water. For example, XeF2 is hydrolysed to give Xe, HF and O2. 2XeF2(s) + 2H2O(l) → 2Xe(g) + 4HF(aq) + O2(g)
+621+622 The structures of the three xenon fluorides can be deduced from VSEPR. XeF2 and XeF4 have linear and square planar structures respectively.
+623! XeF6 has seven electron pairs (6 bonding pairs and one lone pair) and would, thus, have a distorted octahedral structure as found experimentally in the gas phase.
+624 Xenon fluorides react with fluoride ion acceptors to form cationic species and fluoride ion donors to form fluoroanions.
+625 XeF2 + PF5 → [XeF]^+[PF6]^–; XeF4 + SbF5 → [XeF3]^+[SbF6]^–; XeF6 + MF → M^+[XeF7]^– (M = Na, K, Rb or Cs)
+# Xenon-oxygen compounds
+625 Hydrolysis of XeF4 and XeF6 with water gives XeO3. 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2; XeF6 + 3H2O → XeO3 + 6HF
+625+626 Partial hydrolysis of XeF6 gives oxyfluorides, XeOF4 and XeO2F2. XeF6 + H2O → XeOF4 + 2HF; XeF6 + 2H2O → XeO2F2 + 4HF
+630! No, the products of hydrolysis are XeOF4 and XeO2F2 where the oxidation states of all the elements remain the same as it was in the reacting state.
+627 XeO3 is a colourless explosive solid and has a pyramidal molecular structure.
+628 XeOF4 is a colourless volatile liquid and has a square pyramidal molecular structure.
+616T Fig. 7.9: (a) XeF2 linear (b) XeF4 square planar (c) XeF6 distorted octahedral (d) XeOF4 square pyramidal (e) XeO3 pyramidal.
+# Uses
+631+632+633 Helium is a non-inflammable and light gas. Hence, it is used in filling balloons for meteorological observations. It is also used in gas-cooled nuclear reactors.
+634 Liquid helium (b.p. 4.2 K) finds use as cryogenic agent for carrying out various experiments at low temperatures.
+635 It is used to produce and sustain powerful superconducting magnets which form an essential part of modern NMR spectrometers and Magnetic Resonance Imaging (MRI) systems for clinical diagnosis.
+636 It is used as a diluent for oxygen in modern diving apparatus because of its very low solubility in blood.
+637+638 Neon is used in discharge tubes and fluorescent bulbs for advertisement display purposes. Neon bulbs are used in botanical gardens and in green houses.
+639 Argon is used mainly to provide an inert atmosphere in high temperature metallurgical processes (arc welding of metals or alloys) and for filling electric bulbs.
+640 It is also used in the laboratory for handling substances that are air-sensitive.
+641+642 There are no significant uses of Xenon and Krypton. They are used in light bulbs designed for special purposes.

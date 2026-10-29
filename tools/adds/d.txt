@@ -1,0 +1,64 @@
+6=
+20+21=
+24=
+27=
+31+32+33=
+35=
+37=
+42=
+48=
+52=
+55=
+61=
+63=
+69=
+75=
+78=
+80=
+81=
+83=
+87+88=
+95=
+97+98+99=
+100=
+105=
+109=
+112=
+123=
+144=
+161=
+170+171=
+175=
+180=
+185+186=
+190+191T For Z = 25, the divalent ion in aqueous solution has d^5 configuration (five unpaired electrons); µ = √(5(5+2)) = 5.92 BM.
+197=
+211=
+218=
+221=
+230=
+231T Besides the oxides, the oxocations stabilise V^V as VO2^+, V^IV as VO^2+ and Ti^IV as TiO^2+.
+239T Similarly, V2O5 reacts with alkalies as well as acids to give VO4^3- and VO2^+ respectively.
+254T MnO2 fused with KOH, oxidised with air or KNO3 → MnO4^2- (manganate ion); MnO4^2- → MnO4^- (electrolytic oxidation in alkaline solution).
+259=
+260T Half-reactions of reductants: 5C2O4^2- → 10CO2 + 10e^-; 5Fe^2+ → 5Fe^3+ + 5e^-; 5NO2^- + 5H2O → 5NO3^- + 10H^+ + 10e^-; 10I^- → 5I2 + 10e^-
+262=
+285=
+308=
+334=
+357=
+362T Actinoid contraction is greater from element to element than lanthanoid contraction.
+366=
+376=
+377+378=
+379+380=
+382=
+384+385=
+386=
+387+388=
+392=
+394+395=
+397=
+400+401=
+431T The 5f electrons themselves provide poor shielding from element to element in the series.
+435T Experimental magnetic moments: K4[Mn(CN)6] 2.2 BM, [Fe(H2O)6]^2+ 5.3 BM, K2[MnCl4] 5.9 BM.

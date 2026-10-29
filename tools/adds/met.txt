@@ -1,0 +1,27 @@
+2=
+96=
+99=
+153+154=
+157+158+159T When ∆G is negative, only then the reaction will proceed. ∆G can become negative: (1) if ∆S is positive, on increasing T the value of T∆S increases so that ∆H < T∆S; (2) if coupling of the two reactions, i.e. reduction and oxidation, results in negative value of ∆G for overall reaction.
+169=
+171T MxO(s) → xM (solid or liq) + ½O2(g); with carbon as reducing agent: C(s) + ½O2(g) → CO(g); complete oxidation: ½C(s) + ½O2(g) → ½CO2(g).
+172T Coupling gives MxO(s) + C(s) → xM(s or l) + CO(g) and MxO(s) + ½C(s) → xM(s or l) + ½CO2(g).
+189+190=
+191=
+195+196=
+197+198=
+200=
+213=
+215=
+219+220=
+221T FeO(s) → Fe(s) + ½O2(g); C(s) + ½O2(g) → CO(g). Net: ∆rG°(C, CO) + ∆rG°(FeO, Fe) = ∆rG°; the resultant reaction will take place when the right hand side is negative.
+228=
+251+252+253=
+257=
+258=
+265=
+281+282=
+292=
+298=
+339+340+341=
+342=

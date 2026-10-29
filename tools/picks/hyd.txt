@@ -1,0 +1,166 @@
+@src old11
+# Position in the periodic table
+40+41+42 Hydrogen has the simplest atomic structure among all the elements around us in Nature. In atomic form it consists of only one proton and one electron. However, in elemental form it exists as a diatomic (H2) molecule and is called dihydrogen.
+43 It forms more compounds than any other element.
+47+48+49 Hydrogen has electronic configuration 1s^1. On one hand, its electronic configuration is similar to the outer electronic configuration (ns^1) of alkali metals, which belong to the first group of the periodic table. On the other hand, like halogens (with ns^2np^5 configuration belonging to the seventeenth group of the periodic table), it is short by one electron to the corresponding noble gas configuration, helium (1s^2).
+51 Like alkali metals, hydrogen forms oxides, halides and sulphides.
+52+53! However, unlike alkali metals, it has a very high ionization enthalpy and does not possess metallic characteristics under normal conditions.
+54! In fact, in terms of ionization enthalpy, hydrogen resembles more with halogens, ∆iH of Li is 520 kJ mol^-1, F is 1680 kJ mol^-1 and that of H is 1312 kJ mol^-1.
+55+56 Like halogens, it forms a diatomic molecule, combines with elements to form hydrides and a large number of covalent compounds. However, in terms of reactivity, it is very low as compared to halogens.
+59+60+61 Loss of the electron from hydrogen atom results in nucleus (H^+) of ~1.5×10^-3 pm size. This is extremely small as compared to normal atomic and ionic sizes of 50 to 200pm. As a consequence, H^+ does not exist freely and is always associated with other atoms or molecules.
+62 Thus, it is unique in behaviour and is, therefore, best placed separately in the periodic table.
+# Occurrence and isotopes
+63+64+74T Dihydrogen is the most abundant element in the universe (70% of the total mass of the universe) and is the principal element in the solar atmosphere. The giant planets Jupiter and Saturn consist mostly of hydrogen.
+65+66 However, due to its light nature, it is much less abundant (0.15% by mass) in the earth's atmosphere. Of course, in the combined form it constitutes 15.4% of the earth's crust and the oceans.
+68+70 Hydrogen has three isotopes: protium, ^1H, deuterium, ^2H or D and tritium, ^3H or T. Ordinary hydrogen, protium, has no neutrons, deuterium (also known as heavy hydrogen) has one and tritium has two neutrons in the nucleus.
+71 In the year 1934, an American scientist, Harold C. Urey, got Nobel Prize for separating hydrogen isotope of mass number 2 by physical methods.
+72+73 The predominant form is protium. Terrestrial hydrogen contains 0.0156% of deuterium mostly in the form of HD. The tritium concentration is about one atom per 10^18 atoms of protium.
+74! Of these isotopes, only tritium is radioactive and emits low energy β^– particles (t½, 12.33 years).
+77+78 Since the isotopes have the same electronic configuration, they have almost the same chemical properties. The only difference is in their rates of reactions, mainly due to their different enthalpy of bond dissociation.
+79 However, in physical properties these isotopes differ considerably due to their large mass differences.
+76T Table 9.1: Bond dissociation enthalpy/kJ mol^-1 H2 435.88, D2 443.35. Boiling point/K 20.39, 23.67, 25.0 (H, D, T). Ionization enthalpy 1312 kJ mol^-1; electron gain enthalpy -73 kJ mol^-1; covalent radius 37 pm; ionic radius (H^-) 208 pm.
+# Preparation of dihydrogen
+79+80 It is usually prepared by the reaction of granulated zinc with dilute hydrochloric acid. Zn + 2H^+ → Zn^2+ + H2
+80+81 It can also be prepared by the reaction of zinc with aqueous alkali. Zn + 2NaOH → Na2ZnO2 + H2 (Sodium zincate)
+81+82 Electrolysis of acidified water using platinum electrodes gives hydrogen. 2H2O(l) → 2H2(g) + O2(g) (electrolysis, traces of acid/base)
+82 High purity (>99.95%) dihydrogen is obtained by electrolysing warm aqueous barium hydroxide solution between nickel electrodes.
+83 It is obtained as a byproduct in the manufacture of sodium hydroxide and chlorine by the electrolysis of brine solution.
+84 At anode: 2Cl^-(aq) → Cl2(g) + 2e^-; at cathode: 2H2O(l) + 2e^- → H2(g) + 2OH^-(aq)
+84+85 Reaction of steam on hydrocarbons or coke at high temperatures in the presence of catalyst yields hydrogen. CnH2n+2 + nH2O → nCO + (3n + 1)H2, e.g., CH4(g) + H2O(g) → CO(g) + 3H2(g) (1270 K, Ni)
+85+86 The mixture of CO and H2 is called water gas. As this mixture of CO and H2 is used for the synthesis of methanol and a number of hydrocarbons, it is also called synthesis gas or 'syngas'.
+87 Nowadays 'syngas' is produced from sewage, saw-dust, scrap wood, newspapers etc. The process of producing 'syngas' from coal is called 'coal gasification'. C(s) + H2O(g) → CO(g) + H2(g) (1270 K)
+88 The production of dihydrogen can be increased by reacting carbon monoxide of syngas mixtures with steam in the presence of iron chromate as catalyst. CO(g) + H2O(g) → CO2(g) + H2(g) (673 K, catalyst). This is called water-gas shift reaction.
+89 Carbon dioxide is removed by scrubbing with sodium arsenite solution.
+90 Presently ~77% of the industrial dihydrogen is produced from petro-chemicals, 18% from coal, 4% from electrolysis of aqueous solutions and 1% from other sources.
+# Properties of dihydrogen
+90+91 Dihydrogen is a colourless, odourless, tasteless, combustible gas. It is lighter than air and insoluble in water.
+93! The H-H bond dissociation enthalpy is the highest for a single bond between two atoms of any element.
+95+96 It is because of this factor that the dissociation of dihydrogen into its atoms is only ~0.081% around 2000K which increases to 95.5% at 5000K. Also, it is relatively inert at room temperature due to the high H-H bond enthalpy.
+97 Thus, the atomic hydrogen is produced at a high temperature in an electric arc or under ultraviolet radiations.
+99 It accomplishes reactions by (i) loss of the only electron to give H^+, (ii) gain of an electron to form H^-, and (iii) sharing electrons to form a single covalent bond.
+100! It reacts with halogens, X2, to give hydrogen halides, HX: H2(g) + X2(g) → 2HX(g) (X = F, Cl, Br, I). While the reaction with fluorine occurs even in the dark, with iodine it requires a catalyst.
+100+101 It reacts with dioxygen to form water. The reaction is highly exothermic. 2H2(g) + O2(g) → 2H2O(l) (catalyst or heating); ∆H° = -285.9 kJ mol^-1
+101+102 With dinitrogen it forms ammonia. 3H2(g) + N2(g) → 2NH3(g) (673K, 200atm, Fe); ∆H° = -92.6 kJ mol^-1. This is the method for the manufacture of ammonia by the Haber process.
+103 With many metals it combines at a high temperature to yield the corresponding hydrides. H2(g) + 2M(g) → 2MH(s); where M is an alkali metal.
+103+104 It reduces some metal ions in aqueous solution and oxides of metals (less active than iron) into corresponding metals. H2(g) + Pd^2+(aq) → Pd(s) + 2H^+(aq); yH2(g) + MxOy(s) → xM(s) + yH2O(l)
+104+105 It reacts with many organic compounds in the presence of catalysts to give useful hydrogenated products of commercial importance. Hydrogenation of vegetable oils using nickel as catalyst gives edible fats (margarine and vanaspati ghee).
+105+106 Hydroformylation of olefins yields aldehydes which further undergo reduction to give alcohols. H2 + CO + RCH=CH2 → RCH2CH2CHO; H2 + RCH2CH2CHO → RCH2CH2CH2OH
+108 Dihydrogen is reduced by sodium to form NaH. An electron is transferred from Na to H leading to the formation of an ionic compound, NaH.
+# Uses of dihydrogen
+109 The largest single use of dihydrogen is in the synthesis of ammonia which is used in the manufacture of nitric acid and nitrogenous fertilizers.
+109 Dihydrogen is used in the manufacture of vanaspati fat by the hydrogenation of polyunsaturated vegetable oils like soyabean, cotton seeds etc.
+109 It is used in the manufacture of bulk organic chemicals, particularly methanol. CO(g) + 2H2(g) → CH3OH(l) (cobalt catalyst)
+110 In metallurgical processes, it is used to reduce heavy metal oxides to metals. Atomic hydrogen and oxy-hydrogen torches find use for cutting and welding purposes.
+111 Atomic hydrogen atoms (produced by dissociation of dihydrogen with the help of an electric arc) are allowed to recombine on the surface to be welded to generate the temperature of 4000 K.
+111 It is used as a rocket fuel in space research. Dihydrogen is used in fuel cells for generating electrical energy.
+# Hydrides
+114 Dihydrogen, under certain reaction conditions, combines with almost all elements, except noble gases, to form binary compounds, called hydrides.
+116 The hydrides are classified into three categories: (i) Ionic or saline or saltlike hydrides (ii) Covalent or molecular hydrides (iii) Metallic or non-stoichiometric hydrides.
+116 Ionic hydrides are stoichiometric compounds of dihydrogen formed with most of the s-block elements which are highly electropositive in character.
+117+118! However, significant covalent character is found in the lighter metal hydrides such as LiH, BeH2 and MgH2. In fact BeH2 and MgH2 are polymeric in structure.
+119+120 The ionic hydrides are crystalline, non-volatile and nonconducting in solid state. However, their melts conduct electricity and on electrolysis liberate dihydrogen gas at anode, which confirms the existence of H^- ion.
+120+121 Saline hydrides react violently with water producing dihydrogen gas. NaH(s) + H2O(aq) → NaOH(aq) + H2(g)
+121+122 Lithium hydride is rather unreactive at moderate temperatures with O2 or Cl2. It is, therefore, used in the synthesis of other useful hydrides, e.g., 8LiH + Al2Cl6 → 2LiAlH4 + 6LiCl; 2LiH + B2H6 → 2LiBH4
+122+123 Dihydrogen forms molecular compounds with most of the p-block elements. Most familiar examples are CH4, NH3, H2O and HF.
+125 Molecular hydrides are further classified according to the relative numbers of electrons and bonds in their Lewis structure into: (i) electron-deficient, (ii) electron-precise, and (iii) electron-rich hydrides.
+126+127+128 An electron-deficient hydride, as the name suggests, has too few electrons for writing its conventional Lewis structure. Diborane (B2H6) is an example. In fact all elements of group 13 will form electron-deficient compounds.
+130 They act as Lewis acids i.e., electron acceptors.
+131+132 Electron-precise compounds have the required number of electrons to write their conventional Lewis structures. All elements of group 14 form such compounds (e.g., CH4) which are tetrahedral in geometry.
+133+134+135 Electron-rich hydrides have excess electrons which are present as lone pairs. Elements of group 15-17 form such compounds. (NH3 has 1 lone pair, H2O - 2 and HF - 3 lone pairs).
+137 They will behave as Lewis bases i.e., electron donors.
+138+139 The presence of lone pairs on highly electronegative atoms like N, O and F in hydrides results in hydrogen bond formation between the molecules. This leads to the association of molecules.
+143+144! However, due to higher electronegativity of N, O and F, the magnitude of hydrogen bonding in their hydrides will be quite appreciable. Hence, the boiling points NH3, H2O and HF will be higher than the hydrides of their subsequent group members.
+145+146! Metallic hydrides are formed by many d-block and f-block elements. However, the metals of group 7, 8 and 9 do not form hydride.
+147! Even from group 6, only chromium forms CrH. These hydrides conduct heat and electricity though not as efficiently as their parent metals do.
+148+149 Unlike saline hydrides, they are almost always nonstoichiometric, being deficient in hydrogen. For example, LaH2.87, YbH2.55, TiH1.5-1.8, ZrH1.3-1.75, VH0.56, NiH0.6-0.7, PdH0.6-0.8, etc. In such hydrides, the law of constant composition does not hold good.
+150+151 Earlier it was thought that in these hydrides, hydrogen occupies interstices in the metal lattice producing distortion without any change in its type. Consequently, they were termed as interstitial hydrides.
+152! However, recent studies have shown that except for hydrides of Ni, Pd, Ce and Ac, other hydrides of this class have lattice different from that of the parent metal.
+152 The property of absorption of hydrogen on transition metals is widely used in catalytic reduction / hydrogenation reactions for the preparation of large number of compounds.
+153 Some of the metals (e.g., Pd, Pt) can accommodate a very large volume of hydrogen and, therefore, can be used as its storage media.
+155+156! Although phosphorus exhibits +3 and +5 oxidation states, it cannot form PH5. Besides some other considerations, high ∆aH value of dihydrogen and ∆egH value of hydrogen do not favour to exhibit the highest oxidation state of P, and consequently the formation of PH5.
+# Water
+158 Human body has about 65% and some plants have as much as 95% water.
+162T Table 9.2: Oceans 97.33%, Polar ice and glaciers 2.04%, Ground water 0.61%, Lakes 0.009%, Saline lakes and inland seas 0.008%, Soil moisture 0.005%, Atmospheric water vapour 0.001%, Rivers 0.0001%.
+164 The unusual properties of water in the condensed phase (liquid and solid states) are due to the presence of extensive hydrogen bonding between water molecules.
+165 This leads to high freezing point, high boiling point, high heat of vaporisation and high heat of fusion in comparison to H2S and H2Se. In comparison to other liquids, water has a higher specific heat, thermal conductivity, surface tension, dipole moment and dielectric constant, etc.
+166 The high heat of vaporisation and heat capacity are responsible for moderation of the climate and body temperature of living beings.
+166T Table 9.3: Melting point/K H2O 273.0, D2O 276.8; boiling point/K 373.0, 374.4; temp of max. density/K 276.98, 284.2; density (298K)/g cm^-3 1.0000, 1.1059; dielectric constant 78.39, 78.06.
+168 Due to hydrogen bonding with polar molecules, even covalent compounds like alcohol and carbohydrates dissolve in water.
+169+170 In the gas phase water is a bent molecule with a bond angle of 104.5°, and O-H bond length of 95.7 pm. It is a highly polar molecule.
+172+173+174 In the liquid phase water molecules are associated together by hydrogen bonds. The crystalline form of water is ice. At atmospheric pressure ice crystallises in the hexagonal form, but at very low temperatures it condenses to cubic form.
+175+176! Density of ice is less than that of water. Therefore, an ice cube floats on water.
+177 In winter season ice formed on the surface of a lake provides thermal insulation which ensures the survival of the aquatic life.
+179+180+181 Ice has a highly ordered three dimensional hydrogen bonded structure. Examination of ice crystals with X-rays shows that each oxygen atom is surrounded tetrahedrally by four other oxygen atoms at a distance of 276 pm.
+182+183 Hydrogen bonding gives ice a rather open type structure with wide holes. These holes can hold some other molecules of appropriate size interstitially.
+186+187 It has the ability to act as an acid as well as a base i.e., it behaves as an amphoteric substance. In the Brønsted sense it acts as an acid with NH3 and a base with H2S.
+187 H2O(l) + NH3(aq) ⇌ OH^-(aq) + NH4^+(aq); H2O(l) + H2S(aq) ⇌ H3O^+(aq) + HS^-(aq)
+187 The auto-protolysis (self-ionization) of water takes place as follows: H2O(l) + H2O(l) ⇌ H3O^+(aq) + OH^-(aq)
+187 Water can be easily reduced to dihydrogen by highly electropositive metals. 2H2O(l) + 2Na(s) → 2NaOH(aq) + H2(g). Thus, it is a great source of dihydrogen.
+188 Water is oxidised to O2 during photosynthesis. 6CO2(g) + 12H2O(l) → C6H12O6(aq) + 6H2O(l) + 6O2(g). With fluorine also it is oxidised to O2. 2F2(g) + 2H2O(l) → 4H^+(aq) + 4F^-(aq) + O2(g)
+188+189+190 Due to high dielectric constant, it has a very strong hydrating tendency. It dissolves many ionic compounds. However, certain covalent and some ionic compounds are hydrolysed in water.
+191T P4O10(s) + 6H2O(l) → 4H3PO4(aq); SiCl4(l) + 2H2O(l) → SiO2(s) + 4HCl(aq); N^3-(s) + 3H2O(l) → NH3(g) + 3OH^-(aq)
+191+192 From aqueous solutions many salts can be crystallised as hydrated salts. Such an association of water is of different types viz., (i) coordinated water e.g., [Cr(H2O)6]^3+ 3Cl^- (ii) interstitial water e.g., BaCl2.2H2O (iii) hydrogen-bonded water e.g., [Cu(H2O)4]^2+ SO4^2-.H2O in CuSO4.5H2O.
+194+195 Only one water molecule, which is outside the brackets (coordination sphere), is hydrogen-bonded. The other four molecules of water are coordinated.
+# Hard and soft water
+198+199 Presence of calcium and magnesium salts in the form of hydrogencarbonate, chloride and sulphate in water makes water 'hard'. Hard water does not give lather with soap.
+200+201 Water free from soluble salts of calcium and magnesium is called Soft water. It gives lather with soap easily.
+203 Soap containing sodium stearate (C17H35COONa) reacts with hard water to precipitate out Ca/Mg stearate. 2C17H35COONa(aq) + M^2+(aq) → (C17H35COO)2M↓ + 2Na^+(aq); M is Ca/Mg. It is, therefore, unsuitable for laundry.
+204+205 It is harmful for boilers as well, because of deposition of salts in the form of scale. This reduces the efficiency of the boiler.
+207+208 The hardness of water is of two types: (i) temporary hardness, and (ii) permanent hardness. Temporary hardness is due to the presence of magnesium and calcium hydrogencarbonates.
+209 During boiling, the soluble Mg(HCO3)2 is converted into insoluble Mg(OH)2 and Ca(HCO3)2 is changed to insoluble CaCO3.
+210! It is because of high solubility product of Mg(OH)2 as compared to that of MgCO3, that Mg(OH)2 is precipitated.
+213T Mg(HCO3)2 → Mg(OH)2↓ + 2CO2↑ (heating); Ca(HCO3)2 → CaCO3↓ + H2O + CO2↑ (heating)
+213+214 Clark's method: In this method calculated amount of lime is added to hard water. It precipitates out calcium carbonate and magnesium hydroxide which can be filtered off.
+215 Ca(HCO3)2 + Ca(OH)2 → 2CaCO3↓ + 2H2O; Mg(HCO3)2 + 2Ca(OH)2 → 2CaCO3↓ + Mg(OH)2↓ + 2H2O
+215+216 Permanent hardness is due to the presence of soluble salts of magnesium and calcium in the form of chlorides and sulphates in water. Permanent hardness is not removed by boiling.
+217+218 Washing soda reacts with soluble calcium and magnesium chlorides and sulphates in hard water to form insoluble carbonates. MCl2 + Na2CO3 → MCO3↓ + 2NaCl (M = Mg, Ca); MSO4 + Na2CO3 → MCO3↓ + Na2SO4
+218+219 Calgon's method: Sodium hexametaphosphate (Na6P6O18), commercially called 'calgon', when added to hard water, the following reactions take place. Na6P6O18 → 2Na^+ + Na4P6O18^2-; M^2+ + Na4P6O18^2- → [Na2MP6O18]^2- + 2Na^+ (M = Mg, Ca). The complex anion keeps the Mg^2+ and Ca^2+ ions in solution.
+220+221 Ion-exchange method: This method is also called zeolite/permutit process. Hydrated sodium aluminium silicate is zeolite/permutit.
+222 For the sake of simplicity, sodium aluminium silicate (NaAlSiO4) can be written as NaZ. When this is added in hard water, exchange reactions take place. 2NaZ(s) + M^2+(aq) → MZ2(s) + 2Na^+(aq) (M = Mg, Ca)
+222+223+224 Permutit/zeolite is said to be exhausted when all the sodium in it is used up. It is regenerated for further use by treating with an aqueous sodium chloride solution. MZ2(s) + 2NaCl(aq) → 2NaZ(s) + MCl2(aq)
+224+225+226 Synthetic resins method: Nowadays hard water is softened by using synthetic cation exchangers. This method is more efficient than zeolite process. Cation exchange resins contain large organic molecule with -SO3H group and are water insoluble.
+227+228 Ion exchange resin (RSO3H) is changed to RNa by treating it with NaCl. The resin exchanges Na^+ ions with Ca^2+ and Mg^2+ ions present in hard water to make the water soft. 2RNa(s) + M^2+(aq) → R2M(s) + 2Na^+(aq)
+229 Pure de-mineralised (de-ionized) water free from all soluble mineral salts is obtained by passing water successively through a cation exchange (in the H^+ form) and an anion exchange (in the OH^- form) resins: 2RH(s) + M^2+(aq) ⇌ MR2(s) + 2H^+(aq)
+230 This process results in proton release and thus makes the water acidic.
+232+233 RNH2(s) + H2O(l) ⇌ RNH3^+.OH^-(s); RNH3^+.OH^-(s) + X^-(aq) ⇌ RNH3^+.X^-(s) + OH^-(aq). OH^- ions, thus, liberated neutralise the H^+ ions set free in the cation exchange.
+234 The exhausted cation and anion exchange resin beds are regenerated by treatment with dilute acid and alkali solutions respectively.
+# Hydrogen peroxide
+235 Hydrogen peroxide is an important chemical used in pollution control treatment of domestic and industrial effluents.
+237+238 Acidifying barium peroxide and removing excess water by evaporation under reduced pressure gives hydrogen peroxide. BaO2.8H2O(s) + H2SO4(aq) → BaSO4(s) + H2O2(aq) + 8H2O(l)
+238 Peroxodisulphate, obtained by electrolytic oxidation of acidified sulphate solutions at high current density, on hydrolysis yields hydrogen peroxide.
+239 2HSO4^-(aq) → HO3SOOSO3H(aq) (electrolysis) → 2HSO4^-(aq) + 2H^+(aq) + H2O2(aq) (hydrolysis). This method is now used for the laboratory preparation of D2O2.
+240T K2S2O8(s) + 2D2O(l) → 2KDSO4(aq) + D2O2(l)
+240 Industrially it is prepared by the autooxidation of 2-alklylanthraquinols. 2-ethylanthraquinol ⇌ H2O2 + (oxidised product). In this case 1% H2O2 is formed.
+241+242+243 It is extracted with water and concentrated to ~30% (by mass) by distillation under reduced pressure. It can be further concentrated to ~85% by careful distillation under low pressure. The remaining water can be frozen out to obtain pure H2O2.
+244 In the pure state H2O2 is an almost colourless (very pale blue) liquid.
+246 H2O2 is miscible with water in all proportions and forms a hydrate H2O2.H2O (mp 221K).
+247+248 A 30% solution of H2O2 is marketed as '100 volume' hydrogen peroxide. It means that one millilitre of 30% H2O2 solution will give 100 V of oxygen at STP. Commercially, it is marketed as 10 V, which means it contains 3% H2O2.
+250 Hydrogen peroxide has a non-planar structure.
+251+252 H2O2 structure in gas phase, dihedral angle is 111.5°. H2O2 structure in solid phase at 110K, dihedral angle is 90.2°.
+252 It acts as an oxidising as well as reducing agent in both acidic and alkaline media.
+254 Oxidising action in acidic medium: 2Fe^2+(aq) + 2H^+(aq) + H2O2(aq) → 2Fe^3+(aq) + 2H2O(l); PbS(s) + 4H2O2(aq) → PbSO4(s) + 4H2O(l)
+254T Reducing action in acidic medium: 2MnO4^- + 6H^+ + 5H2O2 → 2Mn^2+ + 8H2O + 5O2; HOCl + H2O2 → H3O^+ + Cl^- + O2
+254 Oxidising action in basic medium: 2Fe^2+ + H2O2 → 2Fe^3+ + 2OH^-; Mn^2+ + H2O2 → Mn^4+ + 2OH^-
+254T Reducing action in basic medium: I2 + H2O2 + 2OH^- → 2I^- + 2H2O + O2; 2MnO4^- + 3H2O2 → 2MnO2 + 3O2 + 2H2O + 2OH^-
+254 H2O2 decomposes slowly on exposure to light. 2H2O2(l) → 2H2O(l) + O2(g). In the presence of metal surfaces or traces of alkali (present in glass containers), the above reaction is catalysed.
+255+256+257 It is, therefore, stored in wax-lined glass or plastic vessels in dark. Urea can be added as a stabiliser. It is kept away from dust because dust can induce explosive decomposition of the compound.
+258+259 In daily life it is used as a hair bleach and as a mild disinfectant. As an antiseptic it is sold in the market as perhydrol.
+260 It is used to manufacture chemicals like sodium perborate and per-carbonate, which are used in high quality detergents.
+261 It is used in the synthesis of hydroquinone, tartaric acid and certain food products and pharmaceuticals (cephalosporin) etc. It is employed in the industries as a bleaching agent for textiles, paper pulp, leather, oils, fats, etc.
+262 In pollution control treatment of domestic and industrial effluents, oxidation of cyanides, restoration of aerobic conditions to sewage wastes, etc.
+# Heavy water
+262 Heavy water is extensively used as a moderator in nuclear reactors and in exchange reactions for the study of reaction mechanisms.
+263 It can be prepared by exhaustive electrolysis of water or as a by-product in some fertilizer industries.
+265 It is used for the preparation of other deuterium compounds, for example: CaC2 + 2D2O → C2D2 + Ca(OD)2; SO3 + D2O → D2SO4; Al4C3 + 12D2O → 3CD4 + 4Al(OD)3
+# Dihydrogen as a fuel
+268+269 On a mass for mass basis dihydrogen can release more energy than petrol (about three times). Moreover, pollutants in combustion of dihydrogen will be less than petrol.
+270+271 The only pollutants will be the oxides of dinitrogen (due to the presence of dinitrogen as impurity with dihydrogen). This, of course, can be minimised by injecting a small amount of water into the cylinder to lower the temperature so that the reaction between dinitrogen and dioxygen may not take place.
+273 A cylinder of compressed dihydrogen weighs about 30 times as much as a tank of petrol containing the same amount of energy.
+274+275 Also, dihydrogen gas is converted into liquid state by cooling to 20K. Tanks of metal alloy like NaNi5, Ti-TiH2, Mg-MgH2 etc. are in use for storage of dihydrogen in small quantities.
+278+279 The basic principle of hydrogen economy is the transportation and storage of energy in the form of liquid or gaseous dihydrogen. Advantage of hydrogen economy is that energy is transmitted in the form of dihydrogen and not as electric power.
+280+281 It is for the first time in the history of India that a pilot project using dihydrogen as fuel was launched in October 2005 for running automobiles. Initially 5% dihydrogen has been mixed in CNG for use in four-wheeler vehicles.
+285T Energy released on combustion in kJ per gram: dihydrogen (gas) 143, dihydrogen (liquid) 142, LPG 50, CH4 gas 53, octane (liquid) 47.
+297+298 The H-H bond dissociation enthalpy of dihydrogen (435.88 kJ mol^-1) is the highest for a single bond between two atoms of any elements. This property is made use of in the atomic hydrogen torch which generates a temperature of ~4000K and is ideal for welding of high melting metals.
+303 Metallic hydrides are useful for ultrapurification of dihydrogen and as dihydrogen storage media.
+312 Hydrogen bonding is the maximum in ice and least in water vapour.
+316+317 Heavy water, D2O is another important compound which is manufactured by the electrolytic enrichment of normal water. It is essentially used as a moderator in nuclear reactors.

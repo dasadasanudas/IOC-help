@@ -1,0 +1,184 @@
+@src d
+# Position and electronic configuration
+1 The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.
+5 There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.
+7 Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.
+8! Zinc, cadmium and mercury of group 12 have full d^10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.
+23! In general the electronic configuration of outer orbitals of these elements is (n-1)d^1–10 ns^1–2 except for Pd where its electronic configuration is 4d^10 5s^0.
+25 However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals.
+26 Furthermore, half and completely filled sets of orbitals are relatively more stable.
+28! For example, consider the case of Cr, which has 3d^5 4s^1 configuration instead of 3d^4 4s^2; the energy gap between the two sets (3d and 4s) of orbitals is small enough to prevent electron entering the 3d orbitals.
+29! Similarly in case of Cu, the configuration is 3d^10 4s^1 and not 3d^9 4s^2.
+34 The d orbitals of the transition elements protrude to the periphery of an atom more than the other orbitals (i.e., s and p), hence, they are more influenced by the surroundings as well as affect the atoms or molecules surrounding them.
+36 With partly filled d orbitals these elements exhibit certain characteristic properties such as display of a variety of oxidation states, formation of coloured ions and entering into complex formation with a variety of ligands.
+39 There are greater similarities in the properties of the transition elements of a horizontal row in contrast to the non-transition elements.
+41 On the basis of incompletely filled 3d orbitals in case of scandium atom in its ground state (3d^1), it is regarded as a transition element.
+430 Silver (Z = 47) can exhibit +2 oxidation state wherein it will have incompletely filled d-orbitals (4d^9), hence a transition element.
+# Physical properties
+45 Nearly all the transition elements display typical metallic properties such as high tensile strength, ductility, malleability, high thermal and electrical conductivity and metallic lustre.
+46! With the exceptions of Zn, Cd, Hg and Mn, they have one or more typical metallic structures at normal temperatures.
+47 The transition metals (with the exception of Zn, Cd and Hg) are very hard and have low volatility.
+50 The high melting points of these metals are attributed to the involvement of greater number of electrons from (n-1)d in addition to the ns electrons in the interatomic metallic bonding.
+51! In any row the melting points of these metals rise to a maximum at d^5 except for anomalous values of Mn and Tc and fall regularly as the atomic number increases.
+53+54 The maxima at about the middle of each series indicate that one unpaired electron per d orbital is particularly favourable for strong interatomic interaction.
+56 Since the enthalpy of atomisation is an important factor in determining the standard electrode potential of a metal, metals with very high enthalpy of atomisation (i.e., very high boiling point) tend to be noble in their reactions.
+57 Another generalisation that may be drawn from Fig. 4.2 is that the metals of the second and third series have greater enthalpies of atomisation than the corresponding elements of the first series; this is an important factor in accounting for the occurrence of much more frequent metal – metal bonding in compounds of the heavy transition metals.
+92! In the series Sc (Z = 21) to Zn (Z = 30), the enthalpy of atomisation of zinc is the lowest, i.e., 126 kJ mol^–1.
+430 In the formation of metallic bonds, no eletrons from 3d-orbitals are involved in case of zinc, while in all other metals of the 3d series, electrons from the d-orbitals are always involved in the formation of metallic bonds.
+# Atomic and ionic sizes
+58 In general, ions of the same charge in a given series show progressive decrease in radius with increasing atomic number.
+59+60 This is because the new electron enters a d orbital each time the nuclear charge increases by unity. It may be recalled that the shielding effect of a d electron is not that effective, hence the net electrostatic attraction between the nuclear charge and the outermost electron increases and the ionic radius decreases.
+62 However, the variation within a series is quite small.
+64! The curves in Fig. 4.3 show an increase from the first (3d) to the second (4d) series of the elements but the radii of the third (5d) series are virtually the same as those of the corresponding members of the second series.
+65+66+67 This phenomenon is associated with the intervention of the 4f orbitals which must be filled before the 5d series of elements begin. The filling of 4f before 5d orbital results in a regular decrease in atomic radii called Lanthanoid contraction which essentially compensates for the expected increase in atomic size with increasing atomic number.
+68! The net result of the lanthanoid contraction is that the second and the third d series exhibit similar radii (e.g., Zr 160 pm, Hf 159 pm) and have very similar physical and chemical properties much more than that expected on the basis of usual family relationship.
+70 However, the shielding of one 4f electron by another is less than that of one d electron by another, and as the nuclear charge increases along the series, there is fairly regular decrease in the size of the entire 4f^n orbitals.
+71+72 The decrease in metallic radius coupled with increase in atomic mass results in a general increase in the density of these elements. Thus, from titanium (Z = 22) to copper (Z = 29) the significant increase in the density may be noted.
+# Ionisation enthalpies
+76 There is an increase in ionisation enthalpy along each series of the transition elements from left to right due to an increase in nuclear charge which accompanies the filling of the inner d orbitals.
+79 The variation in ionisation enthalpy along a series of transition elements is much less in comparison to the variation along a period of non-transition elements.
+82 You have learnt that when d-block elements form ions, ns electrons are lost before (n – 1) d electrons.
+84+85+86 These 3d electrons shield the 4s electrons from the increasing nuclear charge somewhat more effectively than the outer shell electrons can shield one another. Therefore, the atomic radii decrease less rapidly. Thus, ionization energies increase only slightly along the 3d series.
+89+90! However, the trend of steady increase in second and third ionisation enthalpy breaks for the formation of Mn^2+ and Fe^3+ respectively. In both the cases, ions have d^5 configuration.
+96 Exchange energy is approximately proportional to the total number of possible pairs of parallel spins in the degenerate orbitals.
+101! Mn^+ has 3d^5 4s^1 configuration and configuration of Cr^+ is d^5, therefore, ionisation enthalpy of Mn^+ is lower than Cr^+.
+102+103+104! In the same way, Fe^2+ has d^6 configuration and Mn^2+ has 3d^5 configuration. Hence, ionisation enthalpy of Fe^2+ is lower than the Mn^2+. In other words, we can say that the third ionisation enthalpy of Fe is lower than that of Mn.
+106! The dominant term is the second ionisation enthalpy which shows unusually high values for Cr and Cu where M^+ ions have the d^5 and d^10 configurations respectively.
+107! The value for Zn is correspondingly low as the ionisation causes the removal of one 4s electron which results in the formation of stable d^10 configuration.
+108 The trend in the third ionisation enthalpies is not complicated by the 4s orbital factor and shows the greater difficulty of removing an electron from the d^5 (Mn^2+) and d^10 (Zn^2+) ions.
+110 Also the high values for third ionisation enthalpies of copper, nickel and zinc indicate why it is difficult to obtain oxidation state greater than two for these elements.
+# Oxidation states
+115+116 The elements which give the greatest number of oxidation states occur in or near the middle of the series. Manganese, for example, exhibits all the oxidation states from +2 to +7.
+117 The lesser number of oxidation states at the extreme ends stems from either too few electrons to lose or share (Sc, Ti) or too many d electrons (hence fewer orbitals available in which to share electrons with others) for higher valence (Cu, Zn).
+118+119! Thus, early in the series scandium(II) is virtually unknown and titanium (IV) is more stable than Ti(III) or Ti(II). At the other end, the only oxidation state of zinc is +2 (no d electrons are involved).
+120 The maximum oxidation states of reasonable stability correspond in value to the sum of the s and d electrons upto manganese (TiO2, VO2^+, CrO4^2–, MnO4^–) followed by a rather abrupt decrease in stability of higher oxidation states, so that the typical species to follow are Fe(II,III), Co(II,III), Ni(II), Cu(I,II), Zn(II).
+121+122 The variability of oxidation states, a characteristic of transition elements, arises out of incomplete filling of d orbitals in such a way that their oxidation states differ from each other by unity, e.g., V(II), V(III), V(IV), V(V). This is in contrast with the variability of oxidation states of non transition elements where oxidation states normally differ by a unit of two.
+124+125! Although in the p–block the lower oxidation states are favoured by the heavier members (due to inert pair effect), the opposite is true in the groups of d-block. For example, in group 6, Mo(VI) and W(VI) are found to be more stable than Cr(VI).
+126 Thus Cr(VI) in the form of dichromate in acidic medium is a strong oxidising agent, whereas MoO3 and WO3 are not.
+127+128 Low oxidation states are found when a complex compound has ligands capable of π-acceptor character in addition to the σ-bonding. For example, in Ni(CO)4 and Fe(CO)5, the oxidation state of nickel and iron is zero.
+130! Scandium (Z = 21) does not exhibit variable oxidation states.
+# M²⁺/M standard electrode potentials
+133+134! The unique behaviour of Cu, having a positive E°, accounts for its inability to liberate H2 from acids. Only oxidising acids (nitric and hot concentrated sulphuric) react with Cu, the acids being reduced.
+135 The high energy to transform Cu(s) to Cu^2+(aq) is not balanced by its hydration enthalpy.
+136+141 The general trend towards less negative E° values across the series is related to the general increase in the sum of the first and second ionisation enthalpies.
+142! It is interesting to note that the value of E° for Mn, Ni and Zn are more negative than expected from the trend.
+172! Whereas the stabilities of half-filled d subshell (d^5) in Mn^2+ and completely filled d subshell (d^10) in zinc are related to their E° values; for nickel, E° value is related to the highest negative enthalpy of hydration.
+138+139! Cr^2+ is reducing as its configuration changes from d^4 to d^3, the latter having a half-filled t2g level.
+140! On the other hand, the change from Mn^3+ to Mn^2+ results in the half-filled (d^5) configuration which has extra stability.
+430! Cr^2+ is stronger reducing agent than Fe^2+.
+# M³⁺/M²⁺ standard electrode potentials
+145 The low value for Sc reflects the stability of Sc^3+ which has a noble gas configuration.
+146 The highest value for Zn is due to the removal of an electron from the stable d^10 configuration of Zn^2+.
+147! The comparatively high value for Mn shows that Mn^2+ (d^5) is particularly stable, whereas comparatively low value for Fe shows the extra stability of Fe^3+ (d^5).
+148 The comparatively low value for V is related to the stability of V^2+ (half-filled t2g level).
+164+165! Much larger third ionisation energy of Mn (where the required change is d^5 to d^4) is mainly responsible for this. This also explains why the +3 state of Mn is of little importance.
+# Stability of higher oxidation states
+150 The highest oxidation numbers are achieved in TiX4 (tetrahalides), VF5 and CrF6.
+150 The +7 state for Mn is not represented in simple halides but MnO3F is known, and beyond Mn no metal has a trihalide except FeX3 and CoF3.
+150 The ability of fluorine to stabilise the highest oxidation state is due to either higher lattice energy as in the case of CoF3, or higher bond enthalpy terms for the higher covalent compounds, e.g., VF5 and CrF6.
+150 Although V(+5) is represented only by VF5, the other halides, however, undergo hydrolysis to give oxohalides, VOX3.
+150+151! Another feature of fluorides is their instability in the low oxidation states e.g., VX2 (X = CI, Br or I) and the same applies to CuX. On the other hand, all Cu(II) halides are known except the iodide.
+152! In this case, Cu^2+ oxidises I^– to I2: 2Cu^2+ + 4I^– → Cu2I2(s) + I2
+152! However, many copper (I) compounds are unstable in aqueous solution and undergo disproportionation. 2Cu^+ → Cu^2+ + Cu
+152! The stability of Cu^2+(aq) rather than Cu^+(aq) is due to the much more negative Δ_hydH° of Cu^2+(aq) than Cu^+, which more than compensates for the second ionisation enthalpy of Cu.
+153 The highest oxidation number in the oxides coincides with the group number and is attained in Sc2O3 to Mn2O7.
+153! Beyond Group 7, no higher oxides of Fe above Fe2O3, are known, although ferrates (VI)(FeO4)^2–, are formed in alkaline media but they readily decompose to Fe2O3 and O2.
+153 Besides the oxides, oxocations stabilise V(V) as VO2^+, V(IV) as VO^2+ and Ti(IV) as TiO^2+.
+154+155! The ability of oxygen to stabilise these high oxidation states exceeds that of fluorine. Thus the highest Mn fluoride is MnF4 whereas the highest oxide is Mn2O7. The ability of oxygen to form multiple bonds to metals explains its superiority.
+156 In the covalent oxide Mn2O7, each Mn is tetrahedrally surrounded by O’s including a Mn–O–Mn bridge.
+157 The tetrahedral [MO4]^n– ions are known for V(V), Cr(VI), Mn(V), Mn(VI) and Mn(VII).
+158+159 How would you account for the increasing oxidising power in the series VO2^+ < Cr2O7^2– < MnO4^–? This is due to the increasing stability of the lower species to which they are reduced.
+430 Because of small size and high electronegativity oxygen or fluorine can oxidise the metal to its highest oxidation state.
+# Chemical reactivity and E° values
+166 Many of them are sufficiently electropositive to dissolve in mineral acids, although a few are ‘noble’—that is, they are unaffected by single acids.
+167 The metals of the first series with the exception of copper are relatively more reactive and are oxidised by 1M H^+, though the actual rate at which these metals react with oxidising agents like hydrogen ion (H^+) is sometimes slow.
+168! For example, titanium and vanadium, in practice, are passive to dilute non oxidising acids at room temperature.
+169 The E° values for M^2+/M indicate a decreasing tendency to form divalent cations across the series.
+173 An examination of the E° values for the redox couple M^3+/M^2+ shows that Mn^3+ and Co^3+ ions are the strongest oxidising agents in aqueous solutions.
+174 The ions Ti^2+, V^2+ and Cr^2+ are strong reducing agents and will liberate hydrogen from a dilute acid, e.g., 2Cr^2+(aq) + 2H^+(aq) → 2Cr^3+(aq) + H2(g)
+# Magnetic properties
+176 Diamagnetic substances are repelled by the applied field while the paramagnetic substances are attracted.
+177+178+179 Substances which are attracted very strongly are said to be ferromagnetic. In fact, ferromagnetism is an extreme form of paramagnetism.
+181 Paramagnetism arises from the presence of unpaired electrons, each such electron having a magnetic moment associated with its spin angular momentum and orbital angular momentum.
+182 For the compounds of the first series of transition metals, the contribution of the orbital angular momentum is effectively quenched and hence is of no significance.
+183 For these, the magnetic moment is determined by the number of unpaired electrons and is calculated by using the ‘spin-only’ formula, i.e., μ = √(n(n+2)) where n is the number of unpaired electrons and µ is the magnetic moment in units of Bohr magneton (BM).
+184 A single unpaired electron has a magnetic moment of 1.73 Bohr magnetons (BM).
+189T Table 4.7, calculated spin-only moments (BM): Ti^3+ 3d^1 1.73, V^2+ 3d^3 3.87, Cr^2+ 3d^4 4.90, Mn^2+ 3d^5 5.92, Fe^2+ 3d^6 4.90, Co^2+ 3d^7 3.87, Ni^2+ 3d^8 2.84, Cu^2+ 3d^9 1.73 BM.
+# Coloured ions
+193+194 When an electron from a lower energy d orbital is excited to a higher energy d orbital, the energy of excitation corresponds to the frequency of light absorbed. This frequency generally lies in the visible region.
+195+196 The colour observed corresponds to the complementary colour of the light absorbed. The frequency of the light absorbed is determined by the nature of the ligand.
+192T Table 4.8, colours of aquated ions: Sc^3+ colourless, Ti^4+ colourless, Ti^3+ purple, V^4+ blue, V^3+ green, V^2+ violet, Cr^3+ violet, Mn^3+ violet, Cr^2+ blue, Mn^2+ pink, Fe^3+ yellow, Fe^2+ green, Co^3+ blue, Co^2+ pink, Ni^2+ green, Cu^2+ blue, Zn^2+ colourless.
+# Complexes, catalysis, interstitials, alloys
+200+201 Complex compounds are those in which the metal ions bind a number of anions or neutral molecules giving complex species with characteristic properties. A few examples are: [Fe(CN)6]^3–, [Fe(CN)6]^4–, [Cu(NH3)4]^2+ and [PtCl4]^2–.
+204+205 The transition metals form a large number of complex compounds. This is due to the comparatively smaller sizes of the metal ions, their high ionic charges and the availability of d orbitals for bond formation.
+206+207 The transition metals and their compounds are known for their catalytic activity. This activity is ascribed to their ability to adopt multiple oxidation states and to form complexes.
+208 Vanadium(V) oxide (in Contact Process), finely divided iron (in Haber’s Process), and nickel (in Catalytic Hydrogenation) are some of the examples.
+209 Catalysts at a solid surface involve the formation of bonds between reactant molecules and atoms of the surface of the catalyst (first row transition metals utilise 3d and 4s electrons for bonding).
+210 This has the effect of increasing the concentration of the reactants at the catalyst surface and also weakening of the bonds in the reacting molecules (the activation energy is lowering).
+212 For example, iron(III) catalyses the reaction between iodide and persulphate ions. 2I^– + S2O8^2– → I2 + 2SO4^2–
+212 An explanation of this catalytic action can be given as: 2Fe^3+ + 2I^– → 2Fe^2+ + I2; 2Fe^2+ + S2O8^2– → 2Fe^3+ + 2SO4^2–
+212+213 Interstitial compounds are those which are formed when small atoms like H, C or N are trapped inside the crystal lattices of metals. They are usually non stoichiometric and are neither typically ionic nor covalent, for example, TiC, Mn4N, Fe3H, VH0.56 and TiH1.7, etc.
+214+215+216+217 The principal physical and chemical characteristics of these compounds are as follows: (i) They have high melting points, higher than those of pure metals. (ii) They are very hard, some borides approach diamond in hardness. (iii) They retain metallic conductivity. (iv) They are chemically inert.
+219+220 Alloys may be homogeneous solid solutions in which the atoms of one metal are distributed randomly among the atoms of the other. Such alloys are formed by atoms with metallic radii that are within about 15 percent of each other.
+222 The alloys so formed are hard and have often high melting points.
+223 The best known are ferrous alloys: chromium, vanadium, tungsten, molybdenum and manganese are used for the production of a variety of steels and stainless steel.
+224 Alloys of transition metals with non transition metals such as brass (copper-zinc) and bronze (copper-tin), are also of considerable industrial importance.
+# Oxides and oxoanions
+227 When a particular oxidation state becomes less stable relative to other oxidation states, one lower, one higher, it is said to undergo disproportionation.
+228 For example, manganese (VI) becomes unstable relative to manganese(VII) and manganese (IV) in acidic solution. 3MnO4^2– + 4H^+ → 2MnO4^– + MnO2 + 2H2O
+229! All the metals except scandium form MO oxides which are ionic.
+232+233! As the oxidation number of a metal increases, ionic character decreases. In the case of Mn, Mn2O7 is a covalent green oil.
+234+235 Even CrO3 and V2O5 have low melting points. In these higher oxides, the acidic character is predominant.
+236 Thus, Mn2O7 gives HMnO4 and CrO3 gives H2CrO4 and H2Cr2O7.
+237! V2O5 is, however, amphoteric though mainly acidic and it gives VO4^3– as well as VO2^+ salts.
+238 In vanadium there is gradual change from the basic V2O3 to less basic V2O4 and to amphoteric V2O5. V2O4 dissolves in acids to give VO^2+ salts.
+240 The well characterised CrO is basic but Cr2O3 is amphoteric.
+# Potassium dichromate
+241 Potassium dichromate is a very important chemical used in leather industry and as an oxidant for preparation of many azo compounds.
+242 Dichromates are generally prepared from chromate, which in turn are obtained by the fusion of chromite ore (FeCr2O4) with sodium or potassium carbonate in free access of air.
+243 The reaction with sodium carbonate occurs as follows: 4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2
+243 The yellow solution of sodium chromate is filtered and acidified with sulphuric acid to give a solution from which orange sodium dichromate, Na2Cr2O7·2H2O can be crystallised. 2Na2CrO4 + 2H^+ → Na2Cr2O7 + 2Na^+ + H2O
+244+245 Sodium dichromate is more soluble than potassium dichromate. The latter is therefore, prepared by treating the solution of sodium dichromate with potassium chloride.
+246 Na2Cr2O7 + 2KCl → K2Cr2O7 + 2NaCl. Orange crystals of potassium dichromate crystallise out.
+247+248 The chromates and dichromates are interconvertible in aqueous solution depending upon pH of the solution. The oxidation state of chromium in chromate and dichromate is the same.
+248 2CrO4^2– + 2H^+ → Cr2O7^2– + H2O; Cr2O7^2– + 2OH^- → 2CrO4^2– + H2O
+249 The chromate ion is tetrahedral whereas the dichromate ion consists of two tetrahedra sharing one corner with Cr–O–Cr bond angle of 126°.
+250 Sodium and potassium dichromates are strong oxidising agents; the sodium salt has a greater solubility in water and is extensively used as an oxidising agent in organic chemistry.
+251 Potassium dichromate is used as a primary standard in volumetric analysis.
+252 In acidic solution, its oxidising action can be represented as follows: Cr2O7^2– + 14H^+ + 6e^– → 2Cr^3+ + 7H2O (E° = 1.33V)
+252 Thus, acidified potassium dichromate will oxidise iodides to iodine, sulphides to sulphur, tin(II) to tin(IV) and iron(II) salts to iron(III).
+253 The half-reactions are noted below: 6I^– → 3I2 + 6e^–; 3Sn^2+ → 3Sn^4+ + 6e^–; 3H2S → 6H^+ + 3S + 6e^–; 6Fe^2+ → 6Fe^3+ + 6e^–
+253 Cr2O7^2– + 14H^+ + 6Fe^2+ → 2Cr^3+ + 6Fe^3+ + 7H2O
+# Potassium permanganate
+253 Potassium permanganate is prepared by fusion of MnO2 with an alkali metal hydroxide and an oxidising agent like KNO3. This produces the dark green K2MnO4 which disproportionates in a neutral or acidic solution to give permanganate.
+253 2MnO2 + 4KOH + O2 → 2K2MnO4 + 2H2O; 3MnO4^2– + 4H^+ → 2MnO4^– + MnO2 + 2H2O
+253 Commercially it is prepared by the alkaline oxidative fusion of MnO2 followed by the electrolytic oxidation of manganate (VI).
+255 In the laboratory, a manganese (II) ion salt is oxidised by peroxodisulphate to permanganate. 2Mn^2+ + 5S2O8^2– + 8H2O → 2MnO4^– + 10SO4^2– + 16H^+
+255 Potassium permanganate forms dark purple (almost black) crystals which are isostructural with those of KClO4.
+255 The salt is not very soluble in water (6.4 g/100 g of water at 293 K), but when heated it decomposes at 513 K. 2KMnO4 → K2MnO4 + MnO2 + O2
+255 It has two physical properties of considerable interest: its intense colour and its diamagnetism along with temperature-dependent weak paramagnetism.
+257 The manganate and permanganate ions are tetrahedral; the π-bonding takes place by overlap of p orbitals of oxygen with d orbitals of manganese.
+258 The green manganate is paramagnetic because of one unpaired electron but the permanganate is diamagnetic due to the absence of unpaired electron.
+261 MnO4^– + e^– → MnO4^2– (E° = +0.56 V); MnO4^– + 4H^+ + 3e^– → MnO2 + 2H2O (E° = +1.69 V); MnO4^– + 8H^+ + 5e^– → Mn^2+ + 4H2O (E° = +1.52 V)
+261 We can very well see that the hydrogen ion concentration of the solution plays an important part in influencing the reaction.
+263! Permanganate at [H^+] = 1 should oxidise water but in practice the reaction is extremely slow unless either manganese(II) ions are present or the temperature is raised.
+265 In acid solutions: (a) Iodine is liberated from potassium iodide: 10I^– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 5I2
+265 (b) Fe^2+ ion (green) is converted to Fe^3+ (yellow): 5Fe^2+ + MnO4^– + 8H^+ → Mn^2+ + 4H2O + 5Fe^3+
+266 (c) Oxalate ion or oxalic acid is oxidised at 333 K: 5C2O4^2– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 10CO2
+266 (d) Hydrogen sulphide is oxidised, sulphur being precipitated: 5S^2– + 2MnO4^– + 16H^+ → 2Mn^2+ + 8H2O + 5S
+266 (e) Sulphurous acid or sulphite is oxidised to a sulphate or sulphuric acid: 5SO3^2– + 2MnO4^– + 6H^+ → 2Mn^2+ + 3H2O + 5SO4^2–
+266 (f) Nitrite is oxidised to nitrate: 5NO2^– + 2MnO4^– + 6H^+ → 2Mn^2+ + 5NO3^– + 3H2O
+267 In neutral or faintly alkaline solutions: (a) A notable reaction is the oxidation of iodide to iodate: 2MnO4^– + H2O + I^– → 2MnO2 + 2OH^– + IO3^–
+267 (b) Thiosulphate is oxidised almost quantitatively to sulphate: 8MnO4^– + 3S2O3^2– + H2O → 8MnO2 + 6SO4^2– + 2OH^–
+267 (c) Manganous salt is oxidised to MnO2; the presence of zinc sulphate or zinc oxide catalyses the oxidation: 2MnO4^– + 3Mn^2+ + 2H2O → 5MnO2 + 4H^+
+267! Note: Permanganate titrations in presence of hydrochloric acid are unsatisfactory since hydrochloric acid is oxidised to chlorine.
+268+269 Besides its use in analytical chemistry, potassium permanganate is used as a favourite oxidant in preparative organic chemistry. Its uses for the bleaching of wool, cotton, silk and other textile fibres and for the decolourisation of oils are also dependent on its strong oxidising power.
+391 Pyrolusite ore (MnO2) is used for the preparation of potassium permanganate.
+# Applications
+360 Some compounds are manufactured for special purposes such as TiO for the pigment industry and MnO2 for use in dry battery cells.
+361 The battery industry also requires Zn and Ni/Cd.
+367 V2O5 catalyses the oxidation of SO2 in the manufacture of sulphuric acid.
+368 TiCl4 with Al(CH3)3 forms the basis of the Ziegler catalysts used to manufacture polyethylene (polythene).
+369+370 Iron catalysts are used in the Haber process for the production of ammonia from N2/H2 mixtures. Nickel catalysts enable the hydrogenation of fats to proceed.
+371 In the Wacker process the oxidation of ethyne to ethanal is catalysed by PdCl2. Nickel complexes are useful in the polymerisation of alkynes and other organic compounds such as benzene.
+372 The photographic industry relies on the special light-sensitive properties of AgBr.

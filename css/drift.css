@@ -1,0 +1,32 @@
+.drift { position: fixed; inset: 0; z-index: 50; background: radial-gradient(ellipse at 30% 0%, #1b3a86 0%, var(--prussian-deep) 62%, #081536 100%); color: #eef2fb; display: flex; flex-direction: column; animation: fade .3s; }
+@keyframes fade { from { opacity: 0; } }
+.drift-bar { display: flex; justify-content: space-between; align-items: center; padding: 22px 32px; gap: 16px; flex-wrap: wrap; }
+.drift-brand { font: 800 22px var(--head); letter-spacing: -0.03em; }
+.drift-brand span { color: var(--dichromate); }
+.drift select { appearance: none; background: rgba(255,255,255,.08); border: 1.5px solid rgba(255,255,255,.18); color: #fff; font: 600 15px var(--head); padding: 10px 18px; border-radius: 999px; cursor: pointer; }
+.drift select option { color: var(--ink); }
+.ghost { border: 1.5px solid rgba(255,255,255,.18); background: rgba(255,255,255,.06); color: #fff; height: 44px; min-width: 44px; padding: 0 14px; border-radius: 999px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; gap: 8px; font: 600 15px var(--head); transition: background .15s; }
+.ghost:hover { background: rgba(255,255,255,.14); }
+.ghost.on { background: #fff; color: var(--prussian-deep); border-color: #fff; }
+.ghost.pinned { color: var(--dichromate); border-color: var(--dichromate); }
+.ghost.pinned svg { fill: var(--dichromate); }
+.drift-stage { flex: 1; display: grid; place-items: center; padding: 0 8vw; overflow: hidden; }
+.drift-card { max-width: 1000px; width: 100%; }
+.drift-card.in { animation: driftIn .38s cubic-bezier(.2,.8,.2,1); }
+.drift-card.back { animation: driftBack .38s cubic-bezier(.2,.8,.2,1); }
+@keyframes driftIn { from { opacity: 0; transform: translateX(40px); filter: blur(6px); } }
+@keyframes driftBack { from { opacity: 0; transform: translateX(-40px); filter: blur(6px); } }
+.drift-kind { font: 700 16px var(--head); letter-spacing: .14em; text-transform: uppercase; color: var(--kd); }
+.drift-title { font: 700 clamp(30px, 4.4vw, 54px)/1.18 var(--body); margin: 16px 0 26px; letter-spacing: -0.01em; }
+.drift-title.line { font-size: clamp(26px, 3.2vw, 40px); line-height: 1.38; font-weight: 400; }
+.drift-title.line strong { color: #fff; }
+.drift-lines { list-style: none; margin: 0; padding: 0; }
+.drift-lines li { font-size: clamp(19px, 2vw, 24px); line-height: 1.55; color: #cfd8ee; padding: 8px 0; }
+.drift-colour { display: flex; align-items: center; gap: 48px; margin-top: 34px; flex-wrap: wrap; }
+.drift .well { box-shadow: inset 0 4px 10px rgba(0,0,0,.35), 0 0 0 8px rgba(255,255,255,.95), 0 0 0 10px rgba(255,255,255,.25), 0 18px 40px -10px rgba(0,0,0,.6); }
+.drift-foot { display: flex; justify-content: space-between; align-items: center; padding: 22px 32px 28px; gap: 16px; flex-wrap: wrap; }
+.drift-count { font: 600 15px var(--head); color: #9fb0d8; }
+.drift-progress { position: absolute; left: 0; top: 0; height: 3px; background: var(--dichromate); width: 0; }
+.drift-progress.run { animation: prog linear forwards; }
+@keyframes prog { to { width: 100%; } }
+.keys { font: 500 14px var(--head); color: #8ea0cc; }

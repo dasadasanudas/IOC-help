@@ -1,0 +1,167 @@
+ee24e1|Simplest atom: one proton, one electron; elemental form is diatomic H2 (dihydrogen).
+9ad501|Forms more compounds than any other element.
+7a32f5|H is 1s^1: like alkali metals (ns^1), and like halogens (ns^2np^5) it is one electron short of a noble gas (He, 1s^2).
+6eabab|So it resembles alkali metals (forms H^+) and halogens (forms H^–).
+a648d2|Like alkali metals: forms oxides, halides, sulphides.
+b2d41b|Unlike alkali metals: very high ionization enthalpy, no metallic character under normal conditions.
+08fc87|In ionization enthalpy it resembles halogens: ∆iH Li 520, H 1312, F 1680 kJ mol^-1.
+b9aea1|Like halogens: diatomic, forms hydrides and many covalent compounds; but far less reactive than halogens.
+51385c|-
+0f9211|H^+ (bare nucleus, ~1.5×10^-3 pm) is tiny vs normal sizes (50–200 pm), so **H^+ never exists free**; it is always associated with other atoms or molecules.
+58afe6|Unique behaviour, so best placed separately in the periodic table.
+f04b07|H is the most abundant element in the universe (70% of total mass) and the principal element of the solar atmosphere.
+235844|Only 0.15% by mass of the earth's atmosphere (it is light); 15.4% of crust and oceans in combined form.
+8dca29|Isotopes: protium ^1H (0 neutrons), deuterium ^2H = D (1), tritium ^3H = T (2).
+cb63b8|-
+758bb4|Protium predominates; D is 0.0156% (mostly as HD); T ≈ 1 atom per 10^18 H.
+c08c15|**Only tritium is radioactive**: low-energy β^– emitter, t½ 12.33 years.
+5976b1|=
+2c31fd|Isotopes have the same electronic configuration, so nearly the same chemistry; they differ only in reaction rates (different bond dissociation enthalpy).
+ad1d7c|Physical properties differ considerably (large mass differences).
+d15337|Lab: granulated Zn + dilute HCl. Zn + 2H^+ → Zn^2+ + H2
+a11cba|Zn + aqueous alkali: Zn + 2NaOH → Na2ZnO2 (sodium zincate) + H2
+0c1f31|Electrolysis of acidified water (Pt electrodes): 2H2O(l) → 2H2(g) + O2(g)
+fde852|Highest purity (>99.95%) H2: electrolysis of warm aqueous Ba(OH)2 between Ni electrodes.
+20ea41|By-product of NaOH and Cl2 manufacture by electrolysis of brine.
+ab6869|Brine electrolysis: anode 2Cl^-(aq) → Cl2(g) + 2e^-; cathode 2H2O(l) + 2e^- → H2(g) + 2OH^-(aq)
+1017a1|Steam + hydrocarbons or coke at high T with catalyst: CnH2n+2 + nH2O → nCO + (3n + 1)H2; CH4(g) + H2O(g) → CO(g) + 3H2(g) (1270 K, Ni)
+df3b4b|CO + H2 = water gas; also called synthesis gas ('syngas') since it is used to make methanol and hydrocarbons.
+d760f6|Syngas from coal = coal gasification: C(s) + H2O(g) → CO(g) + H2(g) (1270 K). Syngas is also made from sewage, saw-dust, scrap wood, newspapers.
+4be787|**Water-gas shift reaction**: CO(g) + H2O(g) → CO2(g) + H2(g) (673 K, iron chromate catalyst); raises the H2 yield.
+7f0662|CO2 removed by scrubbing with sodium arsenite solution.
+15954d|-
+f6b099|H2: colourless, odourless, tasteless, combustible; lighter than air; insoluble in water.
+b4d25d|**H–H bond dissociation enthalpy is the highest for a single bond between two atoms of any element.**
+ab6143|So H2 dissociates only ~0.081% at 2000 K (95.5% at 5000 K), and is fairly inert at room temperature.
+05e5a4|Atomic H is made at high T in an electric arc or under UV radiation.
+ec4180|Incomplete 1s^1, so it combines with almost all elements.
+644655|It reacts by (i) losing its electron (H^+), (ii) gaining one (H^-), (iii) sharing to form a single covalent bond.
+91f673|H2(g) + X2(g) → 2HX(g). **With F2 even in the dark; with I2 a catalyst is needed.**
+7ce099|2H2(g) + O2(g) → 2H2O(l) (catalyst or heating); highly exothermic, ∆H° = -285.9 kJ mol^-1
+556579|**Haber process**: 3H2(g) + N2(g) → 2NH3(g) (673 K, 200 atm, Fe); ∆H° = -92.6 kJ mol^-1
+f4530f|With alkali metals at high T: H2(g) + 2M(g) → 2MH(s)
+f69888|Reduces some metal ions and oxides of metals less active than iron: H2(g) + Pd^2+(aq) → Pd(s) + 2H^+(aq); yH2(g) + MxOy(s) → xM(s) + yH2O(l)
+6e5075|Hydrogenation of vegetable oils (Ni catalyst) gives edible fats (margarine, vanaspati ghee).
+2805a5|Hydroformylation: H2 + CO + RCH=CH2 → RCH2CH2CHO; then H2 + RCH2CH2CHO → RCH2CH2CH2OH
+03ccb6|With Cl2: H2 is oxidised (to H^+) and Cl2 reduced; HCl is covalent (shared pair).
+74463b|With Na: H2 is reduced; e^- transferred from Na to H, giving ionic NaH.
+512e2a|Largest single use: synthesis of NH3 (for HNO3 and nitrogenous fertilisers).
+8d77c4|Vanaspati fat by hydrogenation of polyunsaturated vegetable oils.
+b37e86|Methanol: CO(g) + 2H2(g) → CH3OH(l) (cobalt catalyst)
+13bcb7|§Properties of dihydrogen§With CuO: H2 reduces Cu(II) to Cu(0) and is oxidised to covalent H2O.
+71ce69|Reduces heavy metal oxides in metallurgy; atomic hydrogen and oxy-hydrogen torches for cutting and welding.
+6a7842|Atomic hydrogen torch: H atoms from an electric arc recombine on the surface being welded, reaching ~4000 K.
+85342a|Rocket fuel; fuel cells for electrical energy.
+95558b|As fuel: no pollution, more energy per unit mass than gasoline.
+7df2e8|H2 forms binary hydrides with almost all elements **except noble gases**.
+3e3837|Formula EHx (e.g. MgH2) or EmHn (e.g. B2H6).
+0dffbc|Three classes: ionic (saline), covalent (molecular), metallic (non-stoichiometric).
+a93540|Ionic hydrides: stoichiometric; formed by most s-block (highly electropositive) elements.
+7f07f8|**LiH, BeH2, MgH2 have significant covalent character; BeH2 and MgH2 are polymeric.**
+26c4a5|Ionic hydrides: crystalline, non-volatile, non-conducting as solids; melts conduct and give H2 at the **anode**, proving H^-.
+19f8f6|React violently with water: NaH(s) + H2O(aq) → NaOH(aq) + H2(g)
+8ca6e7|LiH is fairly unreactive with O2/Cl2 at moderate T, so used to make other hydrides: 8LiH + Al2Cl6 → 2LiAlH4 + 6LiCl; 2LiH + B2H6 → 2LiBH4
+eec37d|Molecular hydrides: with most p-block elements (CH4, NH3, H2O, HF).
+dcf113|Covalent, hence volatile.
+4f1d05|Molecular hydrides: electron-deficient, electron-precise, electron-rich.
+31551b|Electron-deficient: too few electrons for a Lewis structure, e.g. B2H6; all group 13 elements form them.
+511a2e|Electron-deficient hydrides are Lewis acids.
+43a196|Electron-precise: exactly enough electrons; group 14 (e.g. CH4), tetrahedral.
+4a3448|Electron-rich: lone pairs; groups 15–17 (NH3 1 lp, H2O 2, HF 3).
+f5141c|Electron-rich hydrides are Lewis bases.
+fe5ed3|Lone pairs on N, O, F lead to H-bonding and molecular association.
+be9790|By molar mass alone, NH3, H2O, HF should boil lower than the next members' hydrides.
+6e8e03|**But H-bonding makes the b.p. of NH3, H2O, HF higher than the hydrides of the next members.**
+855da1|Metallic hydrides: many d- and f-block elements; **groups 7, 8, 9 form none.**
+e744b8|**In group 6 only Cr forms a hydride (CrH).** Metallic hydrides conduct heat and electricity, less well than the parent metals.
+adcbfc|Almost always non-stoichiometric (H-deficient): LaH2.87, YbH2.55, TiH1.5-1.8, ZrH1.3-1.75, VH0.56, NiH0.6-0.7, PdH0.6-0.8; law of constant composition fails.
+e1e68d|Once called interstitial hydrides (H thought to sit in lattice holes without changing the lattice type).
+c5600e|**Except for Ni, Pd, Ce, Ac hydrides, the lattice differs from the parent metal's.**
+9a5c1e|H absorption on transition metals is used in catalytic reduction/hydrogenation.
+37120b|Pd, Pt absorb very large volumes of H2, so they serve as storage media.
+f4d0d0|**P shows +3 and +5 but PH5 does not exist**: high ∆aH of H2 and ∆egH of H disfavour P's highest oxidation state.
+f71e09|-
+fa56bf|-
+4f6348|Water's unusual properties in liquid and solid come from extensive H-bonding.
+c262e4|Compared with H2S, H2Se: higher f.p., b.p., heat of vaporisation, heat of fusion. Compared with other liquids: higher specific heat, thermal conductivity, surface tension, dipole moment, dielectric constant.
+aa5295|-
+9f4791|=
+3187c2|Covalent alcohols and carbohydrates dissolve in water through H-bonding.
+0b215d|Gas phase H2O: bent, angle 104.5°, O–H 95.7 pm; highly polar.
+77aba9|Liquid: H-bonded associations. Ice: hexagonal at atmospheric pressure, cubic at very low temperature.
+326247|**Ice is less dense than water** (floats).
+09525d|Surface ice insulates a lake in winter, so aquatic life survives.
+321399|Ice: ordered 3D H-bonded structure; each O is surrounded tetrahedrally by four O at 276 pm.
+6fed9f|Open structure with wide holes that can hold small molecules interstitially.
+56c70c|Water is amphoteric: Brønsted acid with NH3, base with H2S.
+2bab5b|=
+e1d23e|Auto-protolysis: H2O(l) + H2O(l) ⇌ H3O^+(aq) + OH^-(aq)
+3df53d|Reduced to H2 by electropositive metals: 2H2O(l) + 2Na(s) → 2NaOH(aq) + H2(g)
+992880|Oxidised to O2 in photosynthesis: 6CO2 + 12H2O → C6H12O6 + 6H2O + 6O2; and by F2: 2F2(g) + 2H2O(l) → 4H^+(aq) + 4F^-(aq) + O2(g)
+6e2fac|High dielectric constant: strong hydrating tendency, dissolves many ionic compounds; some covalent and ionic compounds are hydrolysed.
+139d8b|=
+e3234a|Water in hydrates: coordinated [Cr(H2O)6]^3+ 3Cl^-; interstitial BaCl2·2H2O; H-bonded [Cu(H2O)4]^2+ SO4^2-·H2O in CuSO4·5H2O.
+3db265|**CuSO4·5H2O: 4 H2O coordinated, 1 H-bonded** (outside the coordination sphere).
+524b67|Hard water: Ca and Mg hydrogencarbonates, chlorides, sulphates; no lather with soap.
+d828d2|Soft water: no soluble Ca/Mg salts; lathers easily.
+eab049|Hard water forms scum with soap.
+405da3|2C17H35COONa(aq) + M^2+(aq) → (C17H35COO)2M↓ + 2Na^+(aq) (M = Ca/Mg); unsuitable for laundry.
+d45db7|Forms scale in boilers, lowering efficiency.
+137c02|Temporary hardness: Mg and Ca hydrogencarbonates. Permanent: chlorides and sulphates.
+dd5e8e|Boiling: Mg(HCO3)2 → insoluble Mg(OH)2; Ca(HCO3)2 → insoluble CaCO3.
+a4f672|**Mg gives Mg(OH)2, not MgCO3**: Mg(OH)2 has the lower solubility (Ksp of MgCO3 is higher).
+fc4689|=
+7f390d|Clark's method: calculated amount of lime precipitates CaCO3 and Mg(OH)2.
+5ff634|=
+df3bac|Permanent hardness (Ca/Mg chlorides and sulphates) is not removed by boiling.
+0403cf|Washing soda: MCl2 + Na2CO3 → MCO3↓ + 2NaCl; MSO4 + Na2CO3 → MCO3↓ + Na2SO4
+5ee9ad|Calgon (Na6P6O18): Na6P6O18 → 2Na^+ + Na4P6O18^2-; M^2+ + Na4P6O18^2- → [Na2MP6O18]^2- + 2Na^+. The complex anion keeps Mg^2+, Ca^2+ in solution.
+a0430c|Zeolite/permutit process: hydrated sodium aluminium silicate.
+022843|NaAlSiO4 written as NaZ: 2NaZ(s) + M^2+(aq) → MZ2(s) + 2Na^+(aq)
+cbf25d|Exhausted when all Na is used; regenerated with NaCl: MZ2(s) + 2NaCl(aq) → 2NaZ(s) + MCl2(aq)
+297095|Synthetic cation exchange resins (–SO3H, water-insoluble) are more efficient than zeolite.
+35f27a|RSO3H → RNa with NaCl; 2RNa(s) + M^2+(aq) → R2M(s) + 2Na^+(aq)
+db7ad1|Deionised water: cation exchanger (H^+ form) then anion exchanger (OH^- form). 2RH(s) + M^2+(aq) ⇌ MR2(s) + 2H^+(aq)
+d6c612|The cation step releases H^+, making the water acidic.
+48fe8d|Anion exchange: RNH2 + H2O ⇌ RNH3^+·OH^-; RNH3^+·OH^- + X^- ⇌ RNH3^+·X^- + OH^-; the OH^- neutralises the H^+.
+708df9|Regenerate: cation bed with dilute acid, anion bed with dilute alkali.
+8947ad|-
+720515|BaO2·8H2O(s) + H2SO4(aq) → BaSO4(s) + H2O2(aq) + 8H2O(l) (excess water removed under reduced pressure)
+fa7f97|Electrolytic oxidation of acidified sulphate at high current density gives peroxodisulphate, which hydrolyses to H2O2.
+79d816|2HSO4^- → HO3SOOSO3H (electrolysis) → 2HSO4^- + 2H^+ + H2O2 (hydrolysis). Now used for lab preparation of D2O2.
+cf02e2|=
+c64e02|Industrial: auto-oxidation of 2-alkylanthraquinols: 2-ethylanthraquinol ⇌ H2O2 + oxidised product (1% H2O2).
+073934|Concentrated to ~30% by distillation under reduced pressure, ~85% at low pressure; remaining water frozen out for pure H2O2.
+1b4996|Pure H2O2: almost colourless (very pale blue) liquid.
+8580df|Miscible with water in all proportions; hydrate H2O2·H2O (m.p. 221 K).
+d4ca58|30% H2O2 = '100 volume' (1 mL gives 100 mL O2 at STP); commercial 10 V = 3% H2O2.
+6ddfd8|H2O2 is non-planar.
+5ca226|Dihedral angle: 111.5° (gas), 90.2° (solid, 110 K).
+0bc438|Oxidant and reductant in both acidic and basic media.
+bbb365|=
+2f1267|=
+c5bb12|=
+416fb9|=
+98a5bb|Decomposes slowly in light: 2H2O2(l) → 2H2O(l) + O2(g); catalysed by metal surfaces or traces of alkali (from glass).
+795e0f|Stored in wax-lined glass or plastic vessels in the dark; urea as stabiliser; kept from dust (can cause explosive decomposition).
+766c7f|Hair bleach, mild disinfectant; antiseptic sold as perhydrol.
+050338|Used to make sodium perborate and percarbonate (detergents).
+7225f4|Used in synthesis of hydroquinone, tartaric acid, cephalosporin; bleach for textiles, paper pulp, leather, oils, fats.
+056eb3|Pollution control: oxidation of cyanides, restoring aerobic conditions in sewage.
+db0096|D2O: moderator in nuclear reactors; exchange reactions to study mechanisms.
+5d2641|Made by exhaustive electrolysis of water, or as a fertiliser-industry by-product.
+ccf606|Makes deuterium compounds: CaC2 + 2D2O → C2D2 + Ca(OD)2; SO3 + D2O → D2SO4; Al4C3 + 12D2O → 3CD4 + 4Al(OD)3
+f5b8a8|Mass for mass, H2 releases ~3× the energy of petrol, with fewer pollutants.
+45fbe3|Only pollutants: oxides of nitrogen (N2 impurity); minimised by injecting water to lower cylinder temperature.
+bef56f|-
+5ab651|Liquefied at 20 K; stored in small quantities in alloys NaNi5, Ti–TiH2, Mg–MgH2.
+bae0ac|Hydrogen economy: energy transported and stored as liquid or gaseous H2, not as electric power.
+003659|-
+06e828|=
+62ff71|-
+bb0ec1|§Hydrides§Metallic hydrides: used for ultrapurification of H2 and as H2 storage.
+69f543|§Water§Water is highly polar because it is bent.
+5e4ce2|§Water§H-bonding is maximum in ice, least in vapour.
+18b797|§Water§Polarity makes water a good solvent for ionic/partly ionic compounds, amphoteric, and a former of different hydrate types.
+a23226|§Hard and soft water§Zeolites and synthetic ion-exchangers remove both temporary and permanent hardness.
+aa4024|§Heavy water§D2O is made by electrolytic enrichment of normal water.

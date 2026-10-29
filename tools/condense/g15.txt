@@ -1,0 +1,223 @@
+1e199a|Group 15: N, P, As, Sb, Bi, Mc.
+534897|Down the group: non-metal → metalloid → metal.
+41cd2e|N, P non-metals; As, Sb metalloids; Bi, Mc metals.
+889072|N2 is 78% of the atmosphere by volume.
+ae8434|Crust: NaNO3 (Chile saltpetre), KNO3 (Indian saltpetre).
+575c08|P: apatite family Ca9(PO4)6·CaX2 (X = F, Cl, OH), e.g. fluorapatite Ca9(PO4)6·CaF2 (phosphate rock).
+e6dfbc|-
+a6f3c5|-
+b97ac0|As, Sb, Bi occur mainly as sulphides.
+7f901c|Mc: synthetic, radioactive.
+5d4a4b|ns^2np^3: filled s and half-filled p, an extra-stable configuration.
+2b8dd8|Covalent and ionic radii increase down the group.
+b3db57|**Big radius jump N → P; only small increase As → Bi** (filled d/f).
+1de50d|∆iH decreases down the group (size).
+2fc7da|**∆iH of group 15 >> group 14** in the same period (half-filled p, smaller size).
+8bb974|∆iH1 < ∆iH2 < ∆iH3.
+b32320|EN decreases down the group; small differences among heavier members.
+f12705|All polyatomic; N2 is a diatomic gas, the rest solids.
+f88720|Metallic character increases down the group.
+a8ebb3|N, P non-metals; As, Sb metalloids; Bi metal (∆iH falls, size rises).
+94c50e|**b.p. increases down the group; m.p. increases up to As, then decreases to Bi.**
+54aac7|**All except N show allotropy.**
+d732d5|Common oxidation states –3, +3, +5.
+ce250f|–3 tendency decreases down the group (size, metallic character).
+3aa885|**Bi hardly forms any –3 compound.**
+f8e22b|+5 stability decreases down the group.
+8f4c5e|**Only well-characterised Bi(V) compound: BiF5.** +5 less stable, +3 more stable down the group (inert pair).
+e8417f|N also shows +1, +2, +4 with oxygen.
+ac84aa|**N forms no +5 halide**: no d orbitals.
+7b46f7|P shows +1 and +4 in some oxoacids.
+a742f2|N: all states +1 to +4 disproportionate in acid, e.g. 3HNO2 → HNO3 + H2O + 2NO
+306839|P: nearly all intermediate states disproportionate to +5 and –3 in acid and alkali.
+2b0aaf|+3 of As, Sb, Bi becomes increasingly stable to disproportionation.
+15203d|**N: max covalency 4** (one s + three p orbitals).
+ca72a9|Heavier members use vacant d orbitals to expand covalence, e.g. PF6^–.
+78db4b|Higher positive oxidation state, more polarising power, more covalent bond.
+072e9d|N is anomalous: small size, high EN, high ∆iH, no d orbitals.
+c4ab6e|**N forms pπ–pπ multiple bonds with itself and with small electronegative atoms (C, O).**
+a76071|Heavier members can't (orbitals too large and diffuse).
+1f66e0|So N exists as N≡N (one σ, two π); bond enthalpy 941.4 kJ mol^–1, very high.
+c8fefd|P, As, Sb form single E–E bonds; Bi is metallic.
+38b52b|**Single N–N bond is weaker than P–P**: strong lone-pair repulsion at the short bond length.
+46fd28|So N has weaker catenation.
+b96592|No d orbitals in N's valence shell.
+7b101c|**N can't form dπ–pπ bonds**; P can (R3P=O, R3P=CH2).
+ec9b33|P and As form dπ–dπ bonds with transition metals as ligands, e.g. P(C2H5)3, As(C6H5)3.
+5ddfde|N≡N: strong pπ–pπ overlap.
+555c94|All form EH3 (E = N, P, As, Sb, Bi).
+7d9767|Hydride properties change regularly down the group.
+f5a933|**Stability falls NH3 → BiH3** (bond dissociation enthalpy), so reducing character rises.
+6d86ce|NH3: mild reductant; **BiH3: strongest reducing hydride**.
+cbf5fa|**Basicity: NH3 > PH3 > AsH3 > SbH3 > BiH3.**
+1c1dfb|**NH3 is H-bonded in solid and liquid, so its m.p./b.p. exceed PH3's.**
+f902ec|=
+bfe1b7|N has +5 but no pentahalide: n = 2 has only s and p, no d to exceed covalence 4.
+149b56|Liquid PH3 is not H-bonded (unlike NH3).
+a590b9|Bond angle NH3 (107.8°) > others: NH3 is sp^3; in heavier hydrides H bonds by nearly pure s–p overlap.
+b3abd0|BiH3 is the least stable group 15 hydride.
+0ab491|PH4^+ angle > PH3: PH3's lone pair causes lp–bp repulsion, so angle < 109°28′.
+22a546|Oxides E2O3 and E2O5; the higher oxidation state oxide is more acidic.
+8cc557|Acidic character decreases down the group.
+b29cda|**E2O3: N, P purely acidic; As, Sb amphoteric; Bi mainly basic.**
+5a6214|Halides EX3 and EX5; **no NX5** (no d orbitals).
+d5da60|Pentahalides more covalent than trihalides (+5 vs +3).
+05a274|+5 has more polarising power, hence more covalent.
+a1c633|All trihalides stable **except N's; only NF3 is stable**.
+54e42e|Trihalides mostly covalent **except BiF3**.
+c78aa6|Binary –3 compounds with metals: Ca3N2, Ca3P2, Na3As, Zn3Sb2, Mg3Bi2.
+31714d|N2 commercially: liquefaction and fractional distillation of air.
+be89fd|Liquid N2 (b.p. 77.2 K) distils first, leaving liquid O2 (b.p. 90 K).
+eda1ff|Lab: aqueous NH4Cl + NaNO2.
+7423b8|NH4Cl(aq) + NaNO2(aq) → N2(g) + 2H2O(l) + NaCl(aq)
+d6101f|NO and HNO3 impurities removed by aqueous H2SO4 containing K2Cr2O7.
+b62644|(NH4)2Cr2O7 → N2 + 4H2O + Cr2O3 (heat)
+1cfebd|**Very pure N2**: thermal decomposition of Na or Ba azide. Ba(N3)2 → Ba + 3N2
+5aaa08|N2: colourless, odourless, tasteless, non-toxic.
+a15ea6|Very low water solubility (23.2 cm^3/L at 273 K, 1 bar); low f.p. and b.p.
+d6cfaf|Inert at room temperature (very high N≡N bond enthalpy); reactivity rises fast with T.
+6797e1|At high T: ionic nitrides with some metals, covalent nitrides with non-metals.
+d90d89|6Li + N2 → 2Li3N; 3Mg + N2 → Mg3N2 (heat)
+dde11f|Haber process: N2(g) + 3H2(g) ⇌ 2NH3(g) at ~773 K with catalyst; ∆fH = –46.1 kJ mol^–1
+87158d|N2 + O2 ⇌ 2NO only at very high T (~2000 K).
+ed3b49|N2 uses: NH3 and N-containing chemicals (e.g. calcium cyanamide).
+8ccfee|Inert atmosphere (iron and steel industry, diluent for reactive chemicals).
+81205f|Liquid N2: refrigerant for biological materials, food, cryosurgery.
+6629d5|2NaN3 → 2Na + 3N2
+ee3476|NH3 in air and soil from decay of nitrogenous matter (e.g. urea).
+f3be42|=
+d6dadb|Small scale: ammonium salts + caustic soda or slaked lime.
+b79451|=
+708ec7|NH3: colourless, pungent.
+482990|f.p. 198.4 K, b.p. 239.7 K.
+db2406|H-bonded in solid and liquid, so m.p./b.p. higher than expected from molar mass.
+29a7e0|**NH3: trigonal pyramidal**, N at apex; 3 bond pairs, 1 lone pair.
+6a1235|Very soluble; aqueous NH3 is weakly basic (OH^–).
+5d2b81|=
+6ddf28|Forms ammonium salts (NH4Cl, (NH4)2SO4); as a weak base it precipitates metal hydroxides (or hydrated oxides).
+887c54|=
+9e7e73|=
+71e8dc|Large scale: Haber process. N2(g) + 3H2(g) ⇌ 2NH3(g); ∆fH = –46.1 kJ mol^–1
+0b2a4d|High pressure favours NH3 (Le Chatelier).
+ce932d|**Optimum: ~200 atm, ~700 K, iron oxide catalyst with a little K2O and Al2O3** (faster approach to equilibrium).
+be1e6e|Earlier catalyst: Fe with Mo as promoter.
+93efdd|N in NH3 has a lone pair available for donation.
+30d895|NH3 uses: fertilisers (NH4NO3, urea, ammonium phosphate, (NH4)2SO4); HNO3 manufacture.
+2cc9eb|Liquid NH3: refrigerant.
+ec72e0|The lone pair makes NH3 a Lewis base.
+4767db|Complex formation detects metal ions such as Cu^2+ and Ag^+.
+4c4397|=
+ef97c3|=
+c12437|N forms oxides in many oxidation states.
+4f29a9|=
+296e3f|=
+9d2eb7|=
+74789c|=
+8dcbe7|=
+2e6163|=
+a8cc69|**NO2 is an odd-electron molecule**; it dimerises to stable N2O4 (even electrons).
+ab3b26|Nitrogen oxides have resonance structures with multiple bonds.
+f09ebc|§Nitric acid§HNO3: strong monobasic acid and powerful oxidant.
+dfa1a5|§Oxoacids of phosphorus§Basicity = number of P–OH groups; oxoacids with P–H bonds are good reductants.
+c5199f|-
+b037e8|-
+6b94f2|N2O5 structure shows N has covalence 4.
+366c39|Lab HNO3: NaNO3 (or KNO3) + conc. H2SO4 heated in a glass retort. NaNO3 + H2SO4 → NaHSO4 + HNO3
+b6ff16|**Ostwald process**: catalytic oxidation of NH3 by air.
+51113f|=
+39081b|2NO(g) + O2(g) ⇌ 2NO2(g)
+da3c72|3NO2(g) + H2O(l) → 2HNO3(aq) + NO(g)
+63c464|NO is recycled; aqueous HNO3 concentrated by distillation to ~68%.
+550ae2|98% HNO3 by dehydration with conc. H2SO4.
+c6566c|HNO3: colourless liquid, f.p. 231.4 K, b.p. 355.6 K.
+d9be4c|Lab-grade HNO3 ≈ 68% by mass, specific gravity 1.504.
+de692e|Gaseous HNO3 is planar.
+985463|Strong acid: HNO3(aq) + H2O(l) → H3O^+(aq) + NO3^–(aq)
+f8da72|Conc. HNO3 is a strong oxidant; attacks most metals **except noble metals (Au, Pt)**.
+33cc2f|N oxoacids: H2N2O2 (hyponitrous), HNO2 (nitrous), HNO3 (nitric).
+d4f1dd|Products depend on acid concentration, temperature and the substance oxidised.
+ed1257|=
+57ca3d|=
+0710a2|Zn: **dilute HNO3 gives N2O, concentrated gives NO2**.
+b63932|=
+37b217|=
+f29c16|**Cr and Al don't dissolve in conc. HNO3 (passive oxide film).**
+12aba4|Conc. HNO3 oxidises I2 → HIO3, C → CO2, S → H2SO4, P → H3PO4.
+685bc1|=
+f99d96|=
+2a0f60|=
+2800e8|=
+e929cc|**Brown ring test**: Fe^2+ reduces nitrate to NO, which forms a brown complex with Fe^2+.
+8b4b4e|Dilute FeSO4 added to the nitrate solution, then conc. H2SO4 poured carefully down the side.
+c01986|Brown ring at the interface confirms NO3^-.
+75c865|=
+2a21a7|=
+b92bd5|HNO3 uses: NH4NO3 fertiliser; nitrates for explosives and pyrotechnics.
+6ec503|Nitroglycerin, TNT and other nitro compounds.
+c75718|Pickling stainless steel, etching metals, oxidiser in rocket fuels.
+1b2e70|Main allotropes of P: white, red, black.
+4cd166|White P: translucent, waxy.
+c31eae|White P: poisonous; insoluble in water, soluble in CS2; **glows in the dark (chemiluminescence)**.
+a69f45|White P + boiling NaOH (inert atmosphere) gives PH3.
+0ae8d6|=
+9da7dd|**White P is least stable and most reactive: angular strain in P4 (60° angles).**
+faaf05|Catches fire in air, giving dense white fumes of P4O10. P4 + 5O2 → P4O10
+99b22d|Discrete tetrahedral P4 molecules.
+caeb71|Red P: white P heated at 573 K in an inert atmosphere for several days.
+ba6b2f|Red P under high pressure gives black P phases.
+8256e8|Red P: iron-grey lustre.
+141ac9|Red P: odourless, non-poisonous, insoluble in water and CS2.
+4db869|Red P is much less reactive than white P; doesn't glow.
+9a93b0|**Red P is polymeric**: chains of P4 tetrahedra.
+926990|α-black P: red P heated in a sealed tube at 803 K; sublimes in air; monoclinic or rhombohedral crystals.
+acdb04|α-black P doesn't oxidise in air. β-black P: white P at 473 K under high pressure; doesn't burn in air up to 673 K.
+f4af19|PH3: Ca3P2 + 6H2O → 3Ca(OH)2 + 2PH3; Ca3P2 + 6HCl → 3CaCl2 + 2PH3
+32023c|Lab PH3: white P + conc. NaOH, heated under CO2.
+95852f|**Pure PH3 is not inflammable**; it becomes inflammable due to P2H4 or P4 vapour impurity.
+7f572f|Purified via PH4I (absorbed in HI), then KOH: PH4I + KOH → KI + H2O + PH3
+bc657d|PH3: colourless, rotten-fish smell, highly poisonous.
+99c789|Explodes with traces of oxidants (HNO3, Cl2, Br2 vapour).
+bf838e|Slightly soluble in water.
+fd55f7|Aqueous PH3 decomposes in light to red P and H2.
+6c51b9|With CuSO4 or HgCl2 solution gives phosphides.
+22d1f6|Spontaneous combustion of PH3: Holme's signals.
+89c0bd|Containers of CaC2 and Ca3P2 pierced and thrown into the sea; evolved gases burn as a signal; also smoke screens.
+02b926|=
+0fc27d|PH3 is weakly basic; forms phosphonium salts: PH3 + HBr → PH4Br
+57e7b8|PH3 + HI → PH4I: PH3 acts as a Lewis base (lone pair on P).
+ef6d6b|P halides: PX3 (X = F, Cl, Br, I) and PX5 (X = F, Cl, Br).
+21168a|PCl3: dry Cl2 over heated white P. P4 + 6Cl2 → 4PCl3
+6d35db|P4 + 8SOCl2 → 4PCl3 + 4SO2 + 2S2Cl2
+324da1|PCl3: colourless oily liquid; PCl3 + 3H2O → H3PO3 + 3HCl
+a00f19|With –OH compounds: 3CH3COOH + PCl3 → 3CH3COCl + H3PO3; 3C2H5OH + PCl3 → 3C2H5Cl + H3PO3
+de1888|PCl3: pyramidal, P sp^3.
+005f4a|PCl3 fumes in moist air (HCl).
+a2e748|-
+654b39|-
+2641b4|PCl5: white P + excess dry Cl2. P4 + 10Cl2 → 4PCl5
+77f736|P4 + 10SO2Cl2 → 4PCl5 + 10SO2
+534bac|PCl5: yellowish-white powder; hydrolyses in moist air: PCl5 + H2O → POCl3 + 2HCl; POCl3 + 3H2O → H3PO4 + 3HCl
+c1f338|Sublimes on heating, decomposes on stronger heating: PCl5 → PCl3 + Cl2
+7aaf2d|With –OH compounds: C2H5OH + PCl5 → C2H5Cl + POCl3 + HCl; CH3COOH + PCl5 → CH3COCl + POCl3 + HCl
+330280|With finely divided metals: 2Ag + PCl5 → 2AgCl + PCl3; Sn + 2PCl5 → SnCl4 + 2PCl3
+7aeaad|Used to make C2H5Cl, CH3COCl.
+f98dbc|PCl5 is trigonal bipyramidal in gas and liquid.
+d468b2|**3 equatorial P–Cl equal; 2 axial longer** (axial bond pairs suffer more repulsion).
+d85fb3|-
+28c3fb|P oxoacids are interrelated by loss or gain of H2O or O.
+cae29d|P is tetrahedral in all; each has at least one P=O and one P–OH.
+6d08a9|P below +5: also P–P (H4P2O6) or P–H (H3PO2) bonds, never both.
+8cc0ae|+3 acids disproportionate.
+f00e67|4H3PO3 → 3H3PO4 + PH3 (heat)
+088056|=
+27d22b|=
+611369|=
+8e83d7|=
+a28ea7|=
+4f2f38|=
+bbb0ae|=
+eea3ef|P–H bonds give strong reducing properties.
+8d28ed|H3PO2 (two P–H) reduces AgNO3 to Ag: 4AgNO3 + 2H2O + H3PO2 → 4Ag + 4HNO3 + H3PO4
+09fef6|**P–H hydrogens are not ionisable**; only P–OH hydrogens give basicity.
+0f9fba|**H3PO3 is dibasic, H3PO4 tribasic** (2 and 3 P–OH).
+4268cc|-

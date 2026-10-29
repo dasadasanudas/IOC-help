@@ -1,0 +1,178 @@
+f6f656|-
+65b4a1|-
+0ff373|-
+f6a37b|-
+356d92|-
+f05978|-
+ca2193|-
+f4eae7|-
+6a14bd|-
+ff5996|-
+74e994|Mendeleev's Periodic Law: properties of elements are a periodic function of their **atomic weights**.
+7fd1fe|-
+4b2b46|-
+ec369c|Mendeleev left gaps below Al and Si: **eka-aluminium = Ga**, **eka-silicon = Ge**.
+bf293b|-
+47733d|√ν (X-ray frequency) vs atomic number Z is a straight line; √ν vs atomic mass is not.
+52743b|So atomic number is more fundamental than atomic mass.
+001f39|**Modern Periodic Law**: physical and chemical properties are periodic functions of **atomic number**.
+590b94|-
+e65529|Periodic Law is a consequence of the periodic variation in electronic configuration.
+1dbc53|Groups are numbered 1–18 (replacing IA…VIIA, VIII, IB…VIIB, 0).
+5207fc|7 periods; period number = highest principal quantum number n.
+43e757|Period lengths: 2, 8, 8, 18, 18, 32; period 7 incomplete, theoretical max 32.
+b8f00a|-
+feeb93|-
+44a9fe|Z > 100, until officially named: systematic name from numerical roots for 0–9 of the atomic number.
+5e1fa2|Roots in order of the digits, then add "-ium".
+04ea09|=
+830de5|Temporary symbol has three letters.
+312849|Z = 120: roots un (1), bi (2), nil (0) → **Ubn, unbinilium**.
+486e41|§Electronic configurations and the periodic table§An element's position reflects the quantum numbers of the last orbital filled.
+f64fa5|§Electronic configurations and the periodic table§Period number = n of the valence shell; each new period starts filling the next principal level.
+1182e3|Elements in a period = 2 × number of orbitals in the level being filled.
+106974|Period 1 (n = 1): 1s, so H, He. Period 2: Li (2s) to Ne (2s^2 2p^6), 8 elements.
+ed2007|Period 3: Na to Ar (3s, 3p), 8 elements.
+74d581|Before 4p fills, 3d filling becomes energetically favourable, giving the 3d transition series.
+2b85cc|Period 4: 3d series from Sc (3d^1 4s^2) to Zn (3d^10 4s^2); ends at Kr (4p); 18 elements.
+286e8b|Period 5: from Rb; 4d series from Y (Z = 39); ends at Xe (5p).
+bdb782|Period 6: 32 elements (6s, 4f, 5d, 6p); 4f filling from Ce (58) to Lu (71) gives the lanthanoids.
+3300c7|Period 7: 7s, 5f, 6d, 7p; mostly man-made radioactive elements.
+5afebf|Period 7 ends at Z = 118 (noble gas).
+904ee4|5f filling after Ac (Z = 89) gives the actinoids.
+1702d1|4f and 5f series are placed separately to keep elements with similar properties in one column.
+b73e2b|Period 5: energy order 5s < 4d < 5p; 9 orbitals, so 18 electrons and 18 elements.
+7b5a8a|Same group: similar valence-shell configuration, same number of outer electrons, similar properties.
+4d1c39|-
+6bf179|Four blocks (s, p, d, f) by the type of orbital being filled.
+0de882|He is strictly s-block but sits in p-block (group 18): completely filled valence shell 1s^2, noble-gas properties.
+30d9e3|H: one s-electron, so it fits group 1; it can also gain one electron, so it can act like group 17.
+707d91|s-block: groups 1 (ns^1) and 2 (ns^2).
+d8df5d|s-block: reactive metals, low ionization enthalpies; form M^+ (group 1) or M^2+ (group 2).
+a9d37d|s-block: metallic character and reactivity increase down the group; never found free in nature.
+6c4b5f|s-block compounds are predominantly ionic, **except those of Li and Be**.
+75bf42|p-block = groups 13–18; s + p together = representative (main group) elements; outer configuration ns^2np^1 to ns^2np^6.
+9f7ad5|Each period ends with a noble gas (ns^2np^6); its filled valence shell is hard to alter, so very low reactivity.
+13636a|Halogens (17) and chalcogens (16) have highly negative electron gain enthalpies; they add one or two electrons to reach noble-gas configuration.
+c02360|Across a period non-metallic character increases; down a group metallic character increases. d-block = groups 3–12.
+1e59ea|d-block: inner d orbitals are being filled.
+0cc999|d-block outer configuration (n-1)d^1-10 ns^0-2; **exception Pd: 4d^10 5s^0**.
+5697af|d-block: coloured ions, variable oxidation states, paramagnetism, catalysis. **Zn, Cd, Hg ((n-1)d^10 ns^2) show few of these properties.**
+056722|Transition metals bridge the reactive s-block metals and the less active groups 13 and 14.
+544663|Lanthanoids Ce (58)–Lu (71), actinoids Th (90)–Lr (103): outer configuration (n-2)f^1-14 (n-1)d^0–1 ns^2.
+7022ae|f-block (inner transition): the last electron enters an f orbital.
+0cc3b3|Within each f-series properties are very similar.
+f63edf|Early actinoids: more complicated than lanthanoids because of many oxidation states; actinoids are radioactive.
+d45edd|-
+18e825|Elements after uranium = transuranium elements.
+e66e86|Z = 117: group 17, [Rn] 5f^14 6d^10 7s^2 7p^5.
+bc80b6|Z = 120: group 2, [Uuo] 8s^2.
+b820b5|Metals: more than 78% of elements, on the left of the table.
+438555|Metals are solids at room temperature, **except Hg**; Ga (303 K) and Cs (302 K) melt very low.
+ad31f4|Metals: high m.p./b.p., good conductors, malleable, ductile.
+e9065c|Non-metals: top right; along a period character changes from metallic (left) to non-metallic (right).
+ba1560|Non-metals: solids or gases with low m.p./b.p., **except B and C**.
+d5b494|Non-metals: poor conductors; solids brittle, neither malleable nor ductile.
+50e9e8|More metallic down a group, more non-metallic left to right; the change is gradual (zig-zag line).
+f79fee|Metalloids (along the zig-zag): Si, Ge, As, Sb, Te.
+df1cb8|Increasing metallic character: P < Si < Be < Mg < Na.
+69f70a|Reactivity in a period: high at group 1, low in the middle, maximum at group 17. Down a group: increases for alkali metals, decreases for halogens.
+dcf627|§Atomic radius§Atomic size can't be measured exactly (no sharp boundary); it is estimated from interatomic distances in the combined state.
+84f1cd|Covalent radius = half the single-bond distance; Cl2 bond 198 pm, so r(Cl) = 99 pm.
+83640b|Metallic radius = half the internuclear distance in the metal crystal; Cu–Cu 256 pm, so r(Cu) = 128 pm.
+ec171e|"Atomic radius" means covalent radius for non-metals and metallic radius for metals; measured by X-ray or spectroscopic methods.
+040b74|Atomic size decreases across a period: same valence shell, rising effective nuclear charge.
+34a36a|Atomic radius increases down a group.
+7c184b|Down groups 1 and 17: n increases and filled inner levels shield the valence electrons, so size increases.
+c41eec|Noble-gas radii are non-bonded (van der Waals) radii, very large; compare them with van der Waals radii, not covalent radii.
+3b2ced|=
+1a8bec|§Ionic radius§Ionic radii come from cation–anion distances in ionic crystals; they follow the same trends as atomic radii.
+8afd4d|Cation < parent atom: fewer electrons, same nuclear charge.
+3db2a8|Anion > parent atom: added electrons increase repulsion and lower the effective nuclear charge.
+6568df|F^– 136 pm vs F 64 pm; Na 186 pm vs Na^+ 95 pm.
+121df0|Isoelectronic species (e.g. O^2–, F^–, Na^+, Mg^2+, all 10 e^–) differ in radius because of different nuclear charge.
+333f55|Isoelectronic: higher positive charge, smaller radius; higher negative charge, larger radius.
+2e0636|-
+62bcdc|Summary: radii decrease across a period; cations < parent atoms; among isoelectronic species, larger nuclear charge means smaller radius.
+d378b6|Of Mg, Mg^2+, Al, Al^3+: largest Mg, smallest Al^3+.
+427bd7|§Ionization enthalpy§Ionization enthalpy measures the tendency of an element to lose an electron.
+74063b|Energy to remove an electron from an isolated gaseous atom in its ground state.
+9d90db|∆iH1: X(g) → X^+(g) + e^–, in kJ mol^–1.
+7d50c6|∆iH2: energy to remove the second most loosely bound electron.
+616b54|Ionization enthalpies are always positive; ∆iH2 > ∆iH1 (removing from a positive ion is harder).
+65c911|∆iH3 > ∆iH2 and so on; unqualified "ionization enthalpy" means the first.
+f31d20|∆iH maxima at noble gases (closed shells), minima at alkali metals (hence their high reactivity).
+439c7a|∆iH1 generally increases across a period and decreases down a group.
+becac0|∆iH depends on electron–nucleus attraction vs electron–electron repulsion; closely related to atomic radius.
+80b9e9|Effective nuclear charge < actual nuclear charge because core electrons shield the valence electron.
+8f929e|Li: the 2s electron is shielded by 1s^2, so it feels less than +3.
+a1c511|Shielding is effective when inner shells are completely filled.
+7fbfe3|This applies to alkali metals: a single ns electron over a noble-gas core.
+9214fb|Across period 2 (Li to F), electrons go into the same shell and core shielding barely increases.
+795d20|So across a period nuclear charge outweighs shielding, and ∆iH increases.
+0a4ab2|Down a group the outer electron is farther away and more shielded by inner levels.
+56965e|Down a group shielding outweighs the rising nuclear charge, so ∆iH decreases.
+9f7d27|**∆iH1(B) < ∆iH1(Be)**, though B has a greater nuclear charge.
+b901db|In the same shell an s-electron is attracted to the nucleus more than a p-electron.
+b18228|Be loses a 2s electron; B loses a 2p electron.
+02e223|2s penetrates more than 2p, so B's 2p electron is more shielded and easier to remove than Be's 2s.
+40fd55|Hence ∆iH1(B) < ∆iH1(Be).
+8434e6|**∆iH1(O) < ∆iH1(N)**: N's three 2p electrons are in separate orbitals (Hund), while O has one paired 2p orbital, so extra electron–electron repulsion.
+50b710|So O's fourth 2p electron is easier to remove than one of N's three.
+d53f49|∆iH1: Na 496, Mg 737, Si 786 kJ mol^–1; Al ≈ 575, **lower than Mg**, because 3s electrons shield the 3p electron.
+4ea72e|§Electron gain enthalpy§∆egH = enthalpy change when an electron is added to a neutral gaseous atom to form an anion; measures ease of anion formation.
+eaab87|Adding an electron can be exothermic or endothermic; for many elements energy is released (∆egH negative).
+a0a834|Halogens: very high negative ∆egH (one electron gives a noble-gas configuration).
+abf717|**Noble gases: large positive ∆egH**; the electron must enter the next shell.
+274e7a|Most negative ∆egH: upper right of the table, just before the noble gases.
+a55c17|∆egH varies less systematically than ∆iH.
+2b0b9c|∆egH generally becomes more negative across a period.
+8a8d2f|Rising effective nuclear charge across a period makes it easier for a smaller atom to add an electron.
+452875|Down a group ∆egH should become less negative (larger atom, electron farther away).
+5ab1f2|**∆egH of O and F is less negative than S and Cl**: the electron goes into the small n = 2 shell with strong repulsion; in n = 3 the repulsion is much less.
+0ad3a1|Summary: ∆egH more negative across a period, less negative down a group.
+b8a926|Of P, S, Cl, F: most negative ∆egH **Cl**, least negative P.
+a49584|Electron affinity (Ae) = –∆egH; positive when energy is released (opposite to the thermodynamic sign convention).
+2555ac|If energy must be supplied, electron affinity is negative.
+3c8a52|=
+c04d57|Electronegativity: qualitative ability of a bonded atom to attract shared electrons; **not a measurable quantity**.
+ff1b12|Scales: Pauling, Mulliken-Jaffe, Allred-Rochow; Pauling is most widely used.
+71ed7d|Pauling scale: F assigned 4.0 (greatest ability to attract electrons).
+5a1109|Electronegativity of an element is not constant; it depends on the bonded partner.
+138027|EN increases across a period (Li → F) and decreases down a group (F → At).
+70f5fb|EN rises as atomic radius falls across a period and falls as radius grows down a group; same trend as ∆iH.
+af87d7|=
+0bf7d6|EN is directly related to non-metallic character and inversely to metallic character.
+8aa8e0|So across a period: EN up, non-metallic up. Down a group: EN down, metallic up.
+e4438c|§Valence and oxidation state§Valence is the most characteristic property and follows from electronic configuration.
+12f25d|Valence of representative elements = number of outer electrons, or 8 minus that number (usually).
+a1983b|EN order F > O > Na. **In OF2, O is +2** (F is –1).
+ee3fd9|In Na2O, O is –2 and Na (3s^1) is +1.
+b77a7d|Oxidation state = charge an atom acquires on electronegativity grounds from the other atoms in the molecule.
+70d93c|Si (valence 4) + Br (valence 1) → SiBr4.
+722ee8|Al (valence 3) + S (valence 2) → Al2S3.
+276710|Variable valence is characteristic of transition elements and actinoids.
+92d691|=
+8658b2|=
+f3d3d9|In [AlCl(H2O)5]^2+: oxidation state of Al +3, covalency 6 (not the same).
+075759|§Periodic trends and chemical reactivity§Across a period radii decrease, so ∆iH increases (with exceptions) and ∆egH becomes more negative.
+72358d|The first element of groups 1, 2 and 13–17 (Li, Be, B to F) differs in many respects from the rest of its group.
+2c9c73|Li and Be form compounds with pronounced covalent character; other members of groups 1 and 2 form mainly ionic compounds.
+182784|Li resembles Mg and Be resembles Al: **diagonal relationship**.
+e0f3f4|Anomaly due to small size, large charge/radius ratio, high electronegativity.
+d68ce5|First member: only 4 valence orbitals (2s, 2p); second member: 9 (3s, 3p, 3d).
+b7626a|So **max covalency of the first member is 4**: B forms only [BF4]^–, but Al forms [AlF6]^3–.
+adb26a|First member of p-block forms pπ–pπ multiple bonds to itself (C=C, C≡C, N=N, N≡N) and to other period-2 elements (C=O, C=N, C≡N, N=O) much better than heavier members.
+9528f5|Lowest ∆iH at the far left, most negative ∆egH at the far right, so reactivity is highest at the two extremes and lowest in the centre.
+be816c|Far left reacts by losing an electron (cation); far right by gaining one (anion).
+79a4ef|Metallic character falls and non-metallic rises from left to right.
+e0815e|Elements at both ends of a period combine easily with oxygen.
+a0ecb1|Oxide of the far-left element is most basic (Na2O); far-right is most acidic (Cl2O7).
+bfce92|Middle elements: amphoteric oxides (Al2O3, As2O3) or neutral (CO, NO, N2O). Amphoteric = acidic with bases, basic with acids.
+138bc3|Na2O + water gives a strong base; Cl2O7 + water gives a strong acid.
+b019d9|=
+446515|3d series: change in radius across a period is much smaller than for representative elements; even smaller for 4f.
+47c60b|Transition metals: ∆iH between s- and p-block, so less electropositive than groups 1 and 2.
+d6e717|Down a main group: radii up, ∆iH down, ∆egH less negative (exceptions in period 3); metallic character increases.
+3d0f4e|**Transition elements show the reverse trend down a group.**
+ca11ca|Explained by atomic size and ionization enthalpy.

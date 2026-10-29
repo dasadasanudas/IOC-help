@@ -1,0 +1,215 @@
+2661ea|s-block: last electron enters the outermost s orbital; groups 1 and 2.
+e8a2cb|Group 1 (Li, Na, K, Rb, Cs, Fr) = alkali metals: their hydroxides are strongly alkaline.
+b02e6a|Group 2 (Be, Mg, Ca, Sr, Ba, Ra) = alkaline earth metals (Be excluded): oxides/hydroxides alkaline, oxides found in the earth's crust.
+8fab2f|-
+98d4f9|Fr is highly radioactive (^223Fr, t½ 21 min).
+7019ab|-
+db58b5|-
+34b4b2|Li and Be are anomalous and resemble the second element of the next group: **Li ~ Mg, Be ~ Al**.
+3912cb|Diagonal relationship: similar ionic size and/or charge/radius ratio.
+62fc20|Alkali metals: ns^1 over a noble-gas core; most electropositive metals; readily form M^+; never found free.
+d982fb|Largest atoms in their periods; size increases down the group; M^+ smaller than M.
+e3d6d7|∆iH low and decreasing Li → Cs: size increase outweighs nuclear charge; outer electron well screened.
+7636c2|Hydration enthalpy: Li^+ > Na^+ > K^+ > Rb^+ > Cs^+ (decreases with ionic size).
+dc0911|**Li^+ is most hydrated, so Li salts are mostly hydrated** (e.g. LiCl·2H2O).
+912744|Silvery white, soft, light.
+2d50b5|Low density, increasing Li → Cs, **but K is lighter than Na**.
+55c8f6|Low m.p./b.p.: weak metallic bonding (one valence electron).
+bcdba6|Flame colours: flame heat excites the outer electron to a higher level.
+6d8b42|=
+fe6b8b|Detected by flame test; estimated by flame photometry or atomic absorption spectroscopy.
+d72b5b|Light can ionise them, so **Cs and K are used as photoelectric cell electrodes**.
+e55c8a|=
+ef9875|=
+3b4a21|Alkali metal is +1 in all these oxides.
+cec6a8|**Li alone reacts directly with N2 of air → Li3N.**
+3f7c5a|Kept in kerosene (reactive toward air and water).
+5734c0|Highly reactive (large size, low ∆iH); reactivity increases down the group.
+e18755|Tarnish in dry air (oxide, then hydroxide with moisture); in O2: **Li → monoxide, Na → peroxide, others → superoxide**.
+0eafd7|O2^- (superoxide) is stable only with large cations: K, Rb, Cs.
+6dd59c|2M + 2H2O → 2M^+ + 2OH^- + H2
+2de32c|**Li has the most negative E° yet reacts with water less vigorously than Na** (Na has the least negative E°): small size, very high hydration energy.
+5b66d0|Others react explosively with water; also react with proton donors (alcohol, gaseous NH3, alkynes).
+8fc6d0|With H2 at ~673 K (Li at 1073 K): ionic hydrides with high m.p. 2M + H2 → 2M^+H^-
+0887b7|With halogens: ionic M^+X^-, **but Li halides are somewhat covalent** (high polarising power of Li^+).
+919992|Small Li^+ distorts large anions most, so **LiI is the most covalent** Li halide.
+7f2782|Strong reducing agents: **Li strongest, Na weakest**.
+703336|E° (reducing power) covers: M(s) → M(g) (sublimation); M(g) → M^+(g) + e^- (ionization); M^+(g) + H2O → M^+(aq) (hydration).
+8cfe28|Li^+ has the highest hydration enthalpy, which gives Li its most negative E° and highest reducing power.
+5a0f26|Dissolve in liquid NH3: deep blue, conducting solutions.
+0f4bc2|=
+143bb6|Blue colour from the ammoniated electron absorbing visible light.
+feae01|Solutions are paramagnetic; on standing they slowly liberate H2 and form amide.
+fee4cf|=
+ea2097|**Concentrated solution: blue → bronze, and diamagnetic.**
+3c268f|Li alloys: with Pb ('white metal' bearings), with Al (aircraft parts), with Mg (armour plates).
+0c7649|Li: thermonuclear reactions; electrochemical cells.
+ce107e|Na/Pb alloy used to make PbEt4 and PbMe4 (old anti-knock additives).
+f42bf9|Liquid Na: coolant in fast breeder reactors.
+374320|KCl: fertiliser. KOH: soft soap; excellent CO2 absorbent.
+1a202a|Cs: photoelectric cells.
+3378ee|Alkali metal compounds are generally ionic.
+ffa7b4|In excess air: **Li → mainly Li2O (some Li2O2); Na → Na2O2 (some NaO2); K, Rb, Cs → MO2**.
+85e4c8|Pure M2O, M2O2, MO2 can be made under suitable conditions.
+1299dd|Peroxide/superoxide stability rises with cation size: large anions stabilised by large cations (lattice energy).
+65562f|=
+e067c9|**Oxides and peroxides colourless when pure; superoxides yellow or orange and paramagnetic.**
+89a5da|Na2O2: widely used oxidising agent.
+f22b10|O2^- is paramagnetic: one unpaired electron in π*2p.
+7ca1af|Hydroxides: white crystalline; the strongest bases; dissolve with much heat (intense hydration).
+98c3e6|Halides MX: high-melting, colourless crystalline solids.
+cbf5f6|Made from the oxide, hydroxide or carbonate + aqueous HX.
+3bae6d|∆fH° of **fluorides becomes less negative down the group**; for chlorides, bromides, iodides it becomes more negative.
+c8a5f3|For a given metal ∆fH° becomes less negative F → I; m.p./b.p.: fluoride > chloride > bromide > iodide.
+2b91f9|All alkali halides are water-soluble.
+dd4712|**LiF poorly soluble: high lattice enthalpy. CsI poorly soluble: low hydration enthalpy of both ions.**
+af686d|Other Li halides dissolve in ethanol, acetone, ethyl acetate; LiCl also in pyridine.
+9022f0|Form salts with all oxo-acids; generally water-soluble and thermally stable.
+9bd967|M2CO3 and most MHCO3 are highly heat-stable; stability increases down the group.
+3ec02d|**Li2CO3 is not very stable**: small Li^+ polarises CO3^2-, giving Li2O + CO2. **LiHCO3 doesn't exist as a solid.**
+530253|Li anomaly: very small atom/ion and high polarising power (charge/radius), so covalent character and solubility in organic solvents.
+06eb90|Li is much harder, with higher m.p./b.p. than other alkali metals.
+651816|Li: least reactive yet strongest reducing agent; burns in air to Li2O and Li3N.
+f420fe|LiCl is deliquescent and forms LiCl·2H2O; other alkali chlorides form no hydrates.
+88bf66|LiHCO3 is not obtained as a solid; others are.
+3de360|Li forms no ethynide with ethyne.
+a76f22|**LiNO3 → Li2O on heating; other MNO3 → MNO2.** 4LiNO3 → 2Li2O + 4NO2 + O2; 2NaNO3 → 2NaNO2 + O2
+2043bc|LiF and Li2O are much less soluble than the other alkali metals' compounds.
+f02920|Li ~ Mg because of similar size: atomic Li 152, Mg 160 pm; ionic Li^+ 76, Mg^2+ 72 pm.
+46e961|Li and Mg: harder and lighter than their group mates; react slowly with water.
+a531b0|Oxides and hydroxides much less soluble; hydroxides decompose on heating; both form nitrides (Li3N, Mg3N2) directly.
+6f19e9|Li2O and MgO form no superoxide.
+becf0c|Carbonates decompose easily to oxide + CO2; no solid hydrogencarbonates.
+97d68c|LiCl and MgCl2: soluble in ethanol; deliquescent; hydrates LiCl·2H2O, MgCl2·8H2O.
+ee07d1|**Solvay process** uses the low solubility of NaHCO3, which precipitates from NaCl + NH4HCO3.
+e12a6a|NH4HCO3 forms when CO2 is passed into concentrated brine saturated with NH3 (via (NH4)2CO3).
+a1e2c9|=
+0d449b|NaHCO3 crystals are heated: 2NaHCO3 → Na2CO3 + CO2 + H2O
+ff69a6|NH3 recovered with Ca(OH)2 (CaCl2 by-product): 2NH4Cl + Ca(OH)2 → 2NH3 + CaCl2 + H2O
+0f31de|**Solvay can't make K2CO3: KHCO3 is too soluble to precipitate.**
+985867|Na2CO3·10H2O = washing soda; white crystalline, readily soluble.
+17fcda|Heating: decahydrate → monohydrate; above 373 K anhydrous (white powder, soda ash).
+9a3906|=
+e71534|Aqueous Na2CO3 is alkaline (hydrolysis): CO3^2- + H2O → HCO3^- + OH^-
+c09350|Uses: water softening, laundering, cleaning; glass, soap, borax, caustic soda.
+6c8d2a|-
+cb48e2|Crude NaCl contains Na2SO4, CaSO4, CaCl2, MgCl2; CaCl2 and MgCl2 are deliquescent.
+85e928|Purification: dissolve, filter, saturate with HCl gas; pure NaCl crystallises; CaCl2, MgCl2 (more soluble) stay in solution.
+8d59f3|NaCl m.p. 1081 K; solubility 36.0 g/100 g water (273 K), barely changes with temperature.
+7ea107|NaCl is used to make Na2O2, NaOH, Na2CO3.
+05587a|**Castner-Kellner cell**: brine electrolysed with Hg cathode, carbon anode.
+18b463|Na forms sodium amalgam at the cathode; Cl2 at the anode.
+bae2ff|=
+016631|NaOH: white, translucent, m.p. 591 K; very soluble (strongly alkaline); deliquescent.
+87b367|NaOH solution absorbs atmospheric CO2, forming Na2CO3.
+d4b1f6|NaOH uses: soap, paper, artificial silk; petroleum refining; purification of bauxite; mercerising cotton; purifying fats and oils.
+3ea02b|NaHCO3 = baking soda: decomposes on heating, releasing CO2.
+fb760b|Made by saturating Na2CO3 solution with CO2; less soluble NaHCO3 separates.
+9ac36a|Na2CO3 + H2O + CO2 → 2NaHCO3. Mild antiseptic; used in fire extinguishers.
+895b2d|-
+86bf94|-
+da86ec|-
+e985a7|-
+d921fc|-
+268445|Be differs from the rest and shows diagonal relationship with Al.
+414093|[noble gas] ns^2; compounds predominantly ionic.
+8054b3|Radii smaller than the corresponding alkali metals (higher nuclear charge); increase down the group.
+ac51f0|=
+ad3a44|=
+af758e|∆iH low (fairly large atoms) and decreasing down the group.
+55258d|∆iH1 higher than group 1 (smaller size).
+7346b4|**∆iH2 of group 2 is smaller than ∆iH2 of the corresponding alkali metals.**
+d12329|Hydration enthalpy: Be^2+ > Mg^2+ > Ca^2+ > Sr^2+ > Ba^2+
+ce731c|Hydration enthalpies larger than for alkali ions, so more hydrated compounds: MgCl2·6H2O, CaCl2·6H2O (NaCl, KCl form none).
+da944c|Silvery white, lustrous, fairly soft but harder than alkali metals; Be and Mg greyish.
+1d6b5c|m.p./b.p. higher than alkali metals (smaller size), **but the trend is not systematic**.
+b6770b|Strongly electropositive (low ∆iH).
+2b128a|Flame: **Ca brick red, Sr crimson, Ba apple green**.
+a872e0|-
+a5780f|**Be and Mg give no flame colour**: electrons too strongly bound to be excited.
+d42c83|Flame test detects Ca, Sr, Ba; estimated by flame photometry.
+bbfd1f|High electrical and thermal conductivity.
+b25e4d|Less reactive than alkali metals; reactivity increases down the group.
+4248b3|**Be and Mg are kinetically inert to O2 and water** (oxide film).
+bbcfa4|Powdered Be burns to BeO + Be3N2; Mg burns with dazzling light to MgO + Mg3N2.
+2ccb0e|Ca, Sr, Ba: readily attacked by air (oxide + nitride); react with cold water with increasing vigour.
+ed23d3|M + X2 → MX2 at elevated temperature.
+623738|BeF2 best made by thermal decomposition of (NH4)2BeF4; BeCl2 from the oxide.
+e3d81a|=
+ed951b|**All except Be form MH2 directly on heating**; BeH2 via 2BeCl2 + LiAlH4 → 2BeH2 + LiCl + AlCl3
+b637f8|M + 2HCl → MCl2 + H2
+178e5c|Strong reducing agents (large negative E°), but weaker than alkali metals.
+c8f950|**Be has the least negative E°**, yet reduces because of the large hydration energy of small Be^2+ and the high atomisation enthalpy of the metal.
+24e718|In liquid NH3: deep blue-black solutions. M + (x + y)NH3 → [M(NH3)x]^2+ + 2[e(NH3)y]^-; ammoniates [M(NH3)6]^2+ can be recovered.
+2a2aa2|Be: alloys (Cu-Be for high-strength springs); metallic Be for X-ray tube windows.
+8157f8|Mg alloys with Al, Zn, Mn, Sn; Mg-Al alloys (light) for aircraft.
+5f61ff|Mg powder/ribbon: flash powders and bulbs, incendiary bombs, signals.
+35130c|Milk of magnesia (Mg(OH)2 suspension): antacid. MgCO3: toothpaste.
+139181|Ca: extracts metals from oxides hard to reduce with carbon.
+0e9bed|Ca and Ba remove air from vacuum tubes (react with O2 and N2 at high T).
+144891|Ra salts: radiotherapy.
+19b925|M^2+ predominant; compounds ionic but less so than alkali compounds (higher charge, smaller size).
+338870|Be and Mg compounds are more covalent than those of Ca, Sr, Ba.
+1c102c|Burn to MO with rock-salt structure, **except BeO (essentially covalent)**.
+5d9d3d|High ∆fH of oxides, so very heat-stable.
+87c784|**BeO is amphoteric**; the other oxides are basic and give sparingly soluble hydroxides with water.
+6a4d13|MO + H2O → M(OH)2. Solubility, thermal stability and basicity increase Mg(OH)2 → Ba(OH)2.
+04bc47|Less basic and less stable than alkali hydroxides.
+132883|**Be(OH)2 is amphoteric**: Be(OH)2 + 2OH^- → [Be(OH)4]^2- (beryllate); Be(OH)2 + 2HCl + 2H2O → [Be(OH)4]Cl2
+8eb3d4|All group 2 halides are ionic **except Be halides** (covalent, soluble in organic solvents).
+8d2160|BeCl2: chain structure in solid; chloro-bridged dimer in vapour; linear monomer at ~1200 K.
+c13d23|Halide hydrate formation decreases down the group: MgCl2·8H2O, CaCl2·6H2O, SrCl2·6H2O, BaCl2·2H2O.
+a91942|**Hydrated halides of Ca, Sr, Ba dehydrate on heating; those of Be and Mg hydrolyse.**
+5e5363|Fluorides less soluble than chlorides (high lattice energy).
+498333|Carbonates are insoluble; precipitated by Na2CO3 or (NH4)2CO3.
+9bbfb7|Carbonate solubility decreases down the group; all decompose on heating to oxide + CO2.
+568632|**BeCO3 is unstable** (kept only under CO2); thermal stability rises with cation size.
+17f55b|Sulphates: white, heat-stable. **BeSO4, MgSO4 soluble**; solubility falls CaSO4 → BaSO4.
+5a7e33|BeSO4, MgSO4 soluble because the high hydration enthalpy of Be^2+, Mg^2+ beats the lattice enthalpy.
+bfe814|Nitrates from carbonates + dilute HNO3; Mg(NO3)2·6H2O but anhydrous Ba(NO3)2 (hydration falls with size).
+5c14c4|All nitrates → oxide on heating (like LiNO3): 2M(NO3)2 → 2MO + 4NO2 + O2
+557e9c|**Hydroxide solubility increases down the group**: common anion, so lattice enthalpy falls faster than hydration enthalpy.
+2893f9|**Carbonate and sulphate solubility decreases down the group**: large anion keeps lattice enthalpy ~constant while hydration enthalpy falls.
+ad87b5|Be: very small, high ∆iH, so largely covalent compounds that hydrolyse easily.
+857d7f|**Be max coordination number 4** (only 4 valence orbitals); others reach 6 using d orbitals.
+133e93|Be oxide and hydroxide are amphoteric (others basic).
+c879b4|Be^2+ radius 31 pm; charge/radius ≈ Al^3+, hence Be ~ Al.
+0fd0e3|Be, like Al, resists acids (oxide film).
+b056ef|Be(OH)2 + excess alkali → [Be(OH)4]^2-, like Al(OH)3 → [Al(OH)4]^-.
+ba9f06|BeCl2 and AlCl3: Cl-bridged in vapour; soluble in organic solvents; strong Lewis acids; Friedel–Crafts catalysts.
+ebb73c|Both form complexes: BeF4^2-, AlF6^3-.
+9291f3|CaO: limestone heated in a rotary kiln at 1070–1270 K; CaCO3 → CaO + CO2; CO2 removed continuously to complete the reaction.
+bfd2a0|CaO: white amorphous, m.p. 2870 K; absorbs moisture and CO2 from air.
+43eebc|CaO + H2O → Ca(OH)2 (slaking); CaO + CO2 → CaCO3
+141bb9|Quick lime + soda → soda lime. Basic oxide: CaO + SiO2 → CaSiO3; 6CaO + P4O10 → 2Ca3(PO4)2
+403c84|CaO uses: cement (cheapest alkali), Na2CO3 from caustic soda, sugar purification, dyestuffs.
+edb54b|Ca(OH)2: CaO + water; white amorphous powder, sparingly soluble; solution = lime water, suspension = milk of lime.
+b3c32c|Lime water turns milky with CO2: Ca(OH)2 + CO2 → CaCO3 + H2O
+c51caf|Excess CO2 dissolves it: CaCO3 + CO2 + H2O → Ca(HCO3)2
+e04418|Bleaching powder: 2Ca(OH)2 + 2Cl2 → CaCl2 + Ca(OCl)2 + 2H2O
+6c94eb|Ca(OH)2 uses: mortar, whitewash (disinfectant), glass, tanning, bleaching powder, sugar purification.
+2191ba|CaCO3: limestone, chalk, marble; made from slaked lime + CO2 or CaCl2 + Na2CO3.
+9c09ab|Ca(OH)2 + CO2 → CaCO3 + H2O; CaCl2 + Na2CO3 → CaCO3 + 2NaCl. Avoid excess CO2 (soluble Ca(HCO3)2 forms).
+2748da|CaCO3: white fluffy powder, almost insoluble; decomposes at 1200 K giving CO2.
+6d796f|CaCO3 + 2HCl → CaCl2 + H2O + CO2; CaCO3 + H2SO4 → CaSO4 + H2O + CO2
+2a2800|CaCO3: marble, quick lime; with MgCO3 as flux in iron extraction.
+a0d919|Precipitated CaCO3: high-quality paper; antacid, toothpaste abrasive, chewing gum, cosmetic filler.
+8da5f9|**Plaster of Paris CaSO4·½H2O**: gypsum CaSO4·2H2O heated to 393 K. 2(CaSO4·2H2O) → 2(CaSO4)·H2O + 3H2O
+2af939|**Above 393 K: anhydrous CaSO4 = 'dead burnt plaster'.**
+8fdfb4|Sets with water into a hard solid in 5–15 min.
+de26c8|PoP uses: building, plasters, immobilising fractures, dentistry, ornamental casts.
+bd1ff9|-
+486978|Cement: lime-rich material (CaO) + clay (SiO2 with Al, Fe, Mg oxides).
+378800|Portland cement: CaO 50–60%, SiO2 20–25%, Al2O3 5–10%, MgO 2–3%, Fe2O3 1–2%, SO3 1–2%.
+96afba|Good cement: SiO2/Al2O3 = 2.5–4; CaO/(SiO2 + Al2O3 + Fe2O3) ≈ 2.
+2e82c6|Limestone + clay heated → clinker; clinker + 2–3% gypsum → cement.
+4c12b4|Ingredients: Ca2SiO4 26%, Ca3SiO5 51%, Ca3Al2O6 11%.
+30e81e|Setting: hydration and rearrangement; **gypsum only slows setting** so the cement hardens properly.
+4e869e|-
+2a6864|-
+3b21aa|-
+04319a|-
+0f0514|-
+f9525f|§Compounds of alkali metals§Oxides and hydroxides of alkali metals are water-soluble strong alkalies.
+7686e3|§Sodium hydroxide§NaOH by Castner-Kellner; Na2CO3 by Solvay.
+727712|§Compounds of alkaline earth metals§Group 2 differs from group 1 (smaller size, higher charge): oxides and hydroxides less basic.

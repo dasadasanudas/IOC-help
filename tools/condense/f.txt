@@ -1,0 +1,65 @@
+e3fab7|f-block: lanthanoids (14 after La) and actinoids (14 after Ac).
+176bac|La closely resembles the lanthanoids and is usually included; general symbol Ln.
+b12870|Lanthanoids resemble each other more closely than members of any transition series; only one stable oxidation state.
+1ee530|Actinoid chemistry is more complicated: wide range of oxidation states, plus radioactivity.
+dabf67|Ln atoms: 6s^2 common, variable 4f occupancy.
+45f0ce|**All Ln^3+ (most stable state) are 4f^n**, n = 1–14.
+d46960|Lanthanoid contraction: overall decrease in atomic and ionic radii La → Lu; big consequences for the third transition series.
+e8ae4b|**Atomic radii decrease less regularly than M^3+ radii.**
+1c33ce|Cause: imperfect shielding within the same sub-shell; 4f–4f shielding is worse than d–d.
+fc2144|Size decreases fairly regularly with Z.
+fa8112|Cumulative effect: third transition series radii ≈ second series.
+d1a6e4|**Zr 160 pm ≈ Hf 159 pm: occur together in nature, hard to separate.**
+6ff426|=
+83db6d|La(III) and Ln(III) dominate; +2 and +4 occasionally.
+61a424|Irregularity comes from extra stability of empty, half-filled or filled f subshell.
+38a20d|**Ce(IV): favoured by noble gas configuration, but a strong oxidant, reverts to +3.**
+843508|**E°(Ce^4+/Ce^3+) = +1.74 V, should oxidise water, but very slow → Ce(IV) is a good analytical reagent.**
+9ba2cc|**Pr, Nd, Tb, Dy show +4 only in oxides MO2.**
+e8c88c|**Eu^2+: loses two s electrons, f^7; strong reductant → +3.**
+afe9a6|**Yb^2+ (f^14) is a reductant. Tb(IV) (half-filled f) is an oxidant.**
+889632|Sm behaves like Eu: both +2 and +3.
+be3ae8|**Hardness increases with Z; Sm is steel hard.** m.p. 1000–1200 K, **but Sm 1623 K.**
+1289a3|Typical metallic structure; good conductors of heat and electricity.
+9d2fd0|**Density and other properties change smoothly except Eu and Yb (sometimes Sm, Tm).**
+6205c9|Many Ln^3+ coloured in solid and solution, due to f electrons.
+f378ca|**La^3+ and Lu^3+ colourless; the rest coloured. Bands narrow (f–f excitation).**
+856747|**All Ln ions paramagnetic except f^0 (La^3+, Ce^4+) and f^14 (Yb^2+, Lu^3+).**
+e326ce|IE1 ≈ 600, IE2 ≈ 1200 kJ mol^–1, comparable with Ca.
+7bc2fa|IE3 trends: exchange enthalpy gives stability to empty, half-filled, filled f (as for 3d).
+ed2a49|**Abnormally low IE3 for La, Gd, Lu.**
+7c61fc|Early members reactive like Ca; later ones more like Al.
+1a814f|**E°(Ln^3+/Ln) = –2.2 to –2.4 V, except Eu –2.0 V.**
+3125ab|=
+5861bf|Gentle heating in H2 → hydrides. With C: carbides Ln3C, Ln2C3, LnC2.
+a6d1ce|Liberate H2 from dilute acids; burn in halogens → halides. Form M2O3 and M(OH)3.
+9a587a|Hydroxides are definite compounds (not hydrated oxides), basic like alkaline earth ones.
+eaa32e|La and Ln: rather soft white metals.
+dd2bcf|React easily with water → +3 ions.
+cd2a98|-
+2d2c75|Main use: alloy steels for plates and pipes.
+a92bc2|**Mischmetall: ~95% Ln + ~5% Fe + traces of S, C, Ca, Al.** Used in Mg alloys for bullets, shells, lighter flint.
+46d451|Mixed Ln oxides: catalysts in petroleum cracking.
+5cf216|Some Ln oxides: phosphors in TV screens.
+008226|Actinoids: Th to Lr (14).
+afec20|All radioactive; early ones long half-lives, later ones down to 3 min (Lr, Z = 103).
+10b164|Later members made only in nanogram quantities.
+59d59e|Actinoids: 7s^2, variable 5f and 6d.
+d135ad|**14 electrons formally go into 5f, though not in Th; from Pa on, 5f fills, complete at 103.**
+56db08|Irregularities tied to stable f^0, f^7, f^14: **Am [Rn]5f^7 7s^2, Cm [Rn]5f^7 6d^1 7s^2.**
+926b45|5f has the same angular part as 4f but is less buried → 5f electrons bond far more.
+fbb005|Lanthanoid trends generally seen in actinoids too.
+95e598|**Actinoid contraction is greater per element than lanthanoid contraction** (poor 5f shielding).
+4406c5|Wider range of oxidation states: 5f, 6d, 7s comparable in energy.
+2e6b65|Generally +3; first half often shows higher states.
+0599d4|**Max state: Th +4, Pa +5, U +6, Np +7, then decreases.**
+fd6ffa|Like Ln, more +3 than +4 compounds; +3 and +4 ions tend to hydrolyse.
+1265ce|All silvery, but varied structures (metallic radii far more irregular than Ln).
+419c77|Highly reactive, especially finely divided; boiling water → oxide + hydride mixture; combine with most non-metals at moderate temperature.
+bf3404|**HCl attacks all; HNO3 barely (protective oxide layer); alkalies no action.**
+4ce8bd|Magnetism more complex than Ln; susceptibility vs unpaired 5f roughly parallels Ln, but Ln values are higher.
+f1758c|**IE of early actinoids lower than early lanthanoids.**
+217018|Reason: early 5f penetrates less, so 5f electrons are better shielded than 4f → held less firmly, available for bonding.
+ee8ab0|Lanthanoid-like behaviour only appears in the second half of the actinoids.
+977aa2|Even early actinoids resemble each other closely, with gradual variation in properties not involving oxidation-state change.
+f6cf19|Both contractions affect sizes of following elements; lanthanoid contraction matters more (post-actinoid chemistry little known).

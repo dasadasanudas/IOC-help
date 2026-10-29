@@ -1,0 +1,203 @@
+10a527|-
+eca9ea|-
+ab34d0|-
+6e2476|Werner: primary and secondary valence. Primary valence of CrCl3, CoCl2, PdCl2 = 3, 2, 2.
+5e5295|CoCl3·xNH3 series: excess AgNO3 in cold precipitates only some of the Cl^– as AgCl.
+39f8d0|Per mol AgCl: CoCl3·6NH3 (yellow) 3; CoCl3·5NH3 (purple) 2; CoCl3·4NH3 (green) 1; CoCl3·4NH3 (violet) 1.
+4b69c3|Secondary valence = groups bound directly to the metal; six in all these.
+ecfe6e|Green and violet CoCl3·4NH3: same formula, different properties → isomers.
+9d99fe|Primary valence: ionisable, satisfied by negative ions.
+3ddb2f|**Secondary valence: non-ionisable, satisfied by neutral molecules or anions; = coordination number, fixed for a metal.**
+d5735c|Secondary-linkage groups have fixed spatial arrangements → coordination polyhedra.
+d7e6bc|Inside the square bracket: coordination entity. Outside: counter ions.
+31459d|Octahedral, tetrahedral and square planar are the common shapes.
+dcb350|Octahedral: [Co(NH3)6]^3+, [CoCl(NH3)5]^2+, [CoCl2(NH3)4]^+. Tetrahedral: [Ni(CO)4]. Square planar: [PtCl4]^2–.
+df3ed0|=
+c852c2|**Double salts dissociate fully into simple ions in water:** carnallite KCl·MgCl2·6H2O, Mohr's salt FeSO4·(NH4)2SO4·6H2O, potash alum KAl(SO4)2·12H2O.
+32d591|**Complex ions don't:** [Fe(CN)6]^4– of K4[Fe(CN)6] does not give Fe^2+ and CN^–.
+4a2407|-
+e5085a|§Werner's theory§Primary and secondary linkages = ionisable (ionic) and non-ionisable (covalent) bonds.
+a3ab8b|Coordination entity: central metal atom/ion bonded to a fixed number of ions or molecules, e.g. [CoCl3(NH3)3].
+5d6ae4|=
+28c5e7|Central atom/ion: the one around which ligands sit in a definite geometry.
+bad65d|Central ions of [NiCl2(H2O)4], [CoCl(NH3)5]^2+, [Fe(CN)6]^3–: Ni^2+, Co^3+, Fe^3+. **Central atoms are Lewis acids.**
+98e101|Ligands: ions (Cl^–), small molecules (H2O, NH3), larger ones (H2NCH2CH2NH2, N(CH2CH2NH2)3), even proteins.
+057a7d|Unidentate: one donor atom (Cl^–, H2O, NH3).
+dad0ec|Didentate: H2NCH2CH2NH2 (en), C2O4^2– (ox). Polydentate: N(CH2CH2NH2)3.
+8b858e|**EDTA^4–: hexadentate, binds through 2 N and 4 O.**
+49e7a1|Chelate: di/polydentate ligand binds one metal through two or more donors at once. Denticity = number of ligating groups.
+8815df|**Chelate complexes are more stable than similar unidentate ones.**
+f89e97|Ambidentate: two different donor atoms, either binds: NO2^–, SCN^–.
+53ae0b|NO2^– binds via N or O; SCN^– via S or N.
+0be17e|CN = number of ligand donor atoms directly bonded to the metal.
+9e4d47|[PtCl6]^2–: CN 6. [Ni(NH3)4]^2+: CN 4.
+6fd5c3|[Fe(C2O4)3]^3– and [Co(en)3]^3+: CN 6 (didentate ligands).
+370e3b|**CN counts only σ bonds to the metal; π bonds are not counted.**
+584938|Coordination sphere: central atom + ligands in square brackets; ionisable groups outside = counter ions.
+e0bb5b|K4[Fe(CN)6]: sphere [Fe(CN)6]^4–, counter ion K^+.
+ec6adb|Coordination polyhedron: arrangement of donor atoms. [Co(NH3)6]^3+ octahedral, [Ni(CO)4] tetrahedral, [PtCl4]^2– square planar.
+5bb115|Oxidation number: charge left on the metal after removing all ligands with their shared pairs.
+71adcb|Written as a Roman numeral in parentheses after the entity's name.
+d243cc|[Cu(CN)4]^3–: Cu is +1, Cu(I).
+d71c75|**Homoleptic: one kind of donor group, [Co(NH3)6]^3+. Heteroleptic: more than one, [Co(NH3)4Cl2]^+.**
+b6ac3f|Mononuclear: one central metal atom.
+2866b7|Formula: central atom first, then ligands alphabetically, regardless of charge.
+2e0d3c|Polydentate ligands also alphabetical; abbreviations sorted by their first letter.
+7958fb|Whole entity in square brackets; polyatomic ligands and abbreviations in parentheses.
+b69b0f|No space between ligands and metal inside the sphere.
+35447d|Charge outside the bracket as right superscript, number before sign: [Co(CN)6]^3–, [Cr(H2O)6]^3+.
+fdcc0c|Names use additive nomenclature: ligands as prefixes with multipliers before the central atom.
+ae86e3|Cation named first. Ligands alphabetically before the metal (reverse of writing the formula).
+59db42|-
+52ea4e|Anionic ligands end in –o; neutral and cationic keep their names, **except aqua (H2O), ammine (NH3), carbonyl (CO), nitrosyl (NO).**
+0ecd41|Multipliers mono, di, tri; if the ligand name has a number in it, use bis, tris, tetrakis with the ligand in parentheses.
+02cc8c|[NiCl2(PPh3)2]: dichloridobis(triphenylphosphine)nickel(II).
+ded019|Metal oxidation state as a Roman numeral in parentheses.
+60165a|Cationic complex: metal keeps its name (cobalt, platinum). **Anionic complex: metal ends in –ate.**
+e01625|[Co(SCN)4]^2–: cobaltate. Latin names in anions, e.g. ferrate for Fe.
+0cdef9|IUPAC 2004: ligands sorted alphabetically regardless of charge.
+c32610|IUPAC 2004: anionic ligands end in –ido (chloro → chlorido).
+25dfa7|Neutral complex named like a complex cation.
+bf6b70|[Cr(NH3)3(H2O)3]Cl3: triamminetriaquachromium(III) chloride.
+7365fe|Ammine before aqua (alphabetical).
+0d6e10|Three Cl^– outside → complex is +3; all ligands neutral...
+a2c834|...so Cr is +3.
+446845|[Co(H2NCH2CH2NH2)3]2(SO4)3: tris(ethane-1,2-diamine)cobalt(III) sulphate.
+ee4931|3 sulphates for 2 cations → each +3; en neutral → Co(+3).
+1dea95|[Ag(NH3)2][Ag(CN)2]: diamminesilver(I) dicyanidoargentate(I).
+4888b4|=
+0132a5|=
+a8fdcf|Isomers: same formula, different arrangement of atoms.
+d89384|So they differ in one or more physical or chemical properties.
+2be54e|Two main types, each subdivided.
+ed2388|**Stereo: geometrical, optical. Structural: linkage, coordination, ionisation, solvate.**
+78f269|Stereoisomers: same bonds, different spatial arrangement. Structural isomers: different bonds.
+315e41|Geometrical isomerism: heteroleptic complexes; important for CN 4 and 6.
+d8487c|Square planar [MX2L2]: cis (X adjacent) and trans (X opposite).
+756d18|**Square planar MABXL: three isomers, two cis and one trans.**
+b151a8|**Not possible for tetrahedral.** Octahedral [MX2L4] also shows cis/trans.
+faabcd|Also [MX2(L–L)2] with didentate L–L, e.g. en.
+18f04e|[Ma3b3] octahedral, e.g. [Co(NH3)3(NO2)3]: **fac** (three same donors on one face) and **mer** (around the meridian).
+a04fd3|**Tetrahedral complexes show no geometrical isomerism** (all relative positions equivalent).
+d66da2|Optical isomers: non-superimposable mirror images, enantiomers.
+527524|Non-superimposable = chiral. d rotates plane-polarised light right, l left.
+b16653|Optical isomerism is common in octahedral complexes with didentate ligands.
+a590f6|**[PtCl2(en)2]^2+: only the cis isomer is optically active.**
+b4ddbf|Linkage isomerism: needs an ambidentate ligand.
+38eccd|NCS^–: M–NCS (via N) or M–SCN (via S).
+cf6f14|**[Co(NH3)5(NO2)]Cl2: red form has –ONO (O-bound), yellow form has –NO2 (N-bound).**
+b32aec|Coordination isomerism: ligands swap between cation and anion of different metals. [Co(NH3)6][Cr(CN)6] vs [Cr(NH3)6][Co(CN)6].
+ab61d0|Ionisation isomerism: counter ion is a potential ligand and swaps with a ligand. [Co(NH3)5(SO4)]Br vs [Co(NH3)5Br]SO4.
+023c46|**cis-[CrCl2(ox)2]^3– is chiral.**
+e40b5d|Solvate isomerism with water = hydrate isomerism; similar to ionisation isomerism.
+d87658|**Solvate isomers: solvent bonded to metal vs free in lattice. [Cr(H2O)6]Cl3 (violet) vs [Cr(H2O)5Cl]Cl2·H2O (grey-green).**
+23d8ac|§Valence bond theory§Bonding theories: VBT, CFT, LFT, MOT.
+a8bbf5|=
+bb498d|VBT: metal uses (n–1)d, ns, np or ns, np, nd orbitals to hybridise into equivalent orbitals of definite geometry.
+55989f|Hybrids overlap with ligand orbitals donating electron pairs.
+2e16cb|=
+94d070|Geometry can usually be predicted from magnetic behaviour.
+985e30|[Co(NH3)6]^3+: diamagnetic octahedral; Co(+3), 3d^6.
+de3399|Six NH3 pairs fill six hybrids → octahedral, no unpaired electrons, diamagnetic.
+1610e6|**Uses inner 3d (d^2sp^3) → inner orbital / low spin / spin paired.**
+375d2d|**[CoF6]^3–: paramagnetic, outer 4d (sp^3d^2) → outer orbital / high spin / spin free.**
+cece17|Tetrahedral: sp^3. [NiCl4]^2–: Ni(+2), 3d^8.
+63ce5b|Each Cl^– donates a pair; **two unpaired electrons, paramagnetic.**
+12624a|**[Ni(CO)4]: tetrahedral but diamagnetic (Ni is 0, no unpaired electrons).**
+3a3d65|Square planar: dsp^2. [Ni(CN)4]^2–: Ni(+2), 3d^8.
+2eaec4|Each hybrid takes a pair from CN^–; diamagnetic.
+b40d59|Hybrid orbitals don't actually exist: hybridisation is a mathematical manipulation of the wave equation.
+8f98fd|Ni(CO)4: Ni(0), CO pairs up the d electrons. [NiCl4]^2–: Ni(+2), **Cl^– is a weak ligand, can't pair them.**
+929208|With CN^– (strong ligand): 3d pair up, one unpaired left, d^2sp^3, inner orbital.
+a9f377|With H2O (weak ligand): no pairing, sp^3d^2, outer orbital, five unpaired, strongly paramagnetic.
+3a9ac0|With NH3: 3d pair up, two d orbitals free → d^2sp^3, inner orbital, as in [Co(NH3)6]^3+.
+352633|**[Ni(NH3)6]^2+: Ni(+2), d^8 → sp^3d^2, outer orbital complex.**
+5c371e|Square planar 5d complex (dsp^2): unpaired 5d electrons pair up to empty one d orbital → no unpaired electrons.
+b4751f|Magnetic susceptibility gives magnetic moment → unpaired electrons → structure.
+92bed9|First-series magnetic data show complications.
+eb154c|Up to d^3 (Ti^3+ d^1, V^3+ d^2, Cr^3+ d^3): two d orbitals free for octahedral hybridisation; complex and free ion behave alike magnetically.
+fc8948|Beyond d^3, two empty 3d orbitals aren't directly available (Hund).
+fdcb6c|d^4 (Cr^2+, Mn^3+), d^5 (Mn^2+, Fe^3+), d^6 (Fe^2+, Co^3+): pairing to free two orbitals leaves 2, 1, 0 unpaired.
+ca0511|**Max pairing fits many cases, especially d^6; d^4 and d^5 are complicated.**
+3739b1|**[Mn(CN)6]^3–: two unpaired. [MnCl6]^3–: four unpaired.**
+6a13e8|**[Fe(CN)6]^3–: one unpaired. [FeF6]^3–: five unpaired.**
+f49238|**[CoF6]^3–: paramagnetic, four unpaired. [Co(C2O4)3]^3–: diamagnetic.**
+6426d1|VBT explains this by inner vs outer orbital complexes.
+f42387|Inner orbital (d^2sp^3): [Mn(CN)6]^3–, [Fe(CN)6]^3– (paramagnetic), [Co(C2O4)3]^3– (diamagnetic).
+e6ad99|Outer orbital (sp^3d^2): [MnCl6]^3–, [FeF6]^3–, [CoF6]^3–, with 4, 5, 4 unpaired.
+5b2f93|**[MnBr4]^2–: 5.9 BM → five unpaired → tetrahedral (sp^3), not square planar.**
+48003c|VBT: many assumptions; no quantitative magnetic data.
+6c561e|No explanation of colour; no quantitative thermodynamic or kinetic stability.
+18a86a|**Can't exactly predict tetrahedral vs square planar for CN 4; doesn't distinguish weak and strong ligands.**
+5c0066|§Limitations of VBT§Werner's theory: no quantitative magnetic interpretation, nothing on optical properties.
+4a8393|CFT: electrostatic model; M–L bond purely ionic; ligands = point charges (anions) or point dipoles (neutral).
+7290d8|Isolated gaseous ion: five d degenerate; stays degenerate in a spherical field.
+0901ab|Ligand field is asymmetric → degeneracy lifted → d splitting.
+0e1041|Splitting pattern depends on the field.
+295e5c|Octahedral: metal d electrons repelled by ligand electrons/charges.
+884210|Repulsion is larger for d orbitals pointing at ligands.
+9a3333|**dx²–y², dz² (along axes) go up; dxy, dyz, dxz (between axes) go down.**
+ef7705|Octahedral: lower t2g (3), higher eg (2).
+11edfa|Crystal field splitting energy: Δo.
+04328f|**eg up by (3/5)Δo; t2g down by (2/5)Δo.**
+5e4f85|Δo depends on ligand field strength and metal ion charge: strong field → large splitting, weak field → small.
+aac76c|**Spectrochemical series: I^– < Br^– < SCN^– < Cl^– < S^2– < F^– < OH^– < C2O4^2– < H2O < NCS^– < edta^4– < NH3 < en < CN^– < CO.**
+105e2a|Experimental, from light absorption by complexes.
+87affa|-
+3868ea|d^1: one t2g. d^2, d^3: t2g singly (Hund).
+12ea21|d^4: 4th electron either pairs in t2g or goes to eg to avoid pairing energy.
+f4385b|Decided by Δo vs pairing energy P.
+432fb4|**Δo < P: t2g^3 eg^1; weak field ligands, high spin.**
+4c6df8|**Δo > P: t2g^4 eg^0; strong field ligands, low spin.**
+eb70de|d^4–d^7 are more stable in strong fields than weak.
+d7621f|**Tetrahedral splitting is inverted and smaller.**
+0f8ffc|**Δt = (4/9)Δo** (same metal, ligands, distances) → too small to force pairing; low spin tetrahedral is rare.
+93de9f|'g' subscript only for centrosymmetric (octahedral, square planar); not for tetrahedral.
+1b5b99|Complex colour = complement of absorbed light (green absorbed → red seen).
+0266d2|=
+39830a|[Ti(H2O)6]^3+: violet, octahedral, Ti^3+ 3d^1 in t2g.
+70365b|Absorbs blue-green → t2g^1 eg^0 → t2g^0 eg^1 → appears violet.
+bd9973|CFT: colour from d–d transitions.
+c00a2e|**No ligand, no splitting, colourless: heating [Ti(H2O)6]Cl3 to remove water makes it colourless.**
+43b2c0|**Anhydrous CuSO4 white; CuSO4·5H2O blue.**
+2874aa|Ligand effect: NiCl2 in water gives [Ni(H2O)6]^2+.
+ed4733|=
+536160|**Ruby: Al2O3 with 0.5–1% Cr^3+ (d^3)** in Al^3+ sites, octahedral Cr(III); d–d transitions give the colour.
+0c31b9|CFT largely explains formation, structure, colour and magnetism.
+2892ea|**Emerald: Cr^3+ in octahedral sites of beryl Be3Al2Si6O18**; bands shift to longer wavelength (yellow-red, blue), green transmitted.
+4b571d|**Point-charge CFT predicts anionic ligands split most, yet they sit at the low end of the spectrochemical series.**
+1ee0bc|CFT ignores covalent character; LFT and MOT handle it.
+1753b5|Homoleptic carbonyls (CO only): most transition metals; simple, defined structures.
+324e41|**Ni(CO)4 tetrahedral; Fe(CO)5 trigonal bipyramidal; Cr(CO)6 octahedral.**
+a1467d|**Mn2(CO)10: two square pyramidal Mn(CO)5 joined by Mn–Mn.**
+a735e8|**Co2(CO)8: Co–Co bond bridged by two CO.**
+afafe5|M–C has σ and π character. σ: C lone pair → vacant metal orbital.
+5949c8|π: filled metal d → vacant π* of CO.
+ffc7c4|Synergic effect strengthens the M–CO bond.
+47fb45|L → M σ, M → L π; synergic bonding stabilises carbonyls.
+2a3368|Colour reactions with (chelating) ligands → detection and estimation: EDTA, DMG, α-nitroso-β-naphthol, cupron.
+fbb3c3|**Water hardness: titrate with Na2EDTA**; Ca^2+ and Mg^2+ estimated selectively (different stability constants).
+868b39|**Au extraction: Au + CN^– + O2 + H2O → [Au(CN)2]^–; Zn added to recover Au.** (Ag similarly.)
+d00b9c|**Ni purification: impure Ni → [Ni(CO)4] → decomposed to pure Ni.**
+731144|Chlorophyll: Mg complex. Haemoglobin: Fe complex.
+75aa2a|Vitamin B12 (cyanocobalamine): Co complex.
+5ea6b1|Metal-containing enzymes: carboxypeptidase A, carbonic anhydrase.
+822334|**Wilkinson catalyst [(Ph3P)3RhCl]: hydrogenation of alkenes.**
+90aaa4|Ag and Au electroplate more smoothly from [Ag(CN)2]^– and [Au(CN)2]^– than from simple ions.
+310c8d|**Photography: hypo dissolves undecomposed AgBr as [Ag(S2O3)2]^3–.**
+617b6d|Excess Cu and Fe removed by chelators D-penicillamine and desferrioxime B.
+dc23bd|EDTA: lead poisoning treatment.
+6f5ef3|cis-platin and related Pt compounds inhibit tumours.
+2588d6|-
+3079b0|-
+91a319|-
+c9af63|=
+efec92|=
+25538d|=
+bbc22e|=
+dd01e8|=
+abcfa6|=
+8e0951|Excess KCN + aqueous CuSO4: a cyanide complex forms; passing H2S gives no CuS precipitate.
+3d497d|=
+bbdf63|=
+1045c3|=
